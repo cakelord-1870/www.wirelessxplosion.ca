@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wirelessxplosion.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wirelessxplosion.ca/collections/mercury-sale.atom"/>
+  <title>Wireless Xplosion Ltd</title>
+  <updated>2018-05-24T18:37:44-04:00</updated>
+  <author>
+    <name>Wireless Xplosion Ltd</name>
+  </author>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375373852790</id>
+    <published>2018-05-24T18:37:44-04:00</published>
+    <updated>2018-05-24T18:37:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/mercury-goospery-rich-diary-iphone-6-mint-navy"/>
+    <title>Rich Diary - iPhone 6S &amp; 6 - Navy/Lime</title>
+    <s:type></s:type>
+    <s:vendor>Mercury Goospery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/MR-RD-iP6-NL.jpg?v=1571715723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mercury Goospery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>2-in-1 design with Detachable Slim magnetic case.</li>
+<li>The slim case is convertible into a stand</li>
+<li>2 credit card slots and a compartment for cash</li>
+<li>Protects card information from being stolen with RFID shielding technology.</li>
+<li>Wireless charger and Magnetic car mount compatible.</li>
+<li>BPA free no animal being killed making this case</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Mercury Goospery</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Device_iPhone 6S &amp; 6</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375373852790</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>MR-RD-iP6-NL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375373688950</id>
+    <published>2018-05-24T18:37:42-04:00</published>
+    <updated>2018-05-24T18:37:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/mercury-goospery-rich-diary-galaxy-s8-mint"/>
+    <title>Rich Diary - Galaxy S8 - Mint</title>
+    <s:type></s:type>
+    <s:vendor>Mercury Goospery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/77c3bb376fcc73d871b716e7c5dda2f7_490_490_72881.jpg?v=1571715723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mercury Goospery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Mercury Goospery</s:tag>
+    <s:tag>Device_Samung S8</s:tag>
+    <s:tag>sale_80%_group</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375373688950</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>MR-RD-GS8-MN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375373656182</id>
+    <published>2018-05-24T18:37:42-04:00</published>
+    <updated>2018-05-24T18:37:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/mercury-goospery-rich-diary-galaxy-s8-black"/>
+    <title>Rich Diary - Galaxy S8 - Black</title>
+    <s:type></s:type>
+    <s:vendor>Mercury Goospery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/10126655a-3.jpg?v=1571715723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mercury Goospery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Mercury Goospery</s:tag>
+    <s:tag>Device_Samung S8</s:tag>
+    <s:tag>sale_80%_group</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375373656182</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>MR-RD-GS8-BB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

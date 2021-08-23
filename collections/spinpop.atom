@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wirelessxplosion.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wirelessxplosion.ca/collections/spinpop.atom"/>
+  <title>Wireless Xplosion Ltd</title>
+  <updated>2019-04-29T12:23:03-04:00</updated>
+  <author>
+    <name>Wireless Xplosion Ltd</name>
+  </author>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375381880950</id>
+    <published>2019-04-29T12:23:03-04:00</published>
+    <updated>2019-04-29T12:23:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/spinpop-cell-phone-holder"/>
+    <title>Spinpop Cell Phone Holder</title>
+    <s:type></s:type>
+    <s:vendor>Spinpop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/spop.jpg?v=1571715724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spinpop<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Spin Pop is compact and in pop up mode. It provides secure grip texting and selfie. It can be used as a cable organizer for headphones and USB. Also a comfortable stand for video chat and movies. You can grip your phone no matter where you are and what you are doing.<br><b>Easy to install</b><br>Pull the holder on one side gently!<br>Tear the adhesive film under the base, then you can attach your phone on.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>80off_bds</s:tag>
+    <s:tag>BF</s:tag>
+    <s:tag>Collection_SpinPop</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375381880950</id>
+      <title>Wink</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>SP17-EMOJ-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375381880950</id>
+      <title>Metal Pink</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>SP18-ETC-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375381880950</id>
+      <title>Mirror Pink</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>SP18-MIR-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375381880950</id>
+      <title>Mandala</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>SP17-TRD2-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375381880950</id>
+      <title>Nebula</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>SP17-NEB-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375381880950</id>
+      <title>Love</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>SP18-DCWOW-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375381880950</id>
+      <title>Red Lace</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>SP18-MIX1-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375381880950</id>
+      <title>Sparkle</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>SP18-TXT3-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375381880950</id>
+      <title>Marble Grey</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>SP17-MRBL-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375381880950</id>
+      <title>Marble Beige</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>SP18-MRBL-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375381880950</id>
+      <title>Marble Pink</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>SP18-MRBL-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375381880950</id>
+      <title>Marble White</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>SP17-MRBL-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375381880950</id>
+      <title>Marble Gold</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>SP18-MRBL-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375381880950</id>
+      <title>Marble Peach</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>SP18-MRBL-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375381880950</id>
+      <title>Red Hearts</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>SP17-PTRN-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375381880950</id>
+      <title>Gold Texture</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>SP18-TXT2-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375381880950</id>
+      <title>Pink Texture</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>SP18-TXT2-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375381880950</id>
+      <title>Waves</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>SP18-MIX2-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375381880950</id>
+      <title>Glitter Rose</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>SP18-DCWOW-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375381880950</id>
+      <title>Glitter Heart</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>SP18-DCWOW-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375381880950</id>
+      <title>Llamazing Llama</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>SP18-WM-DCWOW-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375381880950</id>
+      <title>Red Rose</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>SP18-CUST1-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375381880950</id>
+      <title>Geometry Marble</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>SP18-MRBL-ART2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375381880950</id>
+      <title>Elephant</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>SP17-TRD2-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

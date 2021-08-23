@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wirelessxplosion.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wirelessxplosion.ca/collections/vent-mounts.atom"/>
+  <title>Wireless Xplosion Ltd</title>
+  <updated>2018-11-01T12:51:10-04:00</updated>
+  <author>
+    <name>Wireless Xplosion Ltd</name>
+  </author>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/2299778629750</id>
+    <published>2018-11-01T12:51:10-04:00</published>
+    <updated>2018-11-01T12:51:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/simpl-cradle-air-vent-mount"/>
+    <title>Simpl Cradle - Air Vent Mount</title>
+    <s:type>Car Mount</s:type>
+    <s:vendor>Mighty Mount</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/cradle-mokcup-grey_bg_fa74f026-7412-4990-9372-2feeccfdb831.jpg?v=1571715728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mighty Mount<br>
+        <strong>Type: </strong>Car Mount<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="560" height="315" align="center" src="https://youtu.be/76WFuX8Ky7A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<ul style="list-style: unset;">
+<li style="font-weight: 400;">
+<b>Cradle feet and Adjustable Holder Grips</b><span style="font-weight: 400;"> secure your phone like a fortress for the most durable, no-slip grip you can count on.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Universally compatible</b><span style="font-weight: 400;"> with an adjustable cradle of 2.1-3.9 inches for the biggest of smartphones or cases.  </span>
+</li>
+<li style="font-weight: 400;">
+<b>Wide range of tilt and rotation</b><span style="font-weight: 400;"> means you can always have the perfect view of your screen, whether you’re reclined in cruise control or up-front and center.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Compatible Vent Grip</b><span style="font-weight: 400;"> adheres to any car vent so you get it right the first time.</span>
+</li>
+<li>
+<b>Talk and drive safely</b><span> with hands-free connectivity that offers ultimate security for you and your passengers while you enjoy the journey.</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Device_Blackberry Key2</s:tag>
+    <s:tag>Device_BlackBerry KeyOne</s:tag>
+    <s:tag>Device_BlackBerry Motion</s:tag>
+    <s:tag>Device_Google Pixel 2</s:tag>
+    <s:tag>Device_Google Pixel 2 XL</s:tag>
+    <s:tag>Device_Google Pixel 3</s:tag>
+    <s:tag>Device_Google Pixel 3a</s:tag>
+    <s:tag>Device_Google Pixel 3a XL</s:tag>
+    <s:tag>Device_Google Pixel 4</s:tag>
+    <s:tag>Device_Google Pixel 4 XL</s:tag>
+    <s:tag>Device_Google Pixel 4a</s:tag>
+    <s:tag>Device_Google Pixel 4a XL</s:tag>
+    <s:tag>Device_Google Pixel 5</s:tag>
+    <s:tag>Device_Google Pixel XL</s:tag>
+    <s:tag>Device_Huawei Mate 20 Pro</s:tag>
+    <s:tag>Device_Huawei P10</s:tag>
+    <s:tag>Device_Huawei P10 Lite</s:tag>
+    <s:tag>Device_Huawei P10 Plus</s:tag>
+    <s:tag>Device_Huawei P20</s:tag>
+    <s:tag>Device_Huawei P20 Lite</s:tag>
+    <s:tag>Device_Huawei P20 Pro</s:tag>
+    <s:tag>Device_Huawei P30</s:tag>
+    <s:tag>Device_Huawei P30 Lite</s:tag>
+    <s:tag>Device_Huawei P30 Pro</s:tag>
+    <s:tag>Device_Huawei P40 Pro</s:tag>
+    <s:tag>Device_iPhone 11</s:tag>
+    <s:tag>Device_iPhone 11 Pro</s:tag>
+    <s:tag>Device_iPhone 11 Pro Max</s:tag>
+    <s:tag>Device_iPhone 12 6.1 Inch</s:tag>
+    <s:tag>Device_iPhone 12 mini</s:tag>
+    <s:tag>Device_iPhone 12 Pro Max</s:tag>
+    <s:tag>Device_iPhone 6S &amp; 6</s:tag>
+    <s:tag>Device_iPhone 6S &amp; 6 Plus</s:tag>
+    <s:tag>Device_iPhone 8 &amp; 7</s:tag>
+    <s:tag>Device_iPhone 8 &amp; 7 Plus</s:tag>
+    <s:tag>Device_iPhone SE</s:tag>
+    <s:tag>Device_iPhone SE &amp; 5S</s:tag>
+    <s:tag>Device_iPhone XR</s:tag>
+    <s:tag>Device_iPhone XS &amp; X</s:tag>
+    <s:tag>Device_iPhone XS Max</s:tag>
+    <s:tag>Device_LG G5</s:tag>
+    <s:tag>Device_LG G6</s:tag>
+    <s:tag>Device_LG G7 ThinQ</s:tag>
+    <s:tag>Device_LG G8</s:tag>
+    <s:tag>Device_LG G8 ThinQ</s:tag>
+    <s:tag>Device_LG G8X ThinQ</s:tag>
+    <s:tag>Device_LG K20</s:tag>
+    <s:tag>Device_LG K30</s:tag>
+    <s:tag>Device_LG Q Stylo +</s:tag>
+    <s:tag>Device_LG Q Stylo Plus</s:tag>
+    <s:tag>Device_LG Q60</s:tag>
+    <s:tag>Device_LG Stylo 3 Plus</s:tag>
+    <s:tag>Device_LG V30</s:tag>
+    <s:tag>Device_LG V60 ThinQ</s:tag>
+    <s:tag>Device_LG Velvet 5G</s:tag>
+    <s:tag>Device_LG X Power 2</s:tag>
+    <s:tag>Device_LG X Power 3</s:tag>
+    <s:tag>Device_Moto E4</s:tag>
+    <s:tag>Device_Moto G Play</s:tag>
+    <s:tag>Device_Moto Z2 Play</s:tag>
+    <s:tag>Device_Pixel</s:tag>
+    <s:tag>Device_Samsung 20</s:tag>
+    <s:tag>Device_Samsung 20 Plus</s:tag>
+    <s:tag>Device_Samsung A10e</s:tag>
+    <s:tag>Device_Samsung A11</s:tag>
+    <s:tag>Device_Samsung A12</s:tag>
+    <s:tag>Device_Samsung A20</s:tag>
+    <s:tag>Device_Samsung A21</s:tag>
+    <s:tag>Device_Samsung A32</s:tag>
+    <s:tag>Device_Samsung A5 (2017)</s:tag>
+    <s:tag>Device_Samsung A50</s:tag>
+    <s:tag>Device_Samsung A51</s:tag>
+    <s:tag>Device_Samsung A52</s:tag>
+    <s:tag>Device_Samsung A70</s:tag>
+    <s:tag>Device_Samsung A71</s:tag>
+    <s:tag>Device_Samsung A8</s:tag>
+    <s:tag>Device_Samsung Galaxy S20</s:tag>
+    <s:tag>Device_Samsung Galaxy S20 Plus</s:tag>
+    <s:tag>Device_Samsung J3 Prime</s:tag>
+    <s:tag>Device_Samsung J3(2018)</s:tag>
+    <s:tag>Device_Samsung Note 10</s:tag>
+    <s:tag>Device_Samsung Note 10 Plus</s:tag>
+    <s:tag>Device_Samsung Note 20</s:tag>
+    <s:tag>Device_Samsung Note 20 Ultra 5G</s:tag>
+    <s:tag>Device_Samsung Note 8</s:tag>
+    <s:tag>Device_Samsung Note 9</s:tag>
+    <s:tag>Device_Samsung S10</s:tag>
+    <s:tag>Device_Samsung S10 Lite</s:tag>
+    <s:tag>Device_Samsung S10 Plus</s:tag>
+    <s:tag>Device_Samsung S20</s:tag>
+    <s:tag>Device_Samsung S20 FE</s:tag>
+    <s:tag>Device_Samsung S20 Plus</s:tag>
+    <s:tag>Device_Samsung S20 Ultra</s:tag>
+    <s:tag>Device_Samsung S21</s:tag>
+    <s:tag>Device_Samsung S21 Plus</s:tag>
+    <s:tag>Device_Samsung S21 Ultra</s:tag>
+    <s:tag>Device_Samsung S5 Neo</s:tag>
+    <s:tag>Device_Samsung S6</s:tag>
+    <s:tag>Device_Samsung S7</s:tag>
+    <s:tag>Device_Samsung S8</s:tag>
+    <s:tag>Device_Samsung S8 Plus</s:tag>
+    <s:tag>Device_Samsung S9</s:tag>
+    <s:tag>Device_Samsung S9 Plus</s:tag>
+    <s:tag>Device_TCL 10L</s:tag>
+    <s:tag>Device_TCL 20 Pro 5G</s:tag>
+    <s:tag>Device_TCL 20S</s:tag>
+    <s:tag>Mounts</s:tag>
+    <s:tag>sask</s:tag>
+    <s:tag>Type_Vent Mount</s:tag>
+    <s:tag>Vent Mount</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2299778629750</id>
+      <title>Vent Mount</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>M4540V</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/2299646279798</id>
+    <published>2018-11-01T12:51:10-04:00</published>
+    <updated>2018-11-01T12:51:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/simpl-touch-air-vent-mount"/>
+    <title>Simpl Touch - Magnetic Air Vent Mount</title>
+    <s:type>Car Mount</s:type>
+    <s:vendor>Mighty Mount</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/magnet-mockup-grey_bg_7b86efef-6551-41d3-8173-ddfbd566c1ba.jpg?v=1571715728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mighty Mount<br>
+        <strong>Type: </strong>Car Mount<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/uci4dxrkck" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div>
+<ul style="list-style:unset;">
+<li style="font-weight: 400;">
+<b>Ultimate ease</b><span style="font-weight: 400;"> now delivered with this smooth luxury-  just one simple touch and your phone is secured to put your pedal to the metal.</span>
+</li>
+<li style="font-weight: 400;">
+<b>6 Neodymium Magnets</b><span style="font-weight: 400;"> make this the strongest hold on the market, and you the savviest driver on the road. </span>
+</li>
+<li style="font-weight: 400;">
+<b>Compatibility </b><span style="font-weight: 400;">with all case-free phones, as well as any with thin profile cases up to .8mm thick (Caseco Skin Shield, Fremont cases, Otterbox Symmetry, Speck cases, and most UAG cases are all compatible with the magnet mount.)</span>
+</li>
+<li style="font-weight: 400;">
+<b>Wide range of tilt and rotation</b><span style="font-weight: 400;"> means you can always have the perfect view of your screen, whether you’re reclined in cruise control or up-front and center.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Compatible Vent Grip </b><span style="font-weight: 400;">secures your phone like a fortress to any car vent for a no-slip grip you can count on. </span>
+</li>
+<li style="font-weight: 400;">
+<b>Talk and drive safely</b><span style="font-weight: 400;"> with hands-free connectivity that offers ultimate security for you and your passengers while you enjoy the journey.</span>
+</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Device_Blackberry Key2</s:tag>
+    <s:tag>Device_BlackBerry KeyOne</s:tag>
+    <s:tag>Device_BlackBerry Motion</s:tag>
+    <s:tag>Device_Google Pixel 2</s:tag>
+    <s:tag>Device_Google Pixel 2 XL</s:tag>
+    <s:tag>Device_Google Pixel 3</s:tag>
+    <s:tag>Device_Google Pixel 3a</s:tag>
+    <s:tag>Device_Google Pixel 3a XL</s:tag>
+    <s:tag>Device_Google Pixel 4</s:tag>
+    <s:tag>Device_Google Pixel 4 XL</s:tag>
+    <s:tag>Device_Google Pixel 4a</s:tag>
+    <s:tag>Device_Google Pixel 4a XL</s:tag>
+    <s:tag>Device_Google Pixel 5</s:tag>
+    <s:tag>Device_Google Pixel XL</s:tag>
+    <s:tag>Device_Huawei Mate 20 Pro</s:tag>
+    <s:tag>Device_Huawei P10</s:tag>
+    <s:tag>Device_Huawei P10 Lite</s:tag>
+    <s:tag>Device_Huawei P10 Plus</s:tag>
+    <s:tag>Device_Huawei P20</s:tag>
+    <s:tag>Device_Huawei P20 Lite</s:tag>
+    <s:tag>Device_Huawei P20 Pro</s:tag>
+    <s:tag>Device_Huawei P30</s:tag>
+    <s:tag>Device_Huawei P30 Lite</s:tag>
+    <s:tag>Device_Huawei P30 Pro</s:tag>
+    <s:tag>Device_Huawei P40 Pro</s:tag>
+    <s:tag>Device_iPhone 11</s:tag>
+    <s:tag>Device_iPhone 11 Pro</s:tag>
+    <s:tag>Device_iPhone 11 Pro Max</s:tag>
+    <s:tag>Device_iPhone 6S &amp; 6</s:tag>
+    <s:tag>Device_iPhone 6S &amp; 6 Plus</s:tag>
+    <s:tag>Device_iPhone 8 &amp; 7</s:tag>
+    <s:tag>Device_iPhone 8 &amp; 7 Plus</s:tag>
+    <s:tag>Device_iPhone SE</s:tag>
+    <s:tag>Device_iPhone SE &amp; 5S</s:tag>
+    <s:tag>Device_iPhone XR</s:tag>
+    <s:tag>Device_iPhone XS &amp; X</s:tag>
+    <s:tag>Device_iPhone XS Max</s:tag>
+    <s:tag>Device_LG G5</s:tag>
+    <s:tag>Device_LG G6</s:tag>
+    <s:tag>Device_LG G7 ThinQ</s:tag>
+    <s:tag>Device_LG G8</s:tag>
+    <s:tag>Device_LG G8 ThinQ</s:tag>
+    <s:tag>Device_LG G8X ThinQ</s:tag>
+    <s:tag>Device_LG K20</s:tag>
+    <s:tag>Device_LG K30</s:tag>
+    <s:tag>Device_LG Q Stylo +</s:tag>
+    <s:tag>Device_LG Q Stylo Plus</s:tag>
+    <s:tag>Device_LG Q60</s:tag>
+    <s:tag>Device_LG Stylo 3 Plus</s:tag>
+    <s:tag>Device_LG V30</s:tag>
+    <s:tag>Device_LG V60 ThinQ</s:tag>
+    <s:tag>Device_LG Velvet 5G</s:tag>
+    <s:tag>Device_LG X Power 2</s:tag>
+    <s:tag>Device_LG X Power 3</s:tag>
+    <s:tag>Device_Moto E4</s:tag>
+    <s:tag>Device_Moto G Play</s:tag>
+    <s:tag>Device_Moto Z2 Play</s:tag>
+    <s:tag>Device_Pixel</s:tag>
+    <s:tag>Device_Samsung 20</s:tag>
+    <s:tag>Device_Samsung 20 Plus</s:tag>
+    <s:tag>Device_Samsung A10e</s:tag>
+    <s:tag>Device_Samsung A11</s:tag>
+    <s:tag>Device_Samsung A12</s:tag>
+    <s:tag>Device_Samsung A20</s:tag>
+    <s:tag>Device_Samsung A21</s:tag>
+    <s:tag>Device_Samsung A32</s:tag>
+    <s:tag>Device_Samsung A5 (2017)</s:tag>
+    <s:tag>Device_Samsung A50</s:tag>
+    <s:tag>Device_Samsung A51</s:tag>
+    <s:tag>Device_Samsung A52</s:tag>
+    <s:tag>Device_Samsung A70</s:tag>
+    <s:tag>Device_Samsung A71</s:tag>
+    <s:tag>Device_Samsung A8</s:tag>
+    <s:tag>Device_Samsung Galaxy S20</s:tag>
+    <s:tag>Device_Samsung Galaxy S20 Plus</s:tag>
+    <s:tag>Device_Samsung J3 Prime</s:tag>
+    <s:tag>Device_Samsung J3(2018)</s:tag>
+    <s:tag>Device_Samsung Note 10</s:tag>
+    <s:tag>Device_Samsung Note 10 Plus</s:tag>
+    <s:tag>Device_Samsung Note 20</s:tag>
+    <s:tag>Device_Samsung Note 20 Ultra 5G</s:tag>
+    <s:tag>Device_Samsung Note 8</s:tag>
+    <s:tag>Device_Samsung Note 9</s:tag>
+    <s:tag>Device_Samsung S10</s:tag>
+    <s:tag>Device_Samsung S10 Lite</s:tag>
+    <s:tag>Device_Samsung S10 Plus</s:tag>
+    <s:tag>Device_Samsung S20</s:tag>
+    <s:tag>Device_Samsung S20 FE</s:tag>
+    <s:tag>Device_Samsung S20 Plus</s:tag>
+    <s:tag>Device_Samsung S20 Ultra</s:tag>
+    <s:tag>Device_Samsung S21</s:tag>
+    <s:tag>Device_Samsung S21 Plus</s:tag>
+    <s:tag>Device_Samsung S21 Ultra</s:tag>
+    <s:tag>Device_Samsung S5 Neo</s:tag>
+    <s:tag>Device_Samsung S6</s:tag>
+    <s:tag>Device_Samsung S7</s:tag>
+    <s:tag>Device_Samsung S8</s:tag>
+    <s:tag>Device_Samsung S8 Plus</s:tag>
+    <s:tag>Device_Samsung S9</s:tag>
+    <s:tag>Device_Samsung S9 Plus</s:tag>
+    <s:tag>Device_Samsung Xcover 4</s:tag>
+    <s:tag>Device_Samung S6</s:tag>
+    <s:tag>Device_Samung S8</s:tag>
+    <s:tag>Device_TCL 10L</s:tag>
+    <s:tag>Device_TCL 20 Pro 5G</s:tag>
+    <s:tag>Device_TCL 20S</s:tag>
+    <s:tag>Magnetic Mount</s:tag>
+    <s:tag>Mounts</s:tag>
+    <s:tag>sask</s:tag>
+    <s:tag>Type_Vent Mount</s:tag>
+    <s:tag>Vent Mount</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2299646279798</id>
+      <title>Vent Mount</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>M3540V</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/2299598962806</id>
+    <published>2018-11-01T12:51:10-04:00</published>
+    <updated>2018-11-01T12:51:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/simpl-grip-air-vent-mount"/>
+    <title>Simpl Grip - Air Vent Mount</title>
+    <s:type>Car Mount</s:type>
+    <s:vendor>Mighty Mount</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/grip-mockup-grey_bg_b9021cb4-7d29-4118-8957-3bcccdd76b53.jpg?v=1571715728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mighty Mount<br>
+        <strong>Type: </strong>Car Mount<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="560" height="315" align="center" src="https://youtu.be/8C7RhWTnOm4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div>
+<ul style="list-style: unset;">
+<li style="font-weight: 400;">
+<b>One-Touch Button Grip</b><span style="font-weight: 400;"> lets you adjust the width of the grip with one simple touch of a button, so your phone can smoothly glide in with no-muss, no-fuss.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Universally compatible</b><span style="font-weight: 400;"> with all phones and cases alike, so should you snag the latest phone upgrade or splurge on a fresh new case, you’re always covered.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Wide range of tilt and rotation</b><span style="font-weight: 400;"> means you can always have the perfect view of your screen, whether you’re reclined in cruise control or up-front and center.</span>
+</li>
+<li style="font-weight: 400;">
+<b>Compatible Vent Grip </b><span style="font-weight: 400;">secures your phone like a fortress to any car vent for a no-slip grip you can count on. </span>
+</li>
+<li>
+<b>Talk and drive safely</b><span> with hands-free connectivity that offers ultimate security for you and your passengers while you enjoy the journey.</span>
+</li>
+</ul>
+<p> </p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Device_Blackberry Key2</s:tag>
+    <s:tag>Device_BlackBerry KeyOne</s:tag>
+    <s:tag>Device_BlackBerry Motion</s:tag>
+    <s:tag>Device_Google Pixel 2</s:tag>
+    <s:tag>Device_Google Pixel 2 XL</s:tag>
+    <s:tag>Device_Google Pixel 3</s:tag>
+    <s:tag>Device_Google Pixel 3a</s:tag>
+    <s:tag>Device_Google Pixel 3a XL</s:tag>
+    <s:tag>Device_Google Pixel 4</s:tag>
+    <s:tag>Device_Google Pixel 4 XL</s:tag>
+    <s:tag>Device_Google Pixel 4a</s:tag>
+    <s:tag>Device_Google Pixel 4a XL</s:tag>
+    <s:tag>Device_Google Pixel 5</s:tag>
+    <s:tag>Device_Google Pixel XL</s:tag>
+    <s:tag>Device_Huawei Mate 20 Pro</s:tag>
+    <s:tag>Device_Huawei P10</s:tag>
+    <s:tag>Device_Huawei P10 Lite</s:tag>
+    <s:tag>Device_Huawei P10 Plus</s:tag>
+    <s:tag>Device_Huawei P20</s:tag>
+    <s:tag>Device_Huawei P20 Lite</s:tag>
+    <s:tag>Device_Huawei P20 Pro</s:tag>
+    <s:tag>Device_Huawei P30</s:tag>
+    <s:tag>Device_Huawei P30 Lite</s:tag>
+    <s:tag>Device_Huawei P30 Pro</s:tag>
+    <s:tag>Device_Huawei P40 Pro</s:tag>
+    <s:tag>Device_iPhone 11</s:tag>
+    <s:tag>Device_iPhone 11 Pro</s:tag>
+    <s:tag>Device_iPhone 11 Pro Max</s:tag>
+    <s:tag>Device_iPhone 12 6.1 Inch</s:tag>
+    <s:tag>Device_iPhone 12 mini</s:tag>
+    <s:tag>Device_iPhone 12 Pro Max</s:tag>
+    <s:tag>Device_iPhone 6S &amp; 6</s:tag>
+    <s:tag>Device_iPhone 6S &amp; 6 Plus</s:tag>
+    <s:tag>Device_iPhone 8 &amp; 7</s:tag>
+    <s:tag>Device_iPhone 8 &amp; 7 Plus</s:tag>
+    <s:tag>Device_iPhone SE</s:tag>
+    <s:tag>Device_iPhone SE &amp; 5S</s:tag>
+    <s:tag>Device_iPhone XR</s:tag>
+    <s:tag>Device_iPhone XS &amp; X</s:tag>
+    <s:tag>Device_iPhone XS Max</s:tag>
+    <s:tag>Device_LG G5</s:tag>
+    <s:tag>Device_LG G6</s:tag>
+    <s:tag>Device_LG G7 ThinQ</s:tag>
+    <s:tag>Device_LG G8</s:tag>
+    <s:tag>Device_LG G8 ThinQ</s:tag>
+    <s:tag>Device_LG G8X ThinQ</s:tag>
+    <s:tag>Device_LG K20</s:tag>
+    <s:tag>Device_LG K30</s:tag>
+    <s:tag>Device_LG Q Stylo +</s:tag>
+    <s:tag>Device_LG Q Stylo Plus</s:tag>
+    <s:tag>Device_LG Q60</s:tag>
+    <s:tag>Device_LG Stylo 3 Plus</s:tag>
+    <s:tag>Device_LG V30</s:tag>
+    <s:tag>Device_LG V60 ThinQ</s:tag>
+    <s:tag>Device_LG Velvet 5G</s:tag>
+    <s:tag>Device_LG X Power 2</s:tag>
+    <s:tag>Device_LG X Power 3</s:tag>
+    <s:tag>Device_Moto E4</s:tag>
+    <s:tag>Device_Moto G Play</s:tag>
+    <s:tag>Device_Moto Z2 Play</s:tag>
+    <s:tag>Device_Pixel</s:tag>
+    <s:tag>Device_Samsung 20</s:tag>
+    <s:tag>Device_Samsung 20 Plus</s:tag>
+    <s:tag>Device_Samsung A10e</s:tag>
+    <s:tag>Device_Samsung A11</s:tag>
+    <s:tag>Device_Samsung A12</s:tag>
+    <s:tag>Device_Samsung A20</s:tag>
+    <s:tag>Device_Samsung A21</s:tag>
+    <s:tag>Device_Samsung A32</s:tag>
+    <s:tag>Device_Samsung A5 (2017)</s:tag>
+    <s:tag>Device_Samsung A50</s:tag>
+    <s:tag>Device_Samsung A51</s:tag>
+    <s:tag>Device_Samsung A52</s:tag>
+    <s:tag>Device_Samsung A70</s:tag>
+    <s:tag>Device_Samsung A71</s:tag>
+    <s:tag>Device_Samsung A8</s:tag>
+    <s:tag>Device_Samsung Galaxy S20</s:tag>
+    <s:tag>Device_Samsung Galaxy S20 Plus</s:tag>
+    <s:tag>Device_Samsung J3 Prime</s:tag>
+    <s:tag>Device_Samsung J3(2018)</s:tag>
+    <s:tag>Device_Samsung Note 10</s:tag>
+    <s:tag>Device_Samsung Note 10 Plus</s:tag>
+    <s:tag>Device_Samsung Note 20</s:tag>
+    <s:tag>Device_Samsung Note 20 Ultra 5G</s:tag>
+    <s:tag>Device_Samsung Note 8</s:tag>
+    <s:tag>Device_Samsung Note 9</s:tag>
+    <s:tag>Device_Samsung S10</s:tag>
+    <s:tag>Device_Samsung S10 Lite</s:tag>
+    <s:tag>Device_Samsung S10 Plus</s:tag>
+    <s:tag>Device_Samsung S20</s:tag>
+    <s:tag>Device_Samsung S20 FE</s:tag>
+    <s:tag>Device_Samsung S20 Plus</s:tag>
+    <s:tag>Device_Samsung S20 Ultra</s:tag>
+    <s:tag>Device_Samsung S21</s:tag>
+    <s:tag>Device_Samsung S21 Plus</s:tag>
+    <s:tag>Device_Samsung S21 Ultra</s:tag>
+    <s:tag>Device_Samsung S5 Neo</s:tag>
+    <s:tag>Device_Samsung S6</s:tag>
+    <s:tag>Device_Samsung S7</s:tag>
+    <s:tag>Device_Samsung S8</s:tag>
+    <s:tag>Device_Samsung S8 Plus</s:tag>
+    <s:tag>Device_Samsung S9</s:tag>
+    <s:tag>Device_Samsung S9 Plus</s:tag>
+    <s:tag>Device_TCL 10L</s:tag>
+    <s:tag>Device_TCL 20 Pro 5G</s:tag>
+    <s:tag>Device_TCL 20S</s:tag>
+    <s:tag>Mounts</s:tag>
+    <s:tag>Type_Vent Mount</s:tag>
+    <s:tag>Vent Mount</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2299598962806</id>
+      <title>Vent Mount</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>M6540V</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375341248630</id>
+    <published>2018-05-24T18:34:30-04:00</published>
+    <updated>2018-05-24T18:34:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/mountie-universal-vent-mount"/>
+    <title>Mountie Universal Vent Mount</title>
+    <s:type>Car Mount</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/download-4_72b18965-91c3-4aa1-b6dd-aa701c767d3d.jpg?v=1571715718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Car Mount<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="560" height="315" align="center" src="https://fast.wistia.net/embed/iframe/6obotbuq5y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<ul style="list-style:unset;">
+<li>
+<strong>World's Smallest Car Mount</strong><span> </span>Simply the most convenient and smart way to mount your phone and keep it in sight while driving! Small enough to slip in your pocket while still mounted on your phone, but extra strong to protect your smartphone from ANY road vibrations or impacts, this mount will become your #1 necessity for all car trips!</li>
+<li>
+<strong>10x Easier To Use Than Any Mount</strong><span> </span>Designed with User-Friendliness in mind, our Mountie can be installed in seconds! An ultra-small clip quickly attaches, as well as detaches, from any car vent! Adding practically ZERO volume to your phone, the Mountie fits on the back of virtually every smartphone, with incomparable ease!</li>
+<li>
+<strong>Strongest Magnetic Hold On The Market</strong><span> </span>So thin, it’s almost invisible, but so strong, it’s practically invincible from even the most abrupt movement/shifts on the go! The Mountie accommodates ANY phone, be it encased or not, providing the strongest magnetic hold a commercial mount could ever provide, WITHOUT damaging your phone’s internal hardware and electronic functions!</li>
+<li>
+<strong>Full Freedom, 360° Rotation</strong><span> </span>Take full advantage of your phone’s GPS, Camera and Video Recording features! The Mountie allows for 360° Rotation, affording both Vertical and Horizontal views! Holding your phone steady throughout use, you can rest assured you won’t lose focus or waste precious time adjusting your phone, concentrating instead on what you ought to do best – drive!</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mounts</s:tag>
+    <s:tag>Type_Vent Mount</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375341248630</id>
+      <title>Vent Mount</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>CC-MT-BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wirelessxplosion.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wirelessxplosion.ca/collections/glitter-series.atom"/>
+  <title>Wireless Xplosion Ltd</title>
+  <updated>2020-10-15T11:45:25-04:00</updated>
+  <author>
+    <name>Wireless Xplosion Ltd</name>
+  </author>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/5953550418089</id>
+    <published>2020-10-15T11:45:25-04:00</published>
+    <updated>2020-10-15T11:45:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/fremont-glitter-case-iphone-12-pro-max"/>
+    <title>Fremont Glitter Case - iPhone 12 Pro Max</title>
+    <s:type>Fremont</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Glitter-iPhone12Pro6.1Inch_6.jpg?v=1602776724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Fremont<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="380" height="380" src="https://fast.wistia.net/embed/iframe/e05rbodvwn" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<ul style="list-style: inside;">
+<li>iPhone 12 Pro Max﻿ sparkle glitter case that add extra shine to your phone while protecting it.</li>
+<li>Raised bezels to prevent screen and camera against drops &amp; scratches</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Apple</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Collection_Fremont Glitter</s:tag>
+    <s:tag>Device_iPhone 12</s:tag>
+    <s:tag>Device_iPhone 12 Pro Max</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/5953550418089</id>
+      <title>Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>C2754-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/5953550418089</id>
+      <title>Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>C2754-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/5953550418089</id>
+      <title>Black</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>C2754-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/5950549590185</id>
+    <published>2020-10-14T15:55:31-04:00</published>
+    <updated>2020-10-14T15:55:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/fremont-glitter-case-iphone-12-mini"/>
+    <title>Fremont Glitter Case - iPhone 12 mini</title>
+    <s:type>Fremont</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Fremont_Glitter_Tough_Case_iPhone_11_1_d1b3313f-e600-4f13-9f84-63da0b222370.jpg?v=1606333167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Fremont<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe src="https://fast.wistia.net/embed/iframe/e05rbodvwn" height="380" width="380" allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe>
+<ul style="list-style: inside;">
+<li>iPhone 12 mini sparkle glitter case that add extra shine to your phone while protecting it.</li>
+<li>Raised bezels to prevent screen and camera against drops &amp; scratches</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Apple</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Collection_Fremont Glitter</s:tag>
+    <s:tag>Device_iPhone 12 mini</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/5950549590185</id>
+      <title>Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>C2752-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/5950549590185</id>
+      <title>Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>C2752-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/5950549590185</id>
+      <title>Black</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>C2752-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/5950385455273</id>
+    <published>2020-10-14T10:18:16-04:00</published>
+    <updated>2020-10-14T10:18:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/fremont-glitter-tough-case-iphone-12-6-1-inch-1"/>
+    <title>Fremont Glitter Case - iPhone 12 / 12 Pro</title>
+    <s:type>Fremont</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Fremont_Glitter_Tough_Case_iPhone_11_4_db640bed-ed3a-4be1-93fb-710ac2716aa3.jpg?v=1624035575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Fremont<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="380" height="380" src="https://fast.wistia.net/embed/iframe/e05rbodvwn" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<ul style="list-style: inside;">
+<li>iPhone 12 6.1 Inch sparkle glitter case that add extra shine to your phone while protecting it.</li>
+<li>Raised bezels to prevent screen and camera against drops &amp; scratches</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Apple</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Collection_Fremont Glitter</s:tag>
+    <s:tag>Device_iPhone 12</s:tag>
+    <s:tag>Device_iPhone 12 6.1 Inch</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/5950385455273</id>
+      <title>Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>C2753-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/5950385455273</id>
+      <title>Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>C2753-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/5950385455273</id>
+      <title>Black</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>C2753-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/4479522111571</id>
+    <published>2020-06-08T16:11:40-04:00</published>
+    <updated>2020-06-08T16:11:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/fremont-glitter-tough-case-iphone-se-2nd-gen"/>
+    <title>Fremont Glitter Tough  Case - iPhone SE 2nd Gen</title>
+    <s:type>Fremont</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/FremontGlitterToughCase-iPhoneSE2ndGen_10.jpg?v=1627566465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Fremont<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="380" height="380" src="https://fast.wistia.net/embed/iframe/e05rbodvwn" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<ul style="list-style: inside;">
+<li>iPhone SE sparkle glitter case that add extra shine to your phone while protecting it.</li>
+<li>Raised bezels to prevent screen and camera against drops &amp; scratches</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Apple</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Collection_Fremont Glitter</s:tag>
+    <s:tag>Device_iPhone SE</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4479522111571</id>
+      <title>Black</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>C2708-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4479522111571</id>
+      <title>Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>C2708-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/4377432391763</id>
+    <published>2020-01-02T17:58:24-05:00</published>
+    <updated>2020-01-02T17:58:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/fremont-glitter-tough-case-iphone-11-pro-max"/>
+    <title>Fremont Glitter Tough  Case - iPhone 11 Pro Max</title>
+    <s:type>Fremont</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Gradient-_-Glitter---Purple_4be94e4e-dc7c-4262-be03-7a049c2076b4.gif?v=1578688466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Fremont<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="380" height="380" src="https://fast.wistia.net/embed/iframe/7v3ej1marl" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<ul style="list-style: inside;">
+<li>iPhone 11 pro Max sparkle glitter case that add extra shine to your phone while protecting it.</li>
+<li>Raised bezels to prevent screen and camera against drops &amp; scratches</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Apple</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Collection_Fremont Glitter</s:tag>
+    <s:tag>Device_iPhone 11 Pro Max</s:tag>
+    <s:tag>iPhone 11</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4377432391763</id>
+      <title>Black</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>C2709-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4377432391763</id>
+      <title>Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>C2709-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4377432391763</id>
+      <title>Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>C2709-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/4377250037843</id>
+    <published>2020-01-02T16:08:44-05:00</published>
+    <updated>2020-01-02T16:08:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/fremont-glitter-tough-case-iphone-11-pro"/>
+    <title>Fremont Glitter Tough  Case - iPhone 11 Pro</title>
+    <s:type>Fremont</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Gradient-_-Glitter---black_c43ca5b5-6070-4fbc-817a-52584ed2f233.gif?v=1578689691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Fremont<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="380" height="380" src="https://fast.wistia.net/embed/iframe/ypladybp7i" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<ul style="list-style: inside;">
+<li>iPhone 11 Pro Fremont Glitter Tough Case that add extra shine to your phone while protecting it.</li>
+<li>Raised bezels to prevent screen and camera against drops &amp; scratches</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Apple</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Collection_Fremont Glitter</s:tag>
+    <s:tag>Device_iPhone 11 Pro</s:tag>
+    <s:tag>iPhone 11</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4377250037843</id>
+      <title>Black</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>C2706-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4377250037843</id>
+      <title>Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>C2706-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4377250037843</id>
+      <title>Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>C2706-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/4377228935251</id>
+    <published>2020-01-02T15:57:52-05:00</published>
+    <updated>2020-01-02T15:57:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/fremont-glitter-tough-case-iphone-11"/>
+    <title>Fremont Glitter Tough  Case - iPhone 11</title>
+    <s:type>Fremont</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Gradient-_-Glitter---Green.gif?v=1578688317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Fremont<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="380" height="380" src="https://fast.wistia.net/embed/iframe/e05rbodvwn" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<ul style="list-style: inside;">
+<li>iPhone 11 sparkle glitter case that add extra shine to your phone while protecting it.</li>
+<li>Raised bezels to prevent screen and camera against drops &amp; scratches</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Apple</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Collection_Fremont Glitter</s:tag>
+    <s:tag>Device_iPhone 11</s:tag>
+    <s:tag>iPhone 11</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4377228935251</id>
+      <title>Black</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>C2707-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4377228935251</id>
+      <title>Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>C2707-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4377228935251</id>
+      <title>Purple</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>C2707-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/4369215488083</id>
+    <published>2019-12-18T11:39:49-05:00</published>
+    <updated>2019-12-18T11:39:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/iphone-xr-fremont-glitter-clear-tough-case"/>
+    <title>Fremont Glitter Tough  Case - iPhone XR</title>
+    <s:type>Fremont</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Template-Cases-New-XR-orange.gif?v=1627566453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Fremont<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/bwbcwfbenv" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<ul style="list-style: inside;">
+<li>iPhone XR Fremont Glitter Tough Case that add extra shine to your phone while protecting it.</li>
+<li>Raised bezels to prevent screen and camera against drops &amp; scratches</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Apple</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Collection_Fremont Glitter</s:tag>
+    <s:tag>Device_iPhone XR</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4369215488083</id>
+      <title>Apple Red</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>C2761-03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4369215488083</id>
+      <title>Neon Green</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>C2761-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4369215488083</id>
+      <title>Blue</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>C2761-04</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4369215488083</id>
+      <title>Neon Orange</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>C2761-19</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wirelessxplosion.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wirelessxplosion.ca/collections/solidmate.atom"/>
+  <title>Wireless Xplosion Ltd</title>
+  <updated>2018-05-24T18:38:31-04:00</updated>
+  <author>
+    <name>Wireless Xplosion Ltd</name>
+  </author>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375382241398</id>
+    <published>2018-05-24T18:38:31-04:00</published>
+    <updated>2018-05-24T18:38:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/solidmate-4-5-aluminum-stylus-100-pack-black-red-purple-blue"/>
+    <title>4.5 Inch Aluminum Stylus</title>
+    <s:type></s:type>
+    <s:vendor>Solidmate</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/multiple_1_1_800x800_957323d6-b26d-482f-a853-99dd4ddcc51a.jpg?v=1593020274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Solidmate<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.99 - 150.00
+            <a href="https://www.wirelessxplosion.ca/products/solidmate-4-5-aluminum-stylus-100-pack-black-red-purple-blue">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Do you find it difficult to control your </span>touchscreen<span> phone or tablet because your fingers are too big? Are you tired of wiping finger marks and smudges off your screen? Or do you just want more precise control of your touchscreen device? If so, then this Aluminum Stylus is exactly what you've been looking for!</span><br><span>This stylus measures 4.5" in length and features a soft, slick, rubber tip. The tip is designed to provide the electrical conductivity necessary to activate a capacitive touch screen in the same way as that of a human finger. The rubber tip is slick so that it will glide smoothly across the screen, providing precise control of icons and apps, without leaving finger marks or smudges.</span><br><span>The stylus includes a standard pocket clip, ensuring that it will remain securely in a pocket or pen loop.</span></p>
+<p><span><strong>Special Offer: </strong>Buy a pack of 100 Stylus for $150. Offer ends tonight.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375382241398</id>
+      <title>Blue</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>500250-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375382241398</id>
+      <title>Puple</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>500247-PR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375382241398</id>
+      <title>Red</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>500249-RD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375382241398</id>
+      <title>Bulk (100 pieces)</title>
+      <s:price currency="CAD">150.00</s:price>
+      <s:sku>BULK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

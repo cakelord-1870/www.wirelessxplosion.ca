@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wirelessxplosion.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wirelessxplosion.ca/collections/zanko-1.atom"/>
+  <title>Wireless Xplosion Ltd</title>
+  <updated>2018-06-28T17:30:06-04:00</updated>
+  <author>
+    <name>Wireless Xplosion Ltd</name>
+  </author>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1658632568950</id>
+    <published>2018-06-28T17:30:06-04:00</published>
+    <updated>2018-06-28T17:30:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/gel-case-huawei-p20-lite-clear"/>
+    <title>Gel Case - Huawei P20 Lite - Clear</title>
+    <s:type>Zanko</s:type>
+    <s:vendor>Zanko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/p20lite.jpg?v=1571715726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zanko<br>
+        <strong>Type: </strong>Zanko<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>Protect your phone with style through this sleek, unobtrusive Gel TPU case.</li>
+<li>The perfect mold keeps the phone trim and trendy.</li>
+<li>Oil rubber finish not only looks great, but feels great too.</li>
+<li>Precise openings in the case allow access to all controls and features on the phone.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cases</s:tag>
+    <s:tag>Device_Huawei P20 Lite</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1658632568950</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>ZKT-HP20L-CL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375388401782</id>
+    <published>2018-05-24T18:39:04-04:00</published>
+    <updated>2018-05-24T18:39:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/zanko-lg-g6-jelly-case-crystal-clear"/>
+    <title>LG G6 Gel Case - Crystal Clear</title>
+    <s:type>Zanko</s:type>
+    <s:vendor>Zanko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/51stcqvqn_l._sl1000.jpg?v=1571715726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zanko<br>
+        <strong>Type: </strong>Zanko<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>Protect your phone with style through this sleek, unobtrusive Gel TPU case.</li>
+<li>The perfect mold keeps the phone trim and trendy.</li>
+<li>Oil rubber finish not only looks great, but feels great too.</li>
+<li>Precise openings in the case allow access to all controls and features on the phone.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cases</s:tag>
+    <s:tag>Collection_Gel Cases</s:tag>
+    <s:tag>Device_LG G6</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375388401782</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>ZKT-LGG6-CL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375388369014</id>
+    <published>2018-05-24T18:39:04-04:00</published>
+    <updated>2018-05-24T18:39:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/zanko-lg-g6-jelly-case-black"/>
+    <title>LG G6 Gel Case - Black</title>
+    <s:type>Zanko</s:type>
+    <s:vendor>Zanko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/lgg6-bk1.jpg?v=1571715726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zanko<br>
+        <strong>Type: </strong>Zanko<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>Protect your phone with style through this sleek, unobtrusive Gel TPU case.</li>
+<li>The perfect mold keeps the phone trim and trendy.</li>
+<li>Oil rubber finish not only looks great, but feels great too.</li>
+<li>Precise openings in the case allow access to all controls and features on the phone.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cases</s:tag>
+    <s:tag>Collection_Gel Cases</s:tag>
+    <s:tag>Device_LG G6</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375388369014</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>ZKT-LGG6-BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375387779190</id>
+    <published>2018-05-24T18:39:01-04:00</published>
+    <updated>2018-05-24T18:39:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/zanko-samsung-galaxy-s8-jelly-case-crystal-clear"/>
+    <title>Samsung Galaxy S8 Gel Case - Crystal Clear</title>
+    <s:type>Zanko</s:type>
+    <s:vendor>Zanko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/61wo3o7avtl._sl1000.jpg?v=1571715726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zanko<br>
+        <strong>Type: </strong>Zanko<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>Protect your phone with style through this sleek, unobtrusive Gel TPU case.</li>
+<li>The perfect mold keeps the phone trim and trendy.</li>
+<li>Oil rubber finish not only looks great, but feels great too.</li>
+<li>Precise openings in the case allow access to all controls and features on the phone.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cases</s:tag>
+    <s:tag>Collection_Gel Cases</s:tag>
+    <s:tag>Device_Samsung S8</s:tag>
+    <s:tag>sale_80%_group</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375387779190</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>ZKT-GLXS8-CL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375387680886</id>
+    <published>2018-05-24T18:39:00-04:00</published>
+    <updated>2018-05-24T18:39:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/zanko-samsung-galaxy-a8-2018-jelly-case-crystal-clear"/>
+    <title>Samsung Galaxy A8 (2018) Gel Case - Crystal Clear</title>
+    <s:type>Zanko</s:type>
+    <s:vendor>Zanko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/for-samsung-galaxy-a8-a8-plus-2018-bumper-case-ultra-thin-clear-scratch-resistant-cover-transparent.jpg_640x640_153acf32-3afb-4035-abcc-2ab95375cb05.jpg?v=1571715726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zanko<br>
+        <strong>Type: </strong>Zanko<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>Protect your phone with style through this sleek, unobtrusive Gel TPU case.</li>
+<li>The perfect mold keeps the phone trim and trendy.</li>
+<li>Oil rubber finish not only looks great, but feels great too.</li>
+<li>Precise openings in the case allow access to all controls and features on the phone.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cases</s:tag>
+    <s:tag>Collection_Gel Cases</s:tag>
+    <s:tag>Device_Samsung A8</s:tag>
+    <s:tag>sale_80%_group</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375387680886</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>ZKT-GLXA8-CL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375387582582</id>
+    <published>2018-05-24T18:39:00-04:00</published>
+    <updated>2018-05-24T18:39:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/tpu-case-samsung-galaxy-a5-2017-clear"/>
+    <title>Samsung Galaxy A5 (2017) Gel Case - Crystal Clear</title>
+    <s:type>Zanko</s:type>
+    <s:vendor>Zanko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/51twvxmihkl._sl1000.jpg?v=1571715726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zanko<br>
+        <strong>Type: </strong>Zanko<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>Protect your phone with style through this sleek, unobtrusive Gel TPU case.</li>
+<li>The perfect mold keeps the phone trim and trendy.</li>
+<li>Oil rubber finish not only looks great, but feels great too.</li>
+<li>Precise openings in the case allow access to all controls and features on the phone.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cases</s:tag>
+    <s:tag>Collection_Gel Cases</s:tag>
+    <s:tag>Device_Samsung A5 (2017</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375387582582</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>ZKT-GLXA5-CL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375387549814</id>
+    <published>2018-05-24T18:39:00-04:00</published>
+    <updated>2018-05-24T18:39:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/tpu-case-samsung-galaxy-a5-2017-black"/>
+    <title>Samsung Galaxy A5 (2017) Gel Case - Black</title>
+    <s:type>Zanko</s:type>
+    <s:vendor>Zanko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/a5-bk2.jpg?v=1571715726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zanko<br>
+        <strong>Type: </strong>Zanko<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>Protect your phone with style through this sleek, unobtrusive Gel TPU case.</li>
+<li>The perfect mold keeps the phone trim and trendy.</li>
+<li>Oil rubber finish not only looks great, but feels great too.</li>
+<li>Precise openings in the case allow access to all controls and features on the phone.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cases</s:tag>
+    <s:tag>Collection_Gel Cases</s:tag>
+    <s:tag>Device_Samsung A5 (2017</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375387549814</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>ZKT-GLXA5-BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

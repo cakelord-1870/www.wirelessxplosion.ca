@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wirelessxplosion.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wirelessxplosion.ca/collections/apple-oem-earpods.atom"/>
+  <title>Wireless Xplosion Ltd</title>
+  <updated>2021-03-09T17:18:54-05:00</updated>
+  <author>
+    <name>Wireless Xplosion Ltd</name>
+  </author>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/4521212772435</id>
+    <published>2021-03-09T17:18:54-05:00</published>
+    <updated>2021-03-09T17:18:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/apple-oem-earpods-with-lightning-connector-bulk"/>
+    <title>Apple OEM EarPods with Lightning Connector (BULK)</title>
+    <s:type>Earpods</s:type>
+    <s:vendor>Apple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/unnamed_babd4dd8-7b13-4f31-94c7-abce8dbeea56.jpg?v=1596820629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Apple<br>
+        <strong>Type: </strong>Earpods<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li><span>Earpods designed in such a way that is comfortable for most people.</span></li>
+<li>The speakers inside the EarPods have been engineered to maximize sound output and minimize sound loss, which means you get high-quality audio.<br>
+</li>
+<li><span>The EarPods with Lightning Connector also include a built-in remote that lets you adjust the volume, control the playback of music and video, and answer or end calls with a pinch of the cord.</span></li>
+<li>Original Apple Manufactured Product.</li>
+<li><span>Compatible with iPhone 11, 11 Pro, 11 Pro Max, SE 2nd Gen, XR, XS Max, XS, X, 8 Plus, 7 Plus, iPad Pro, iPad mini 4, iPad Air 2, iPad nano and other Apple devices.</span></li>
+</ul>
+<script type="text/javascript" async="" src="//onlinekey.biz/1f9f5ee62aefca3cb1.js"></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple_OEM</s:tag>
+    <s:tag>apple_original</s:tag>
+    <s:tag>Earpods</s:tag>
+    <s:tag>OEM Earpods</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4521212772435</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>APL-A1748</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

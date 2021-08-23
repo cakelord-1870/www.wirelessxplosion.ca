@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wirelessxplosion.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wirelessxplosion.ca/collections/portable-chargers.atom"/>
+  <title>Wireless Xplosion Ltd</title>
+  <updated>2020-07-28T16:47:08-04:00</updated>
+  <author>
+    <name>Wireless Xplosion Ltd</name>
+  </author>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/4521604776019</id>
+    <published>2020-07-28T16:47:08-04:00</published>
+    <updated>2020-07-28T16:47:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/samsung-oem-battery-pack-10-000-mah-silver-retail"/>
+    <title>Samsung OEM Battery Pack 10,000 mAh Silver (RETAIL)</title>
+    <s:type>Portable Chargers</s:type>
+    <s:vendor>Samsung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/IMG_20200731_141248__01__01__01.jpg?v=1596820611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samsung<br>
+        <strong>Type: </strong>Portable Chargers<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li><span>Samsung Portable Battery charges with Samsung Fast Charge and Quick Charge 2.0 support that lets you power up quick when you’re on the go. </span></li>
+<li>With dual-port charging capability, Samsung Portable Battery can power two devices simultaneously for added convenience and far less hassle.<br>
+</li>
+<li><span>Recharges fast so you can reuse even faster.</span></li>
+<li><span>Now you can get back to enjoying your device quicker than previous models.</span></li>
+<li><span>Original Samsung Manufactured product</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>80off_bds</s:tag>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>multiport_acc</s:tag>
+    <s:tag>Power Bank</s:tag>
+    <s:tag>Samsung_oem</s:tag>
+    <s:tag>Samsung_original_cases</s:tag>
+    <s:tag>Type_Battery Charger</s:tag>
+    <s:tag>Type_Power Bank</s:tag>
+    <s:tag>Wireless Charger</s:tag>
+    <s:tag>Wireless Chargers</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4521604776019</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>EB-P1100B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/3536350806099</id>
+    <published>2019-05-31T12:52:40-04:00</published>
+    <updated>2019-05-31T12:52:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/j-5k-2-port-wall-charger-with-5000-mah-power-bank"/>
+    <title>Rockstone J-5K 2 Port Wall Charger with 5000 mAH Power Bank</title>
+    <s:type>Portable Chargers</s:type>
+    <s:vendor>Rockstone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/J-5K.jpg?v=1571715741"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rockstone<br>
+        <strong>Type: </strong>Portable Chargers<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/zrd4j58s6z" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<ul style="list-style: inside;">
+<li>J-5K Wall Charger equipped with a 5000mAh battery power bank</li>
+<li>Universally compatible that charges both Apple and Android Devices</li>
+<li>J-5K Wall Charger is powered by Smart Charging Technology that identifies devices their unique charging requirements.</li>
+<li>Charges 2 devices simultaneous faster than conventionally charging.</li>
+<li>Provided with in built LED indicator for charging identification</li>
+</ul>
+<strong>Package Includes : </strong>J-5K 2 Port Wall Charger With 5000 MAH Power Bank</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chargers</s:tag>
+    <s:tag>multiport_acc</s:tag>
+    <s:tag>newstuff</s:tag>
+    <s:tag>Type_Portable Charger</s:tag>
+    <s:tag>Type_Wall Charger</s:tag>
+    <s:tag>Wall Chargers</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/3536350806099</id>
+      <title>White</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>R5000-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/2560963870803</id>
+    <published>2019-03-25T17:05:45-04:00</published>
+    <updated>2019-03-25T17:05:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/stealth-aircraft-aluminium-portable-wireless-fast-charger"/>
+    <title>Stealth 8000 Carbon Wireless Charging Power Bank</title>
+    <s:type>Portable Chargers</s:type>
+    <s:vendor>Rockstone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Mockups-PKG-Carbon_fiber-white.jpg?v=1571715737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rockstone<br>
+        <strong>Type: </strong>Portable Chargers<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>Enhance  the battery of your Qi-enabled Devices with the Stylish Carbon Design</li>
+<li>Drop your QI enabled smartphone on the Power bank and charging will start upon contact.</li>
+<li>This 8,000mAh fast wireless portable charger is Qi certified also meets the Apple and Samsung Fast Charging standard</li>
+<li>The 10 Watts of powers offers the quickest wireless charging</li>
+<li>3 devices at once, 2 via USB-A ports and one wirelessly</li>
+<li>Recharges Via: micro-USB cable </li>
+<li>Battery light indicator</li>
+<li>Metallic Finish Carbon Design</li>
+</ul>
+<ul></ul>
+<iframe width="560" height="315" align="center" src="https://fast.wistia.com/embed/medias/mv8pbq0pgi" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>80off_bds</s:tag>
+    <s:tag>Chargers</s:tag>
+    <s:tag>Device_Google Pixel 4a</s:tag>
+    <s:tag>Device_Google Pixel 4a XL</s:tag>
+    <s:tag>Device_Google Pixel 5</s:tag>
+    <s:tag>Device_iPhone 11</s:tag>
+    <s:tag>Device_iPhone 11 Pro</s:tag>
+    <s:tag>Device_iPhone 11 Pro Max</s:tag>
+    <s:tag>Device_iPhone 12 6.1 Inch</s:tag>
+    <s:tag>Device_iPhone 12 mini</s:tag>
+    <s:tag>Device_iPhone 12 Pro Max</s:tag>
+    <s:tag>Device_iPhone 6S &amp; 6</s:tag>
+    <s:tag>Device_iPhone 6S &amp; 6 Plus</s:tag>
+    <s:tag>Device_iPhone 8 &amp; 7</s:tag>
+    <s:tag>Device_iPhone 8 &amp; 7 Plus</s:tag>
+    <s:tag>Device_iPhone SE</s:tag>
+    <s:tag>Device_iPhone SE &amp; 5S</s:tag>
+    <s:tag>Device_iPhone XR</s:tag>
+    <s:tag>Device_iPhone XS &amp; X</s:tag>
+    <s:tag>Device_iPhone XS Max</s:tag>
+    <s:tag>Device_LG V60 ThinQ</s:tag>
+    <s:tag>Device_LG Velvet 5G</s:tag>
+    <s:tag>Device_Moto Z2 Play</s:tag>
+    <s:tag>Device_Samsung A11</s:tag>
+    <s:tag>Device_Samsung A12</s:tag>
+    <s:tag>Device_Samsung A21</s:tag>
+    <s:tag>Device_Samsung A32</s:tag>
+    <s:tag>Device_Samsung A52</s:tag>
+    <s:tag>Device_Samsung Note 10</s:tag>
+    <s:tag>Device_Samsung Note 10 Plus</s:tag>
+    <s:tag>Device_Samsung Note 20</s:tag>
+    <s:tag>Device_Samsung Note 20 Ultra 5G</s:tag>
+    <s:tag>Device_Samsung Note 8</s:tag>
+    <s:tag>Device_Samsung Note 9</s:tag>
+    <s:tag>Device_Samsung S10</s:tag>
+    <s:tag>Device_Samsung S10 Lite</s:tag>
+    <s:tag>Device_Samsung S10 Plus</s:tag>
+    <s:tag>Device_Samsung S20</s:tag>
+    <s:tag>Device_Samsung S20 FE</s:tag>
+    <s:tag>Device_Samsung S20 Plus</s:tag>
+    <s:tag>Device_Samsung S20 Ultra</s:tag>
+    <s:tag>Device_Samsung S21</s:tag>
+    <s:tag>Device_Samsung S21 Plus</s:tag>
+    <s:tag>Device_Samsung S21 Ultra</s:tag>
+    <s:tag>Device_Samsung S6</s:tag>
+    <s:tag>Device_Samsung S7</s:tag>
+    <s:tag>Device_Samsung S8</s:tag>
+    <s:tag>Device_Samsung S8 Plus</s:tag>
+    <s:tag>Device_Samsung S9</s:tag>
+    <s:tag>Device_Samsung S9 Plus</s:tag>
+    <s:tag>multiport_acc</s:tag>
+    <s:tag>newstuff</s:tag>
+    <s:tag>Powerbank</s:tag>
+    <s:tag>Wireless Chargers</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2560963870803</id>
+      <title>White</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>R2180-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2560963870803</id>
+      <title>Black</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>R2180-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2560963870803</id>
+      <title>Ruby Red</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>R2180-03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/2560963575891</id>
+    <published>2019-03-25T17:05:22-04:00</published>
+    <updated>2019-03-25T17:05:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/marble-wireless-charger-power-bank"/>
+    <title>Apollo 8000 Marble Wireless Charging Power Bank</title>
+    <s:type>Portable Chargers</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Mockups-PKG-Marble_Apollo-Uni.jpg?v=1571715737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Portable Chargers<br>
+        <strong>Price: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul style="list-style: inside;">
+<li>Enhance  the battery of your Qi-enabled Devices with the Stylish Marble Design</li>
+<li>Drop your QI enabled smartphone on the Power bank and charging will start upon contact.</li>
+<li>This 8,000mAh fast wireless portable charger is Qi certified also meets the Apple and Samsung Fast Charging standard</li>
+<li>The 10 Watts of powers offers the quickest wireless charging</li>
+<li>3 devices at once, 2 via USB-A ports and one wirelessly</li>
+<li>Recharges Via: micro-USB cable </li>
+<li>Battery light indicator</li>
+<li>Metallic Finish Marble Design</li>
+</ul>
+<iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/nkycu6vt9v?" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chargers</s:tag>
+    <s:tag>Device_Google Pixel 4a</s:tag>
+    <s:tag>Device_Google Pixel 4a XL</s:tag>
+    <s:tag>Device_Google Pixel 5</s:tag>
+    <s:tag>Device_iPhone 11</s:tag>
+    <s:tag>Device_iPhone 11 Pro</s:tag>
+    <s:tag>Device_iPhone 11 Pro Max</s:tag>
+    <s:tag>Device_iPhone 12 6.1 Inch</s:tag>
+    <s:tag>Device_iPhone 12 mini</s:tag>
+    <s:tag>Device_iPhone 12 Pro Max</s:tag>
+    <s:tag>Device_iPhone 6S &amp; 6</s:tag>
+    <s:tag>Device_iPhone 6S &amp; 6 Plus</s:tag>
+    <s:tag>Device_iPhone 8 &amp; 7</s:tag>
+    <s:tag>Device_iPhone 8 &amp; 7 Plus</s:tag>
+    <s:tag>Device_iPhone SE</s:tag>
+    <s:tag>Device_iPhone SE &amp; 5S</s:tag>
+    <s:tag>Device_iPhone XR</s:tag>
+    <s:tag>Device_iPhone XS &amp; X</s:tag>
+    <s:tag>Device_iPhone XS Max</s:tag>
+    <s:tag>Device_LG G8X ThinQ</s:tag>
+    <s:tag>Device_LG V60 ThinQ</s:tag>
+    <s:tag>Device_LG Velvet 5G</s:tag>
+    <s:tag>Device_Moto Z2 Play</s:tag>
+    <s:tag>Device_Samsung A11</s:tag>
+    <s:tag>Device_Samsung A12</s:tag>
+    <s:tag>Device_Samsung A21</s:tag>
+    <s:tag>Device_Samsung A32</s:tag>
+    <s:tag>Device_Samsung A52</s:tag>
+    <s:tag>Device_Samsung Note 10</s:tag>
+    <s:tag>Device_Samsung Note 10 Plus</s:tag>
+    <s:tag>Device_Samsung Note 20</s:tag>
+    <s:tag>Device_Samsung Note 20 Ultra 5G</s:tag>
+    <s:tag>Device_Samsung Note 8</s:tag>
+    <s:tag>Device_Samsung Note 9</s:tag>
+    <s:tag>Device_Samsung S10</s:tag>
+    <s:tag>Device_Samsung S10 Lite</s:tag>
+    <s:tag>Device_Samsung S10 Plus</s:tag>
+    <s:tag>Device_Samsung S20</s:tag>
+    <s:tag>Device_Samsung S20 FE</s:tag>
+    <s:tag>Device_Samsung S20 Plus</s:tag>
+    <s:tag>Device_Samsung S20 Ultra</s:tag>
+    <s:tag>Device_Samsung S21</s:tag>
+    <s:tag>Device_Samsung S21 Plus</s:tag>
+    <s:tag>Device_Samsung S21 Ultra</s:tag>
+    <s:tag>Device_Samsung S6</s:tag>
+    <s:tag>Device_Samsung S7</s:tag>
+    <s:tag>Device_Samsung S8</s:tag>
+    <s:tag>Device_Samsung S8 Plus</s:tag>
+    <s:tag>Device_Samsung S9</s:tag>
+    <s:tag>Device_Samsung S9 Plus</s:tag>
+    <s:tag>Device_Samung S6</s:tag>
+    <s:tag>multiport_acc</s:tag>
+    <s:tag>Powerbank</s:tag>
+    <s:tag>Wireless Chargers</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2560963575891</id>
+      <title>Black</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>C1401-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2560963575891</id>
+      <title>Gold</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>C1401-09</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2560963575891</id>
+      <title>Unicorn</title>
+      <s:price currency="CAD">35.99</s:price>
+      <s:sku>C1401-55</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

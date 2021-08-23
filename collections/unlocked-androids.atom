@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wirelessxplosion.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wirelessxplosion.ca/collections/unlocked-androids.atom"/>
+  <title>Wireless Xplosion Ltd</title>
+  <updated>2021-07-29T16:31:13-04:00</updated>
+  <author>
+    <name>Wireless Xplosion Ltd</name>
+  </author>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/7112813838505</id>
+    <published>2021-07-29T16:31:13-04:00</published>
+    <updated>2021-07-29T16:31:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/lg-phoenix-5-brand-new-unlocked-silver"/>
+    <title>LG Phoenix 5 - Brand New Unlocked (Cricket Wireless) - Silver</title>
+    <s:type>Phone</s:type>
+    <s:vendor>LG</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/2Q.jpg?v=1627591513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>LG<br>
+        <strong>Type: </strong>Phone<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: left;"><span style="color: #ff0000;"><strong>PHONE ORDERS ARE NOT ELIGIBLE FOR FREE GIFTS!</strong></span></div>
+<div style="text-align: left;"></div>
+<div style="text-align: left;">Phones from Wireless Xplosion is brand new, unlocked. The device has undergone functional testing and inspection to ensure it is in good working order. It comes with a<span data-mce-fragment="1"> </span>30-Day Limited Repair Warranty from the invoice date. Phones are all unlocked so you can use any part of the world</div>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li>
+<div data-mce-fragment="1">
+<strong data-mce-fragment="1">Box Includes</strong><span data-mce-fragment="1"></span><span data-mce-fragment="1"></span><span data-mce-fragment="1"></span><span data-mce-fragment="1"></span><span data-mce-fragment="1"></span>
+<ul class="a-unordered-list a-vertical a-spacing-none" data-mce-fragment="1">
+<li data-mce-fragment="1">LG Phoenix 5 unlocked phone</li>
+<li data-mce-fragment="1">Original Packaging<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Cable and Wall Charger</li>
+<li data-mce-fragment="1">Payment Mode: 2% credit card will be applied, email money transfer no charge</li>
+</ul>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>both_live</s:tag>
+    <s:tag>Brand_LG</s:tag>
+    <s:tag>Unlocked androids</s:tag>
+    <s:tag>Unlocked Phones</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7112813838505</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku>PH-LG-P5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/6583074128041</id>
+    <published>2021-03-08T13:01:55-05:00</published>
+    <updated>2021-03-08T13:01:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/neo-flip-lte-unlocked"/>
+    <title>Neo Flip LTE Unlocked  (Brand New)</title>
+    <s:type>Phone</s:type>
+    <s:vendor>Maxwest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/7_a3b2fea9-37e9-4eb8-a4b2-9dd357ffaa53.jpg?v=1615227604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maxwest<br>
+        <strong>Type: </strong>Phone<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: left;">
+<div></div>
+<strong>Box Includes</strong><span></span><span></span><span></span><span></span>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li>Neo Flip LTE unlocked phone</li>
+<li>Cable and Wall Charger<br>
+</li>
+</ul>
+<div><span><strong>PHONE ORDERS ARE NOT ELIGIBLE FOR FREE GIFTS!</strong></span></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>both_live</s:tag>
+    <s:tag>Brand_Maxwest</s:tag>
+    <s:tag>Unlocked androids</s:tag>
+    <s:tag>Unlocked Phones</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/6583074128041</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>NEO-FLIP-LTE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/6256958668969</id>
+    <published>2020-12-15T12:51:02-05:00</published>
+    <updated>2020-12-15T12:51:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/motorola-g-power-64-gb-unlocked-carrier-phone"/>
+    <title>Motorola G Power 64 GB Unlocked</title>
+    <s:type>Phone</s:type>
+    <s:vendor>Motorola</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/motorola-moto-g-power.jpg?v=1627580086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Motorola<br>
+        <strong>Type: </strong>Phone<br>
+        <strong>Price: </strong>
+            159.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: left;">Phones from Wireless Xplosion are unlocked so you can use any part of the world. The device has undergone functional testing and inspection to ensure it is in good working order. Your phone comes with a 30-Day Limited Repair Warranty from the invoice date.  </div>
+<div style="text-align: left;"><strong></strong></div>
+<div style="text-align: left;">
+<strong>Box Includes</strong><span></span><span></span><span></span><span></span>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li>Moto G Power unlocked phone</li>
+<li>Cable and Wall Charger<br>
+</li>
+<li>Payment Mode : 2% credit card will be applied, email money transfer no charge</li>
+</ul>
+<div><span><strong>PHONE ORDERS ARE NOT ELIGIBLE FOR FREE GIFTS!<br><br></strong><strong>﻿</strong>Model # 2041 (2020 Model)</span></div>
+</div>
+<ul class="a-unordered-list a-vertical a-spacing-none"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>both_live</s:tag>
+    <s:tag>Brand_Motorola</s:tag>
+    <s:tag>Unlocked androids</s:tag>
+    <s:tag>Unlocked Phones</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/6256958668969</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">159.00</s:price>
+      <s:sku>PH-MOT-GPOWER</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/4435887325267</id>
+    <published>2020-06-22T12:36:47-04:00</published>
+    <updated>2020-06-22T12:36:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/samsung-galaxy-s10e-phone-unlocked-a-plus-condition"/>
+    <title>Samsung Galaxy S10e Phone Unlocked (A Plus Condition)</title>
+    <s:type>Phone</s:type>
+    <s:vendor>Samsung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/S10eBlack.png?v=1588098733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samsung<br>
+        <strong>Type: </strong>Phone<br>
+        <strong>Price: </strong>
+            310.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: left;">A Pre-Loved Android from Wireless Xplosion is a gently used, non-certified device that has undergone functional testing and inspection to ensure it is in good working order. Pre-Loved Androids are tested for functionality and gently cleansed but may have visible usage wear and tear. Your Pre-Loved Android comes with a 90-Day Limited Repair Warranty and an original manufacturer-quality charger and cables. Phones are all unlocked so you can use any part of the world</div>
+<strong>Box Includes</strong>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li>Original Samsung Box</li>
+<li>Cables and Wall Charger</li>
+<li>Your Pre-Loved Unlocked<span> </span>Samsung<span> </span>Phone</li>
+</ul>
+<div style="text-align: center;"><span style="color: #ff0000;"><strong>PHONE ORDERS ARE NOT ELIGIBLE FOR FREE GIFTS!</strong></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>both_live</s:tag>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Pre-Loved_android</s:tag>
+    <s:tag>Unlocked androids</s:tag>
+    <s:tag>Unlocked Phones</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4435887325267</id>
+      <title>128GB / Black</title>
+      <s:price currency="CAD">310.00</s:price>
+      <s:sku>PH-SM-S10E-128GB-BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4435887325267</id>
+      <title>128GB / Glow</title>
+      <s:price currency="CAD">310.00</s:price>
+      <s:sku>PH-SM-S10E-128GB-GL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4435887325267</id>
+      <title>128GB / Blue</title>
+      <s:price currency="CAD">310.00</s:price>
+      <s:sku>PH-SM-S10E-128GB-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/4389940035667</id>
+    <published>2020-06-22T12:36:47-04:00</published>
+    <updated>2020-06-22T12:36:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/pre-loved-samsung-s10-unlocked-a-plus-condition"/>
+    <title>Samsung Galaxy S10 Phone Unlocked (A Plus Condition)</title>
+    <s:type>Phone</s:type>
+    <s:vendor>Samsung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/image_637917cf-523c-4782-9a5f-f1290d2ec49e.jpg?v=1621440453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samsung<br>
+        <strong>Type: </strong>Phone<br>
+        <strong>Price: </strong>
+            415.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: left;">
+<div>Android Phones from Wireless Xplosion is a gently used, may have 1-2 scratches. The device that has undergone functional testing and inspection to ensure it is in good working order. Your Pre-Loved phone comes with a<span> </span><strong>30-Day Limited Repair Warranty</strong><span> </span>from the invoice date. Phones are all unlocked so you can use any part of the world</div>
+<div><br></div>
+<strong>Box Includes</strong><span></span><span></span><span></span><span></span><span></span>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li>Samsung Galaxy S10 unlocked phone</li>
+<li>Cable and Wall Charger<br>
+</li>
+</ul>
+<div><span><strong>PHONE ORDERS ARE NOT ELIGIBLE FOR FREE GIFTS!</strong></span></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>both_live</s:tag>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Pre-Loved_android</s:tag>
+    <s:tag>Unlocked androids</s:tag>
+    <s:tag>Unlocked Phones</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4389940035667</id>
+      <title>128GB / Black</title>
+      <s:price currency="CAD">415.00</s:price>
+      <s:sku>PH-SM-S10-128GB-BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4389940035667</id>
+      <title>128GB / Blue</title>
+      <s:price currency="CAD">415.00</s:price>
+      <s:sku>PH-SM-S10-128GB-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4389940035667</id>
+      <title>128GB / Glow</title>
+      <s:price currency="CAD">415.00</s:price>
+      <s:sku>PH-SM-S10-128GB-GL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4389940035667</id>
+      <title>128GB / Orange</title>
+      <s:price currency="CAD">415.00</s:price>
+      <s:sku>PH-SM-S10-128GB-OR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/3876472946771</id>
+    <published>2020-06-22T12:36:45-04:00</published>
+    <updated>2020-06-22T12:36:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/samsung-galaxy-s9-64-gb-unlocked-smartphone-purple"/>
+    <title>Samsung Galaxy S9 64 GB Unlocked  (A plus Condition)</title>
+    <s:type>Phone</s:type>
+    <s:vendor>Samsung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/S9-GREY.jpg?v=1601914138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samsung<br>
+        <strong>Type: </strong>Phone<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: left;">
+<div>Android Phones from Wireless Xplosion is a gently used, may have 1-2 scratches. The device that has undergone functional testing and inspection to ensure it is in good working order. Your Pre-Loved phone comes with a<span> </span><strong>30-Day Limited Repair Warranty</strong><span> </span>from the invoice date. Phones are all unlocked so you can use any part of the world</div>
+<div><br></div>
+<strong>Box Includes</strong><span></span><span></span><span></span><span></span>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li>Samsung Galaxy S9 unlocked phone</li>
+<li>Cable and Wall Charger</li>
+</ul>
+<div><span><strong>PHONE ORDERS ARE NOT ELIGIBLE FOR FREE GIFTS!</strong></span></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>both_live</s:tag>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Unlocked androids</s:tag>
+    <s:tag>Unlocked Phones</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/3876472946771</id>
+      <title>64GB / Lilac Purple</title>
+      <s:price currency="CAD">249.00</s:price>
+      <s:sku>PH-SM-GS9-PR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/3876472946771</id>
+      <title>64GB / Titanium Gray</title>
+      <s:price currency="CAD">249.00</s:price>
+      <s:sku>PH-SM-GS9-GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/3876472946771</id>
+      <title>64GB / Coral Blue</title>
+      <s:price currency="CAD">249.00</s:price>
+      <s:sku>PH-SM-GS9-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/3876472946771</id>
+      <title>64GB / Black</title>
+      <s:price currency="CAD">249.00</s:price>
+      <s:sku>PH-SM-GS9-BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

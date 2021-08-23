@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wirelessxplosion.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wirelessxplosion.ca/collections/side-glue.atom"/>
+  <title>Wireless Xplosion Ltd</title>
+  <updated>2021-07-28T13:04:52-04:00</updated>
+  <author>
+    <name>Wireless Xplosion Ltd</name>
+  </author>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/7110852116649</id>
+    <published>2021-07-28T13:04:52-04:00</published>
+    <updated>2021-07-28T13:04:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/samsung-galaxy-a12-3d-full-glue-tempered-glass"/>
+    <title>Samsung Galaxy A12 - 3D Full Glue Tempered Glass</title>
+    <s:type>Full Adhesive Screen</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/MicrosoftTeams-image_5_e20c94bf-604b-45a4-83e8-f66962a52fc8.jpg?v=1627491893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Full Adhesive Screen<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li><span>Samsung A12 5G Tempered glass screen protector provides edge to edge coverage.</span></li>
+<li>Made of premium glass, 6H hardness, and scratch resistance</li>
+<li>HD clarity and fingerprint resistant</li>
+<li>Smooth as silk with Oleophobic coating</li>
+<li>Case friendly so you can still wear your favorite case while the screen is being protected</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collection_Screen Patrol</s:tag>
+    <s:tag>Device_Samsung A12</s:tag>
+    <s:tag>Screen Patrol</s:tag>
+    <s:tag>Side Glue</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7110852116649</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>C4172-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/6983101055145</id>
+    <published>2021-05-11T17:25:36-04:00</published>
+    <updated>2021-05-11T17:25:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/tcl-20-pro-5g-case-friendly-curved-side-glue-tempered-glass"/>
+    <title>TCL 20 Pro 5G - Case Friendly Curved Side Glue Tempered Glass</title>
+    <s:type>Full Adhesive Screen</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Full-adhesive-packaging_abcbfd06-de3c-4b75-b44c-db224d8516ab.jpg?v=1621353565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Full Adhesive Screen<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>Fully compatible with a fingerprint scanner</li>
+<li>Made of premium Japanese glass, 6H hardness, and scratch resistance</li>
+<li>HD clarity and fingerprint resistant</li>
+<li>Smooth as silk with Oleophobic coating</li>
+<li>Case friendly so you can still wear your favorite case while the screen is being protected</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Huawei</s:tag>
+    <s:tag>Device_TCL 20 Pro 5G</s:tag>
+    <s:tag>Pre Order</s:tag>
+    <s:tag>Screen Patrol</s:tag>
+    <s:tag>Side Glue</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/6983101055145</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>C4171-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/6634009428137</id>
+    <published>2021-03-25T12:54:16-04:00</published>
+    <updated>2021-03-25T12:54:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/samsung-galaxy-a52-3d-full-glue-tempered-glass"/>
+    <title>Samsung Galaxy A52 - 3D Full Glue Tempered Glass</title>
+    <s:type>Full Adhesive Screen</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/MicrosoftTeams-image_8.jpg?v=1616691270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Full Adhesive Screen<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li><span>Samsung A52 Tempered glass screen protector provides edge to edge coverage.</span></li>
+<li>Made of premium glass, 6H hardness, and scratch resistance</li>
+<li>HD clarity and fingerprint resistant</li>
+<li>Smooth as silk with Oleophobic coating</li>
+<li>Case friendly so you can still wear your favorite case while the screen is being protected</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collection_Screen Patrol</s:tag>
+    <s:tag>Device_Samsung A52</s:tag>
+    <s:tag>Screen Patrol</s:tag>
+    <s:tag>Side Glue</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/6634009428137</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>C4169-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/6634000908457</id>
+    <published>2021-03-25T12:47:57-04:00</published>
+    <updated>2021-03-25T12:47:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/samsung-galaxy-a32-3d-full-glue-tempered-glass"/>
+    <title>Samsung Galaxy A32 5G - 3D Full Glue Tempered Glass</title>
+    <s:type>Full Adhesive Screen</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/MicrosoftTeams-image_5.jpg?v=1616691188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Full Adhesive Screen<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li><span>Samsung A32 5G Tempered glass screen protector provides edge to edge coverage.</span></li>
+<li>Made of premium glass, 6H hardness, and scratch resistance</li>
+<li>HD clarity and fingerprint resistant</li>
+<li>Smooth as silk with Oleophobic coating</li>
+<li>Case friendly so you can still wear your favorite case while the screen is being protected</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collection_Screen Patrol</s:tag>
+    <s:tag>Device_Samsung A32</s:tag>
+    <s:tag>Screen Patrol</s:tag>
+    <s:tag>Side Glue</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/6634000908457</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>C4168-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/6597691441321</id>
+    <published>2021-03-12T12:41:04-05:00</published>
+    <updated>2021-03-12T12:41:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/samsung-galaxy-s21-plus-case-friendly-curved-side-glue-tempered-glass"/>
+    <title>Samsung Galaxy S21 Plus - Case Friendly Full Glue Tempered Glass</title>
+    <s:type>Full Adhesive Screen</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/1_fc3cb832-2459-4add-abf1-afb172a374e5.jpg?v=1615581157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Full Adhesive Screen<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>Fully compatible with fingerprint scanner</li>
+<li>Made of premium Japanese glass, 9H hardness, and scratch resistance</li>
+<li>HD clarity and fingerprint resistant</li>
+<li>Smooth as silk with Oleophobic coating</li>
+<li>Case friendly so you can still wear your favorite case while the screen is being protected</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collection_Screen Patrol</s:tag>
+    <s:tag>Device_Samsung S21 Plus</s:tag>
+    <s:tag>Screen Patrol</s:tag>
+    <s:tag>Side Glue</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/6597691441321</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>C4164-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/6597688524969</id>
+    <published>2021-03-12T12:40:29-05:00</published>
+    <updated>2021-03-12T12:40:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/samsung-galaxy-s21-case-friendly-curved-side-glue-tempered-glass"/>
+    <title>Samsung Galaxy S21 - Case Friendly Full Glue Tempered Glass</title>
+    <s:type>Full Adhesive Screen</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/1_cff5b4a6-08b9-4979-b9b3-80cf33d1616c.jpg?v=1616687088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Full Adhesive Screen<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>Fully compatible with fingerprint scanner</li>
+<li>Made of premium Japanese glass, 9H hardness, and scratch resistance</li>
+<li>HD clarity and fingerprint resistant</li>
+<li>Smooth as silk with Oleophobic coating</li>
+<li>Case friendly so you can still wear your favorite case while the screen is being protected</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collection_Screen Patrol</s:tag>
+    <s:tag>Device_Samsung S21</s:tag>
+    <s:tag>Screen Patrol</s:tag>
+    <s:tag>Side Glue</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/6597688524969</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>C4156-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/3939597189203</id>
+    <published>2020-07-28T16:56:06-04:00</published>
+    <updated>2020-07-28T16:56:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/case-friendly-curved-side-glue-tempered-glass-samsung-galaxy-s10"/>
+    <title>Samsung Galaxy S10 - Case Friendly Curved Side Glue Tempered Glass</title>
+    <s:type>Full Adhesive Screen</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Full-adhesive-packaging_8f4ef795-cf0f-4c0e-bc37-298c9bcbff5d.jpg?v=1571715743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Full Adhesive Screen<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>Fully compatible with a fingerprint scanner</li>
+<li>Made of premium Japanese glass, 9H hardness, and scratch resistance</li>
+<li>HD clarity and fingerprint resistant</li>
+<li>Smooth as silk with Oleophobic coating</li>
+<li>Case friendly so you can still wear your favorite case while the screen is being protected</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Device_Samsung S10</s:tag>
+    <s:tag>Screen Patrol</s:tag>
+    <s:tag>Side Glue</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/3939597189203</id>
+      <title>TG</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>C4511-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/4413615571027</id>
+    <published>2020-03-13T14:47:06-04:00</published>
+    <updated>2020-03-13T14:47:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/case-friendly-curved-side-glue-tempered-glass-samsung-galaxy-s10e"/>
+    <title>Samsung Galaxy S10e - Case Friendly Curved Side Glue Tempered Glass</title>
+    <s:type>Full Adhesive Screen</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Full-adhesive-packaging_d62f6c16-9f2e-4ee9-9eb7-46dc071bec71.jpg?v=1584125227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Full Adhesive Screen<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>Fully compatible with a fingerprint scanner</li>
+<li>Made of premium Japanese glass, 9H hardness, and scratch resistance</li>
+<li>HD clarity and fingerprint resistant</li>
+<li>Smooth as silk with Oleophobic coating</li>
+<li>Case friendly so you can still wear your favorite case while the screen is being protected</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Device_Samsung S10 Lite</s:tag>
+    <s:tag>Screen Patrol</s:tag>
+    <s:tag>Side Glue</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4413615571027</id>
+      <title>TG</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>C4513-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/4390712803411</id>
+    <published>2020-01-23T16:35:00-05:00</published>
+    <updated>2020-01-23T16:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/case-friendly-curved-side-glue-tempered-glass-samsung-galaxy-s11e"/>
+    <title>Samsung Galaxy S20 Plus - Case Friendly Curved Side Glue Tempered Glass</title>
+    <s:type>Full Adhesive Screen</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Case-Friendly-Curved-Side-Glue-Tempered-Glass-Samsung-Galaxy-S20-Plus.jpg?v=1589475312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Full Adhesive Screen<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>Fully compatible with a fingerprint scanner</li>
+<li>Made of premium Japanese glass, 9H hardness, and scratch resistance</li>
+<li>HD clarity and fingerprint resistant</li>
+<li>Smooth as silk with Oleophobic coating</li>
+<li>Case friendly so you can still wear your favorite case while the screen is being protected</li>
+</ul>
+<br>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collection_Screen Patrol</s:tag>
+    <s:tag>Device_Samsung S20 Plus</s:tag>
+    <s:tag>Screen Patrol</s:tag>
+    <s:tag>Side Glue</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4390712803411</id>
+      <title>TG</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>C4532-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/4390712475731</id>
+    <published>2020-01-23T16:34:12-05:00</published>
+    <updated>2020-01-23T16:34:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/case-friendly-curved-side-glue-tempered-glass-samsung-galaxy-s11-plus"/>
+    <title>Samsung Galaxy S20 Ultra - Case Friendly Curved Side Glue Tempered Glass</title>
+    <s:type>Full Adhesive Screen</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Case-Friendly-Curved-Side-Glue-Tempered-Glass-Samsung-Galaxy-S20-Ultra.jpg?v=1589476373"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Full Adhesive Screen<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>Fully compatible with fingerprint scanner</li>
+<li>Made of premium Japanese glass, 9H hardness, and scratch resistance</li>
+<li>HD clarity and fingerprint resistant</li>
+<li>Smooth as silk with Oleophobic coating</li>
+<li>Case friendly so you can still wear your favorite case while the screen is being protected</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collection_Screen Patrol</s:tag>
+    <s:tag>Device_Samsung S20 Ultra</s:tag>
+    <s:tag>Screen Patrol</s:tag>
+    <s:tag>Side Glue</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4390712475731</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>C4533-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/4390712377427</id>
+    <published>2020-01-23T16:33:14-05:00</published>
+    <updated>2020-01-23T16:33:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/case-friendly-curved-side-glue-tempered-glass-samsung-galaxy-s11"/>
+    <title>Samsung Galaxy S20 - Case Friendly Curved Side Glue Tempered Glass</title>
+    <s:type>Full Adhesive Screen</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Case-Friendly-Curved-Side-Glue-Tempered-Glass-Samsung-Galaxy-S20.jpg?v=1589483759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Full Adhesive Screen<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>Fully compatible with fingerprint scanner</li>
+<li>Made of premium Japanese glass, 9H hardness, and scratch resistance</li>
+<li>HD clarity and fingerprint resistant</li>
+<li>Smooth as silk with Oleophobic coating</li>
+<li>Case friendly so you can still wear your favorite case while the screen is being protected</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collection_Screen Patrol</s:tag>
+    <s:tag>Device_Samsung S20</s:tag>
+    <s:tag>Screen Patrol</s:tag>
+    <s:tag>Side Glue</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4390712377427</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>C4531-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/3939601514579</id>
+    <published>2019-08-20T17:24:13-04:00</published>
+    <updated>2019-08-20T17:24:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/case-friendly-curved-side-glue-tempered-glass-samsung-galaxy-s9"/>
+    <title>Samsung Galaxy S9 - Case Friendly Curved Side Glue Tempered Glass</title>
+    <s:type>Full Adhesive Screen</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Full-adhesive-packaging_e05ffbcb-211a-4a82-b5cf-d3dbe17c5058.jpg?v=1571715743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Full Adhesive Screen<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>Fully compatible with a fingerprint scanner</li>
+<li>Made of premium Japanese glass, 9H hardness, and scratch resistance</li>
+<li>HD clarity and fingerprint resistant</li>
+<li>Smooth as silk with Oleophobic coating</li>
+<li>Case friendly so you can still wear your favorite case while the screen is being protected</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Device_Samsung S9</s:tag>
+    <s:tag>Screen Patrol</s:tag>
+    <s:tag>Side Glue</s:tag>
+    <s:tag>te</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/3939601514579</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>C4543-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/3939601416275</id>
+    <published>2019-08-20T17:23:45-04:00</published>
+    <updated>2019-08-20T17:23:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/case-friendly-curved-side-glue-tempered-glass-samsung-galaxy-s9-plus"/>
+    <title>Samsung Galaxy S9 Plus - Case Friendly Curved Side Glue Tempered Glass</title>
+    <s:type>Full Adhesive Screen</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Full-adhesive-packaging_67c396d7-fe06-4ac8-8043-8174bab793a4.jpg?v=1571715743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Full Adhesive Screen<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>Fully compatible with a fingerprint scanner</li>
+<li>Made of premium Japanese glass, 9H hardness, and scratch resistance</li>
+<li>HD clarity and fingerprint resistant</li>
+<li>Smooth as silk with Oleophobic coating</li>
+<li>Case friendly so you can still wear your favorite case while the screen is being protected</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Device_Samsung S9 Plus</s:tag>
+    <s:tag>sale_80%_group</s:tag>
+    <s:tag>Screen Patrol</s:tag>
+    <s:tag>Side Glue</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/3939601416275</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>C4544-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/3939601350739</id>
+    <published>2019-08-20T17:23:08-04:00</published>
+    <updated>2019-08-20T17:23:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/case-friendly-curved-side-glue-tempered-glass-samsung-galaxy-s10-plus"/>
+    <title>Samsung Galaxy S10 Plus - Case Friendly Curved Side Glue Tempered Glass</title>
+    <s:type>Full Adhesive Screen</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Full-adhesive-packaging_17ecb2bf-1168-41cb-81c6-550a7c45acde.jpg?v=1571715743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Full Adhesive Screen<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>Fully compatible with a fingerprint scanner</li>
+<li>Made of premium Japanese glass, 9H hardness, and scratch resistance</li>
+<li>HD clarity and fingerprint resistant</li>
+<li>Smooth as silk with Oleophobic coating</li>
+<li>Case friendly so you can still wear your favorite case while the screen is being protected</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Device_Samsung S10 Plus</s:tag>
+    <s:tag>Screen Patrol</s:tag>
+    <s:tag>Side Glue</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/3939601350739</id>
+      <title>TG</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>C4512-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/3939577659475</id>
+    <published>2019-08-20T16:32:18-04:00</published>
+    <updated>2019-08-20T16:32:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/full-adhesive-curved-tempered-glass-samsung-note-10-plus"/>
+    <title>Samsung Note 10 Plus - Case Friendly Curved Side Glue Tempered Glass</title>
+    <s:type>Full Adhesive Screen</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Full-adhesive-packaging_a1cd9efa-e605-4aee-a547-f61ac1e42bfe.jpg?v=1571715743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Full Adhesive Screen<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>Fully compatible with fingerprint scanner</li>
+<li>Made of premium Japanese glass, 9H hardness, and scratch resistance</li>
+<li>HD clarity and fingerprint resistant</li>
+<li>Smooth as silk with Oleophobic coating</li>
+<li>Case friendly so you can still wear your favorite case while the screen is being protected</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Device_Samsung Note 10 Plus</s:tag>
+    <s:tag>Screen Patrol</s:tag>
+    <s:tag>Side Glue</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/3939577659475</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>C4502-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/3939568681043</id>
+    <published>2019-08-20T16:04:23-04:00</published>
+    <updated>2019-08-20T16:04:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/full-adhesive-curved-tempered-glass-samsung-note-10"/>
+    <title>Samsung Note 10 - Case Friendly Curved Side Glue Tempered Glass</title>
+    <s:type>Full Adhesive Screen</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Full-adhesive-packaging.jpg?v=1571715743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Full Adhesive Screen<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>Fully compatible with fingerprint scanner</li>
+<li>Made of premium Japanese glass, 9H hardness, and scratch resistance</li>
+<li>HD clarity and fingerprint resistant</li>
+<li>Smooth as silk with Oleophobic coating</li>
+<li>Case friendly so you can still wear your favorite case while the screen is being protected</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Device_Samsung Note 10</s:tag>
+    <s:tag>Screen Patrol</s:tag>
+    <s:tag>Side Glue</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/3939568681043</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>C4501-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

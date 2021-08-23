@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wirelessxplosion.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wirelessxplosion.ca/collections/car-chargers.atom"/>
+  <title>Wireless Xplosion Ltd</title>
+  <updated>2020-06-25T13:27:33-04:00</updated>
+  <author>
+    <name>Wireless Xplosion Ltd</name>
+  </author>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/4490470260819</id>
+    <published>2020-06-25T13:27:33-04:00</published>
+    <updated>2020-06-25T13:27:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/j3-dual-port-qualcomm-3-0-2-4-usb-quick-car-charger"/>
+    <title>J3 Dual Port - Qualcomm 3.0 + 2.4 USB Quick Car Charger</title>
+    <s:type>Car Charger</s:type>
+    <s:vendor>Rockstone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/J3-CarCharger2020-Mockup-Cable-Grey.jpg?v=1593102438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rockstone<br>
+        <strong>Type: </strong>Car Charger<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>J3 Dual Port Car charger provides fast car charging than conventional charging</li>
+<li>This unit is universally compatible with dual port charging</li>
+<li>J3 Amp car charger is powered by Smart Charging Technology that identifies devices their unique charging requirements.</li>
+<li>Get upto 80% charge in less than 30 minutes</li>
+<li>The first port is <span>2.4 USB, 12W Output Charging Port</span>
+</li>
+<li>The second port is Qualcomm Quick Charge 3.0 that charges 4 times faster than the conventional charger.</li>
+</ul>
+<p><span><strong>Package Includes :</strong> J3 Dual Port Qualcomm 3.0 + 2.4 USB Quick Car Charger</span></p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Car Chargers</s:tag>
+    <s:tag>multiport_acc</s:tag>
+    <s:tag>Type_Car Charger</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4490470260819</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>R2430-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/2530862661715</id>
+    <published>2019-02-28T12:39:15-05:00</published>
+    <updated>2019-02-28T12:39:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/bullet-2-port-4-8-amp-universal-usb-car-charger"/>
+    <title>Bullet 2 Port 4.8 Amp Universal USB Car Charger</title>
+    <s:type>Car Charger</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/BulletcarChaeger-Mockup-Grey.jpg?v=1591733479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Car Charger<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>Caseco Bullet 2 Port Car Charger provides fast charging than conventional charging</li>
+<li>This unit is universally compatible with dual port charging</li>
+<li>Caseco Bullet 2 Port Car Charger is powered by Smart Charging Technology that identifies devices their unique charging requirements.</li>
+<li>This unit can be used with Android devices and other USB Portable Devices</li>
+<li>Input: DC 12-24V | Output: DC 5V (4.8 AMP), 2.4 amp per output</li>
+<li>Provides of built-in LED indicator for Charging indication.</li>
+</ul>
+<strong>Package Includes : </strong>Caseco Bullet 2 Port Car Charger</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Car Chargers</s:tag>
+    <s:tag>Chargers</s:tag>
+    <s:tag>multiport_acc</s:tag>
+    <s:tag>Type_Car Charger</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2530862661715</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>CC-2P-4.8-BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375382929526</id>
+    <published>2018-05-24T18:38:35-04:00</published>
+    <updated>2018-05-24T18:38:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/revive-hc2-usb-wall-and-car-charging-kit"/>
+    <title>Revive HC2 USB Wall and Car Charging Kit</title>
+    <s:type>Car Charger</s:type>
+    <s:vendor>Scosche</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/wx-usbhc121i-02.jpg?v=1615915202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Scosche<br>
+        <strong>Type: </strong>Car Charger<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Scosche's REVIVE HC2 charger kit will keep your iPhone, iPad, or other USB device charged up anywhere — at home or on the go. Compatible with most USB devices, the kit includes a home power adapter and DC power adapter capable of charging at 12W (2.4A).<br><strong>USB Car Charger<br></strong>The car charger allows you to charge devices at 12 Watts (2.4A) of power.<br>REVIVE includes an ultra low-profile design that fits flush in most vehicle power sockets - ensuring the best use of valuable space around your dashboard.<br><strong>USB Wall Charger<br></strong>The home charger allows you to charge devices at 12 Watts (2.4A) of power.<br>REVIVE includes an ultra low-profile design that won't block addition power outlets - allowing you to use other appliances or chargers in the same wall outlet.<br><strong>Works with: </strong>iPod, iPhone, iPad, Android Devices, Smartphones, BlackBerry, MP3 Players, Gaming devices and more.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Car &amp; Wall Chargers</s:tag>
+    <s:tag>Car and Wall Chargers</s:tag>
+    <s:tag>Car Chargers</s:tag>
+    <s:tag>Type_Car Charger</s:tag>
+    <s:tag>Wall Chargers</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375382929526</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>USBHC121I</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375375851638</id>
+    <published>2018-05-24T18:37:55-04:00</published>
+    <updated>2018-05-24T18:37:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/rockstone-dual-port-car-charger-4-8-amp"/>
+    <title>J4.8- 2 Port USB Car Charger - 4.8 AMP</title>
+    <s:type>Car Charger</s:type>
+    <s:vendor>Rockstone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/j4-8-mockup-grey.jpg?v=1571715724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rockstone<br>
+        <strong>Type: </strong>Car Charger<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>J4.8 Amp Car charger provides fast charging than conventional charging</li>
+<li>This unit is universally compatible with dual port charging</li>
+<li>J4.8 Amp car charger is powered by Smart Charging Technology that identifies devices their unique charging requirements.</li>
+<li>This unit can be used with both Apple and Android devices with USB ports</li>
+<li>Specification : 4.8 AMP chargers, 2.4AMP per output</li>
+</ul>
+<strong>Package Includes : </strong>2 Port J4.8 Amp USB Car Charger</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Car Chargers</s:tag>
+    <s:tag>Chargers</s:tag>
+    <s:tag>multiport_acc</s:tag>
+    <s:tag>Type_Car Charger</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375375851638</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>RS-J4.8-BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/2433552449619</id>
+    <published>2018-05-24T18:34:39-04:00</published>
+    <updated>2018-05-24T18:34:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/pulse-type-c-cable-car-charger"/>
+    <title>Pulse 2.4 Amp Fast Type C 1.5 M Car Charger</title>
+    <s:type>Car Charger</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/type-c-mockup-grey.jpg?v=1571715731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Car Charger<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>Pulse Fast Type C Car charger provides 4X faster charging than conventional charging</li>
+<li>This unit is compatible with Android Devices.</li>
+<li>Pulse car charger is powered by Smart IC (Intelligent Charging), that identifies devices with Type-C connectors to maximize the charging speed.</li>
+<li>Specification : 12W / 5V / 2.4AMP</li>
+<li>Length of the Cable 1.5 Meters ( 5 feet)</li>
+</ul>
+<strong>Package Includes : </strong>Pulse Fast Type C 1.5 M ( 5 feet) Car Charger</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Car &amp; Wall Chargers</s:tag>
+    <s:tag>Car and Wall Chargers</s:tag>
+    <s:tag>Car Chargers</s:tag>
+    <s:tag>Chargers</s:tag>
+    <s:tag>Type_Car Charger</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2433552449619</id>
+      <title>White</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>C0020-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/2433533345875</id>
+    <published>2018-05-24T18:34:39-04:00</published>
+    <updated>2018-05-24T18:34:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/pulse-lightning-cable-car-charger"/>
+    <title>Pulse 2.4 Amp Fast Lightning 1.5M Car Charger</title>
+    <s:type>Car Charger</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/lightning-mockup-grey.jpg?v=1571715731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Car Charger<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>Pulse Fast Lightning Car charger provides 4X faster charging than conventional charging</li>
+<li>This unit is compatible with Apple Devices.</li>
+<li>Pulse car charger is powered by Smart IC (Intelligent Charging), that identifies devices with lightning port connectors to maximize the charging speed.</li>
+<li>Qi Certified and surpasses all industry standards</li>
+<li>Specification : 12W / 5V / 2.4AMP</li>
+<li>Length of the Cable 1.5 Meters ( 5 feet)</li>
+</ul>
+<strong>Package Includes : </strong>Pulse Fast Lightning Car Charger</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Car &amp; Wall Chargers</s:tag>
+    <s:tag>Car and Wall Chargers</s:tag>
+    <s:tag>Car Chargers</s:tag>
+    <s:tag>Chargers</s:tag>
+    <s:tag>Type_Car Charger</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2433533345875</id>
+      <title>White</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>C0019-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375326896246</id>
+    <published>2018-05-24T18:33:09-04:00</published>
+    <updated>2018-05-24T18:33:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/saskatchewan-roughriders-car-charger-2-1-amp"/>
+    <title>Saskatchewan Roughriders 2.1 Amp Car Charger - Green</title>
+    <s:type>Car Charger</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/download-3_79_952b5768-ec58-43c6-af77-6cf7018634c2.jpg?v=1571715717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Car Charger<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>One Charging USB Port 2.1 Amps</li>
+<li>Sleek and Unique Design</li>
+<li>Capable of charging a wide range of devices</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Type_Car Charger</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375326896246</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>CC-CLA-SR-GR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

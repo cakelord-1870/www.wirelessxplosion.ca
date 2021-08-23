@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wirelessxplosion.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wirelessxplosion.ca/collections/unlocked-ipads.atom"/>
+  <title>Wireless Xplosion Ltd</title>
+  <updated>2020-11-05T17:26:11-05:00</updated>
+  <author>
+    <name>Wireless Xplosion Ltd</name>
+  </author>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/4485263130707</id>
+    <published>2020-11-05T17:26:11-05:00</published>
+    <updated>2020-11-05T17:26:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/ipad-pro-9-7-inch-refurbished-a-plus-condition"/>
+    <title>iPad 9.7 Inch (2018) Refurbished - A Plus Condition</title>
+    <s:type>Phone</s:type>
+    <s:vendor>Apple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/iPad-Mini-4-s_cae66f05-8b59-4c07-aeeb-a6436013d52b.jpg?v=1592335584"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Apple<br>
+        <strong>Type: </strong>Phone<br>
+        <strong>Price: </strong>
+            350.00 - 430.00
+            <a href="https://www.wirelessxplosion.ca/products/ipad-pro-9-7-inch-refurbished-a-plus-condition">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: left;">
+<div style="text-align: left;"><span style="color: #ff0000;"><strong>PHONE ORDERS ARE NOT ELIGIBLE FOR FREE GIFTS!</strong></span></div>
+<div style="text-align: left;">
+<span style="color: #ff0000;"><strong></strong></span><br>
+</div>
+<div style="text-align: left;">
+<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li><span class="a-list-item">9.7" Multi-Touch Retina Display, 2048 x 1536 Screen Resolution (264 ppi)</span></li>
+<li><span class="a-list-item">Apple A10 Fusion SoC M10 Coprocessor, 2GB RAM, 128GB Storage</span></li>
+<li><span class="a-list-item">WiFi Only version, 802.11ac Wi-Fi, Bluetooth 4.2, Front 1.2MP FaceTime HD Camera, Rear 8MP Camera</span></li>
+<li>
+<span class="a-list-item">Supports Apple Pencil, Night Shift, Touch ID Sensor, Lightning Connector<br></span><br><strong>Packaging :</strong>
+</li>
+</ul>
+</div>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li>In plain white box </li>
+<li>Includes cable and wall charger</li>
+<li><span>30-Day Limited Repair Warranty from the invoice date.</span></li>
+<li>Original Canadian Carrier Phones eg-Bell, Rogers, Telus Network</li>
+</ul>
+<p><strong>Payment Mode</strong><span> : 2% credit card will be applied, email money transfer no charge</span></p>
+</div>
+<ul class="a-unordered-list a-vertical a-spacing-none"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Apple</s:tag>
+    <s:tag>Unlocked iPads</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4485263130707</id>
+      <title>WiFi Only / 32GB</title>
+      <s:price currency="CAD">350.00</s:price>
+      <s:sku>PH-iP9.7W-32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4485263130707</id>
+      <title>WiFi Only / 128GB</title>
+      <s:price currency="CAD">380.00</s:price>
+      <s:sku>PH-iP9.7W-128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4485263130707</id>
+      <title>Cellular/WiFi / 32GB</title>
+      <s:price currency="CAD">390.00</s:price>
+      <s:sku>PH-iP9.7C-32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4485263130707</id>
+      <title>Cellular/WiFi / 128GB</title>
+      <s:price currency="CAD">430.00</s:price>
+      <s:sku>PH-iP9.7C-128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wirelessxplosion.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wirelessxplosion.ca/collections/privacy-tempered-glass.atom"/>
+  <title>Wireless Xplosion Ltd</title>
+  <updated>2020-10-15T13:23:05-04:00</updated>
+  <author>
+    <name>Wireless Xplosion Ltd</name>
+  </author>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/5953693515945</id>
+    <published>2020-10-15T13:23:05-04:00</published>
+    <updated>2020-10-15T13:23:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/privacy-glass-iphone-12-pro-max"/>
+    <title>Privacy Glass - iPhone 12 Pro Max</title>
+    <s:type>Screen Patrol iPhone</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/PrivacyScreenProtector-iPhone126.1-Inch_1.jpg?v=1602782585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Screen Patrol iPhone<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/ijlkufxpex" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<ul style="list-style: unset;">
+<li>iPhone 12 Pro Max Privacy tempered glass screen protector provides edge to edge coverage.</li>
+<li>The top layer of the glass has an anti fingerprint screen.</li>
+<li>Privacy Glass is scratch-resistant and remains tough under any impact.</li>
+<li>Privacy Glass provides a two-way filter to offer privacy protection when viewed from the sides.</li>
+<li>Maintains the original native touch experience with a barely-there thickness of 0.2 mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collection_Screen Patrol</s:tag>
+    <s:tag>Device_iPhone 12</s:tag>
+    <s:tag>Device_iPhone 12 Pro Max</s:tag>
+    <s:tag>Devices:Apple</s:tag>
+    <s:tag>iPhone 12</s:tag>
+    <s:tag>iPhone Tempered Glass</s:tag>
+    <s:tag>Screen Patrol</s:tag>
+    <s:tag>Screen Patrol Tempered Glass</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:tag>Tempered Glasses</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/5953693515945</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>C4454-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/5950597922985</id>
+    <published>2020-10-14T16:39:21-04:00</published>
+    <updated>2020-10-14T16:39:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/privacy-glass-iphone-12-mini"/>
+    <title>Privacy Glass - iPhone 12 mini</title>
+    <s:type>Screen Patrol iPhone</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/PrivacyScreenProtector-iPhone126.1-Inch_25e1c83e-2ee3-46c5-8de0-730a92146b94.jpg?v=1602852590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Screen Patrol iPhone<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe src="https://fast.wistia.net/embed/iframe/ijlkufxpex" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe>
+<ul style="list-style: unset;">
+<li>iPhone 12 mini Privacy tempered glass screen protector provides edge to edge coverage.</li>
+<li>The top layer of the glass has an anti fingerprint screen.</li>
+<li>Privacy Glass is scratch-resistant and remains tough under any impact.</li>
+<li>Privacy Glass provides a two-way filter to offer privacy protection when viewed from the sides.</li>
+<li>Maintains the original native touch experience with a barely-there thickness of 0.2 mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Device_iPhone 12 mini</s:tag>
+    <s:tag>Devices:Apple</s:tag>
+    <s:tag>iPhone Tempered Glass</s:tag>
+    <s:tag>Screen Patrol</s:tag>
+    <s:tag>Screen Patrol Tempered Glass</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:tag>Tempered Glasses</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/5950597922985</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>C4452-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/5938479857833</id>
+    <published>2020-10-13T16:22:45-04:00</published>
+    <updated>2020-10-13T16:22:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/iphone-12-6-1-inch-screen-patrol-privacy-glass"/>
+    <title>Privacy Glass - iPhone 12 / 12 Pro</title>
+    <s:type>Screen Patrol iPhone</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/PrivacyScreenProtector-iPhone126.1-Inch.jpg?v=1602620565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Screen Patrol iPhone<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe src="https://fast.wistia.net/embed/iframe/ijlkufxpex" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe>
+<ul style="list-style: unset;">
+<li>iPhone 12 6.1-Inch Privacy tempered glass screen protector provides edge to edge coverage.</li>
+<li>The top layer of the glass has an anti fingerprint screen.</li>
+<li>Privacy Glass is scratch-resistant and remains tough under any impact.</li>
+<li>Privacy Glass provides a two-way filter to offer privacy protection when viewed from the sides.</li>
+<li>Maintains the original native touch experience with a barely-there thickness of 0.2 mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Device_iPhone 12</s:tag>
+    <s:tag>Device_iPhone 12 6.1 Inch</s:tag>
+    <s:tag>Devices:Apple</s:tag>
+    <s:tag>iPhone 12</s:tag>
+    <s:tag>iPhone Tempered Glass</s:tag>
+    <s:tag>Screen Patrol</s:tag>
+    <s:tag>Screen Patrol Tempered Glass</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:tag>Tempered Glasses</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/5938479857833</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>C4453-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/4094357602387</id>
+    <published>2019-09-16T10:34:33-04:00</published>
+    <updated>2019-09-16T10:34:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/screen-patrol-privacy-glass-iphone-11-pro-max"/>
+    <title>iPhone 11 Pro Max/XS Max - Screen Patrol - Privacy Glass</title>
+    <s:type>Screen Patrol iPhone</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Privacy-ScreenPatrol_a72986b0-2fe5-427e-b84f-12749ac95934.jpg?v=1571715745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Screen Patrol iPhone<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/ijlkufxpex" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<ul style="list-style:unset;">
+<li>iPhone 11 Pro Max Privacy tempered glass screen protector provides edge to edge coverage.</li>
+<li>The top layer of the glass has an anti fingerprint screen.</li>
+<li>Privacy Glass is scratch-resistant and remains tough under any impact.</li>
+<li>Privacy Glass provides a two-way filter to offer privacy protection when viewed from the sides.</li>
+<li>Maintains the original native touch experience with a barely-there thickness of 0.2 mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Apple</s:tag>
+    <s:tag>Device_iPhone 11 Pro Max</s:tag>
+    <s:tag>iPhone 11</s:tag>
+    <s:tag>Screen Patrol</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4094357602387</id>
+      <title>TG</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>C4409-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/4094357176403</id>
+    <published>2019-09-16T10:33:48-04:00</published>
+    <updated>2019-09-16T10:33:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/screen-patrol-privacy-glass-iphone-11-pro"/>
+    <title>iPhone 11 Pro/XS - Screen Patrol - Privacy Glass</title>
+    <s:type>Screen Patrol iPhone</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Privacy-ScreenPatrol_2ce170b1-fc7c-4b72-b475-ec299d612da3.jpg?v=1571715745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Screen Patrol iPhone<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/ijlkufxpex" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<ul style="list-style:unset;">
+<li>iPhone 11 Pro Privacy tempered glass screen protector provides edge to edge coverage.</li>
+<li>The top layer of the glass has an anti fingerprint screen.</li>
+<li>Privacy Glass is scratch-resistant and remains tough under any impact.</li>
+<li>Privacy Glass provides a two-way filter to offer privacy protection when viewed from the sides.</li>
+<li>Maintains the original native touch experience with a barely-there thickness of 0.2 mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Apple</s:tag>
+    <s:tag>Device_iPhone 11 Pro</s:tag>
+    <s:tag>Device_iPhone X</s:tag>
+    <s:tag>Device_iPhone XS &amp; X</s:tag>
+    <s:tag>iPhone 11</s:tag>
+    <s:tag>Screen Patrol</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4094357176403</id>
+      <title>TG</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>C4406-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/4094356914259</id>
+    <published>2019-09-16T10:32:48-04:00</published>
+    <updated>2019-09-16T10:32:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/screen-patrol-privacy-glass-iphone-11"/>
+    <title>iPhone 11/XR - Screen Patrol - Privacy Glass</title>
+    <s:type>Screen Patrol iPhone</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Privacy-ScreenPatrol_88900352-115e-4e45-803d-23ff518e2d88.jpg?v=1571715745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Screen Patrol iPhone<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/ijlkufxpex" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<ul style="list-style:unset;">
+<li>iPhone 11 Privacy tempered glass screen protector provides edge to edge coverage.</li>
+<li>The top layer of the glass has an anti fingerprint screen.</li>
+<li>Privacy Glass is scratch-resistant and remains tough under any impact.</li>
+<li>Privacy Glass provides a two-way filter to offer privacy protection when viewed from the sides.</li>
+<li>Maintains the original native touch experience with a barely-there thickness of 0.2 mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Apple</s:tag>
+    <s:tag>Device_iPhone 11</s:tag>
+    <s:tag>Device_iPhone XR</s:tag>
+    <s:tag>iPhone 11</s:tag>
+    <s:tag>Screen Patrol</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4094356914259</id>
+      <title>TG</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>C4407-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/3927299489875</id>
+    <published>2019-07-12T13:13:31-04:00</published>
+    <updated>2019-07-12T13:13:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/screen-patrol-privacy-glass-iphone-8-plus"/>
+    <title>iPhone 8 Plus / 7 Plus - Screen Patrol - Privacy Glass</title>
+    <s:type>Screen Patrol iPhone</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Privacy-ScreenPatrol_2ac13af7-e9b7-43a6-8db2-e0da42bd05ee.jpg?v=1571715742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Screen Patrol iPhone<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/ijlkufxpex" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<ul style="list-style:unset;">
+<li>iPhone 8 Plus / 7 Plus Privacy tempered glass screen protector provides edge to edge coverage.</li>
+<li>The top layer of the glass has an anti fingerprint screen.</li>
+<li>Privacy Glass is scratch-resistant and remains tough under any impact.</li>
+<li>Privacy Glass provides a two-way filter to offer privacy protection when viewed from the sides.</li>
+<li>Maintains the original native touch experience with a barely-there thickness of 0.2 mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Apple</s:tag>
+    <s:tag>Device_iPhone 8 &amp; 7 Plus</s:tag>
+    <s:tag>Screen Patrol</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/3927299489875</id>
+      <title>TG</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>C4481-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/3927299326035</id>
+    <published>2019-07-12T13:12:28-04:00</published>
+    <updated>2019-07-12T13:12:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/screen-patrol-privacy-glass-iphone-8"/>
+    <title>iPhone SE 2020, iPhone 8 / 7 - Screen Patrol - Privacy Glass</title>
+    <s:type>Screen Patrol iPhone</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Privacy-ScreenPatrol_8da6fd22-bb87-454a-b4c3-56038db375cd.jpg?v=1571715742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Screen Patrol iPhone<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/ijlkufxpex" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<ul style="list-style:unset;">
+<li>iPhone 8 / 7 Privacy tempered glass screen protector provides edge to edge coverage.</li>
+<li>The top layer of the glass has an anti fingerprint screen.</li>
+<li>Privacy Glass is scratch-resistant and remains tough under any impact.</li>
+<li>Privacy Glass provides a two-way filter to offer privacy protection when viewed from the sides.</li>
+<li>Maintains the original native touch experience with a barely-there thickness of 0.2 mm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Apple</s:tag>
+    <s:tag>Device_iPhone 8 &amp; 7</s:tag>
+    <s:tag>Device_iPhone SE</s:tag>
+    <s:tag>Screen Patrol</s:tag>
+    <s:tag>Tempered Glass</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/3927299326035</id>
+      <title>TG</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>C4408-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

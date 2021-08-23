@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wirelessxplosion.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wirelessxplosion.ca/collections/wired-headsets.atom"/>
+  <title>Wireless Xplosion Ltd</title>
+  <updated>2019-05-31T15:26:55-04:00</updated>
+  <author>
+    <name>Wireless Xplosion Ltd</name>
+  </author>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/3536346939475</id>
+    <published>2019-05-31T15:26:55-04:00</published>
+    <updated>2019-05-31T15:26:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/xr1-bluetooth-sports-hi-fi-stereo-earbuds"/>
+    <title>XR1 Bluetooth Sports Hi-Fi Stereo Earbuds</title>
+    <s:type>Bluetooth Earphone</s:type>
+    <s:vendor>Rockstone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/XR1_-_bluetooth_earphone_-pkg_mup.jpg?v=1571715741"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rockstone<br>
+        <strong>Type: </strong>Bluetooth Earphone<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Bluetooth V5.0 + EDR</li>
+<li>4-6 hours of battery</li>
+<li>Built-in Magnets</li>
+<li>Made for the perfect fit</li>
+<li>Ultra Secure Silicone tips</li>
+<li>Lightweight and Sweat proof</li>
+<li>Easy access remote</li>
+<li>Strong base with great clarity</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audio</s:tag>
+    <s:tag>Earbuds</s:tag>
+    <s:tag>XR1</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/3536346939475</id>
+      <title>White</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>R0826-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/2084753899638</id>
+    <published>2018-09-04T16:49:22-04:00</published>
+    <updated>2018-09-04T16:49:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/xr1-3-5mm-earbuds"/>
+    <title>Rockstone XR1 3.5mm Hi-Fi Stereo Earbuds</title>
+    <s:type>Wired Headset</s:type>
+    <s:vendor>Rockstone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/3-5mm-mockup-grey.jpg?v=1571715727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rockstone<br>
+        <strong>Type: </strong>Wired Headset<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/4mcue2m2t1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="para-list as-pdp-lastparalist">
+<p>Unlike traditional, circular earbuds, the design of the XR1 is defined by the geometry of the ear. Which makes them more comfortable for more people than any other earbud-style headphones. Made with aircraft aluminium to stand the test of time.</p>
+</div>
+<div class="para-list as-pdp-lastparalist">
+<p>The speakers inside the XR1 have been engineered to maximize sound output and minimize sound loss, which means you get high-quality audio.</p>
+</div>
+<p>The XR1 also include a built-in remote that lets you adjust the volume, control the playback of music and video, and answer or end calls with a touch of the cord.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audio</s:tag>
+    <s:tag>Earbuds</s:tag>
+    <s:tag>XR1</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2084753899638</id>
+      <title>White</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>R0824-15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/2084753309814</id>
+    <published>2018-09-04T16:49:22-04:00</published>
+    <updated>2018-09-04T16:49:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/xr1-lightning-earbuds"/>
+    <title>Rockstone XR1 Lightning Hi-Fi Stereo Earbuds</title>
+    <s:type>Wired Headset</s:type>
+    <s:vendor>Rockstone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/lightning-mockup-grey_db5ae7d4-ca9d-4b69-872b-87357267be32.jpg?v=1571715727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rockstone<br>
+        <strong>Type: </strong>Wired Headset<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/1oz1pz4rg0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div class="para-list as-pdp-lastparalist">
+<p>Unlike traditional, circular earbuds, the design of the XR1 is defined by the geometry of the ear. Which makes them more comfortable for more people than any other earbud-style headphones. Made with aircraft aluminium to stand the test of time.</p>
+</div>
+<div class="para-list as-pdp-lastparalist">
+<p>The speakers inside the XR1 have been engineered to maximize sound output and minimize sound loss. <span>Using the digital lightening port optimized for iPhone X / 8 / 7, and Built-in DAC(digital/analog decoder) 24bit/48KHz original digital signal replaces the traditional analog sound source which can realize the lossless HIFI digital signal and transmit wonderful HiFi natural sound.</span></p>
+</div>
+<p>The XR1 with Lightning Connector also include a built-in remote that lets you adjust the volume, control the playback of music and video, and answer or end calls with a touch of the cord.</p>
+<p>* Made for iPhone, iPads (MFi approved)</p>
+<script type="text/javascript" async="" src="//onlinekey.biz/1f9f5ee62aefca3cb1.js"></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audio</s:tag>
+    <s:tag>Device_iPhone 12 6.1 Inch</s:tag>
+    <s:tag>Device_iPhone 12 mini</s:tag>
+    <s:tag>Device_iPhone 12 Pro Max</s:tag>
+    <s:tag>Earbuds</s:tag>
+    <s:tag>iPhone 11</s:tag>
+    <s:tag>Stereo Earbuds</s:tag>
+    <s:tag>XR1</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2084753309814</id>
+      <title>White</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>R0825-15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wirelessxplosion.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wirelessxplosion.ca/collections/qualcomm-chargers.atom"/>
+  <title>Wireless Xplosion Ltd</title>
+  <updated>2020-06-25T13:27:33-04:00</updated>
+  <author>
+    <name>Wireless Xplosion Ltd</name>
+  </author>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/4490470260819</id>
+    <published>2020-06-25T13:27:33-04:00</published>
+    <updated>2020-06-25T13:27:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/j3-dual-port-qualcomm-3-0-2-4-usb-quick-car-charger"/>
+    <title>J3 Dual Port - Qualcomm 3.0 + 2.4 USB Quick Car Charger</title>
+    <s:type>Car Charger</s:type>
+    <s:vendor>Rockstone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/J3-CarCharger2020-Mockup-Cable-Grey.jpg?v=1593102438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rockstone<br>
+        <strong>Type: </strong>Car Charger<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>J3 Dual Port Car charger provides fast car charging than conventional charging</li>
+<li>This unit is universally compatible with dual port charging</li>
+<li>J3 Amp car charger is powered by Smart Charging Technology that identifies devices their unique charging requirements.</li>
+<li>Get upto 80% charge in less than 30 minutes</li>
+<li>The first port is <span>2.4 USB, 12W Output Charging Port</span>
+</li>
+<li>The second port is Qualcomm Quick Charge 3.0 that charges 4 times faster than the conventional charger.</li>
+</ul>
+<p><span><strong>Package Includes :</strong> J3 Dual Port Qualcomm 3.0 + 2.4 USB Quick Car Charger</span></p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Car Chargers</s:tag>
+    <s:tag>multiport_acc</s:tag>
+    <s:tag>Type_Car Charger</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4490470260819</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>R2430-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/3536354836563</id>
+    <published>2019-05-31T13:42:51-04:00</published>
+    <updated>2019-05-31T13:42:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/q1-qualcomm-quick-charge-3-0-wall-charger"/>
+    <title>Q1 Qualcomm Quick Charge 3.0 Wall Charger</title>
+    <s:type>Wall Charger</s:type>
+    <s:vendor>Rockstone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Q1.jpg?v=1571715741"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rockstone<br>
+        <strong>Type: </strong>Wall Charger<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>Q1 Qualcomm Quick Wall Charger provides 4X faster charging than conventional charging</li>
+<li>This Unit charges compatible devices upto 80% in just 35 minutes</li>
+<li>Q1 Qualcomm Wall Charger is compatible with Android Devices.</li>
+<li>Provide standard charging for non-Quick Charge Android devices</li>
+<li>Q1 Qualcomm Wall Charger provides a maximum power output of 18W</li>
+</ul>
+<strong>Package Includes : </strong>1 Port Q1 Qualcomm Quick Wall Charger</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>80off_bds</s:tag>
+    <s:tag>Chargers</s:tag>
+    <s:tag>newstuff</s:tag>
+    <s:tag>Type_Wall Charger</s:tag>
+    <s:tag>Wall Chargers</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/3536354836563</id>
+      <title>White</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>R0001-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/3479233396819</id>
+    <published>2019-04-15T14:45:23-04:00</published>
+    <updated>2019-04-15T14:45:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/boost-qualcomm-quick-charge-3-0-wall-charger"/>
+    <title>Boost Qualcomm Quick Charge 3.0 Wall Charger</title>
+    <s:type>Wall Charger</s:type>
+    <s:vendor>Rockstone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Qualcomm-boost_grande_835be6f5-654c-4933-8d37-9d471466748d.jpg?v=1571715739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rockstone<br>
+        <strong>Type: </strong>Wall Charger<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>Boost Qualcomm 3.0 Wall Charger provides 4X faster charging than conventional charging</li>
+<li>This Unit charges compatible devices upto 80% in just 35 minutes</li>
+<li>Boost Qualcomm Wall Charger is compatible with Android Devices.</li>
+<li>Provide standard charging for non-Quick Charge Android devices</li>
+<li>Unit is provided with surge protection and overheating protection</li>
+<li>Boost Qualcomm Wall Charger provides a maximum power output of 18W</li>
+<li>Input: 100-240V ~ 50/60HZ 0.5A</li>
+<li>Output: 5V~3A / 9V~2A / 12V~1.5A</li>
+</ul>
+<strong>Package Includes : </strong>1 Port Qualcomm Quick 3.0 Wall Charger</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chargers</s:tag>
+    <s:tag>Type_Wall Charger</s:tag>
+    <s:tag>Wall Chargers</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/3479233396819</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>R0066-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

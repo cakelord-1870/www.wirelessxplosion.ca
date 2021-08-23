@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wirelessxplosion.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wirelessxplosion.ca/collections/microphones.atom"/>
+  <title>Wireless Xplosion Ltd</title>
+  <updated>2021-06-23T17:47:42-04:00</updated>
+  <author>
+    <name>Wireless Xplosion Ltd</name>
+  </author>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/7045751898281</id>
+    <published>2021-06-23T17:47:42-04:00</published>
+    <updated>2021-06-23T17:47:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/maono-desktop-usb-microphone-set"/>
+    <title>Maono Desktop USB Microphone Set</title>
+    <s:type>Microphone</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/1_39af15be-45e3-4bec-9c3f-2ebe95e088eb.jpg?v=1624485074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Microphone<br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">USB Microphone Kit
+<ul style="list-style: inside;" data-mce-style="list-style: inside;">
+<li><span>Acrylic mirror mute key, and the built-in LED Indicator lights to tell you the working status </span></li>
+<li><span> Built-in professional sound chip-set and 16mm electret condenser transducer.</span></li>
+<li><span>Well-suited to podcasting, game streaming, Skype calls, vocals and instruments, cardioid mode captures sound sources that are directly in front of the microphone.</span></li>
+<li><span>Pop filter and windscreen cap can lower wind and Saliva interference, record voice more clear. </span></li>
+<li><span>The USB microphone kit includes 1x condenser microphone, 1x Table stand, 1x Shock mount, 1x Pop filter, 1x USB cable, 1x Wind foam</span></li>
+<li><span>Compatible with Windows and Mac OS</span></li>
+<li><span>The microphone has a USB data port, easy to connect with computers. No need extra driver software, and no need for an external sound card</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>microphone</s:tag>
+    <s:tag>new_landing</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7045751898281</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.00</s:price>
+      <s:sku>AU-PM421T</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/6668403015849</id>
+    <published>2021-04-07T17:19:19-04:00</published>
+    <updated>2021-04-07T17:19:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/bluetooth-portable-karaoke-mic-speaker"/>
+    <title>Bluetooth Portable Karaoke Mic Speaker</title>
+    <s:type>Microphone</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/p1_514ea945-956a-4868-970f-85bb292d28e9.jpg?v=1617830845"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Microphone<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;" data-mce-style="list-style: inside;">
+<li>
+<span class="a-list-item">The excellent design of karaoke wireless microphone </span>made with aluminum alloy </li>
+<li><span class="a-list-item">The Bluetooth Microphone Machine provides a more stable connection (up to 33 feet), faster pairing (takes only 2 seconds). </span></li>
+<li><span class="a-list-item">Compatible with Phone, Pad, PC, etc., Play from karaoke speaker and headset via Bluetooth, TF card, cable connection.</span></li>
+<li><span class="a-list-item">This Karaoke Microphone Speaker with VOLUME and REMIX sliding button itself has a louder and more sensitive output. </span></li>
+<li><span class="a-list-item">Built-in two high-quality inner-magnet loudspeakers and a 3-layer mesh filter reduce noise propagation. Can connect headphones and audio equipment.</span></li>
+<li><span class="a-list-item">This karaoke microphone with magic voice changer, there are 4 sound modes with this microphone: Original sound, child voice, male voice, and tough voice. </span></li>
+<li><span class="a-list-item">The battery in the microphone is rechargeable lithium-ion 18650. Portable Bluetooth karaoke mic gets 4-6 hour’s playtime from a single charge. </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>microphone</s:tag>
+    <s:tag>new_landing</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/6668403015849</id>
+      <title>Rose Gold</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>KMIC-RG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/6668403015849</id>
+      <title>Black</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>KMIC-BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/6438168953001</id>
+    <published>2021-02-03T16:54:10-05:00</published>
+    <updated>2021-02-03T16:54:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/microphone-for-home-office"/>
+    <title>USB 2.0 Desktop Microphone</title>
+    <s:type>Microphone</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/StudioSession-056.jpg?v=1612389516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Microphone<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">USB Microphone Used for pc
+<ul style="list-style: inside;" data-mce-style="list-style: inside;">
+<li>Omnidirectional</li>
+<li>Zinc alloy process</li>
+<li>With indicator light</li>
+<li>With One button Mute function</li>
+<li>With Volume control function<br>
+</li>
+<li>Built-in Microphone, USB2.0<br>
+</li>
+<li>Supports windows 2000.xp/7/8/9/10/Vista,OS and so on<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>microphone</s:tag>
+    <s:tag>new_landing</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/6438168953001</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku>MC-2021</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

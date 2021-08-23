@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wirelessxplosion.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wirelessxplosion.ca/collections/wearable-micro-usb-cable.atom"/>
+  <title>Wireless Xplosion Ltd</title>
+  <updated>2018-05-24T18:37:21-04:00</updated>
+  <author>
+    <name>Wireless Xplosion Ltd</name>
+  </author>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375370412150</id>
+    <published>2018-05-24T18:37:21-04:00</published>
+    <updated>2018-05-24T18:37:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/mili-micro-usb-2-0-to-usb-2-0-on-the-go-cable"/>
+    <title>Micro USB 2.0 to USB 2.0 On-The-Go Cable</title>
+    <s:type>Micro USB Cable</s:type>
+    <s:vendor>MiLi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/61yixsajqhl._sl1500.jpg?v=1571715723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MiLi<br>
+        <strong>Type: </strong>Micro USB Cable<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Color: Grey</p> <p>Feature</p> <ul> <li>On-The-Go Data Transmission, from USB flash drive to Andriod Smartphone or Tablet via flash drive reader and OTG button functionality </li> <li>Charging and Sync via USB ports and USB adapters (wall outlet and car charger)</li> </ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Micro USB Cable</s:tag>
+    <s:tag>micro_cable</s:tag>
+    <s:tag>Type_Cables</s:tag>
+    <s:tag>wearable_cable</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375370412150</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>MILI-HX-T25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1810492326006</id>
+    <published>2018-05-24T18:37:20-04:00</published>
+    <updated>2018-05-24T18:37:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/wearable-micro-usb-cable-green"/>
+    <title>Wearable Micro USB Cable - Green</title>
+    <s:type>Micro USB Cable</s:type>
+    <s:vendor>MiLi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/MiLi-Wearable-Lightning-Cable-20cm-Green-min-510x600.jpg?v=1592843853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MiLi<br>
+        <strong>Type: </strong>Micro USB Cable<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>MiLi Wearable Micro USB to USB Cable - Green</li>
+<li>Ultra slim flat cable design</li>
+<li>Compatible with any Micro USB device</li>
+<li>USB 2.0 Compatible</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Micro USB Cable</s:tag>
+    <s:tag>micro_cable</s:tag>
+    <s:tag>Type_Charging Cables</s:tag>
+    <s:tag>wearable_cable</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1810492326006</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>MILI-HX-L02-GR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1810489311350</id>
+    <published>2018-05-24T18:37:20-04:00</published>
+    <updated>2018-05-24T18:37:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/wearable-micro-usb-cable-orange"/>
+    <title>Wearable Micro USB Cable - Orange</title>
+    <s:type>Micro USB Cable</s:type>
+    <s:vendor>MiLi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/or_1_grande_5a77276e-5646-44a1-afca-763d5dd6b9ac.jpg?v=1571715727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MiLi<br>
+        <strong>Type: </strong>Micro USB Cable<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>MiLi Wearable Micro USB to USB Cable - Orange</li>
+<li>Ultra slim flat cable design</li>
+<li>Compatible with any Micro USB device</li>
+<li>USB 2.0 Compatible</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Micro USB Cable</s:tag>
+    <s:tag>micro_cable</s:tag>
+    <s:tag>Type_Charging Cables</s:tag>
+    <s:tag>wearable_cable</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1810489311350</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>MILI-HX-L02-OR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1810486263926</id>
+    <published>2018-05-24T18:37:20-04:00</published>
+    <updated>2018-05-24T18:37:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/copy-of-wearable-micro-usb-cable-pink"/>
+    <title>Wearable Micro USB Cable - Pink</title>
+    <s:type>Micro USB Cable</s:type>
+    <s:vendor>MiLi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/pk_2_grande_c34175e3-9505-4ad8-a46c-014214950b8e.jpg?v=1571715727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MiLi<br>
+        <strong>Type: </strong>Micro USB Cable<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>MiLi Wearable Micro USB to USB Cable - Pink</li>
+<li>Ultra slim flat cable design</li>
+<li>Compatible with any Micro USB device</li>
+<li>USB 2.0 Compatible</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Micro USB Cable</s:tag>
+    <s:tag>micro_cable</s:tag>
+    <s:tag>Type_Charging Cables</s:tag>
+    <s:tag>wearable_cable</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1810486263926</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>MILI-HX-L02-PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375363891318</id>
+    <published>2018-05-24T18:36:40-04:00</published>
+    <updated>2018-05-24T18:36:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/the-joy-factory-dura-link-3-inch-usb-to-micro-usb-premium-cable"/>
+    <title>Dura Link 3-inch USB to Micro USB Premium Cable</title>
+    <s:type>Micro USB Cable</s:type>
+    <s:vendor>Joy Factory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/acc124-02.jpg?v=1571715723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Joy Factory<br>
+        <strong>Type: </strong>Micro USB Cable<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Micro USB Cable</s:tag>
+    <s:tag>micro_cable</s:tag>
+    <s:tag>Type_Cables</s:tag>
+    <s:tag>wearable_cable</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375363891318</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>JF-ACC124</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

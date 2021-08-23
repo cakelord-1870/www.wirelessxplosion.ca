@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wirelessxplosion.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wirelessxplosion.ca/collections/sale.atom"/>
+  <title>Wireless Xplosion Ltd</title>
+  <updated>2019-02-27T12:38:25-05:00</updated>
+  <author>
+    <name>Wireless Xplosion Ltd</name>
+  </author>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/2530142355539</id>
+    <published>2019-02-27T12:38:25-05:00</published>
+    <updated>2019-02-27T12:38:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/melrose-wallet-folio-case-iphone-x"/>
+    <title>Melrose Wallet Folio Case - iPhone XS &amp; X</title>
+    <s:type>Melrose</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/ANGLE1_81ec8dde-ec68-46dc-861c-b88851651162.jpg?v=1625085129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Melrose<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul style="list-style: inside;">
+<li>iPhone XS &amp; X Melrose<span> </span>Case made for shock absorption.</li>
+<li>2-in-1 design with Detachable Slim magnetic case.</li>
+<li>The slim case is convertible into a stand</li>
+<li>3 credit card slots and compartment for cash</li>
+<li>Protects card information from being stolen with RFID shielding technology.</li>
+<li>Wireless charger and Magnetic car mount compatible.</li>
+<li>BPA free no animal being killed making this case</li>
+</ul>
+<p class="Default"><strong>Package Content:</strong><span> Melrose Folio Case</span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BF</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Collection_Melrose</s:tag>
+    <s:tag>Device_iPhone XS &amp; X</s:tag>
+    <s:tag>iphone sale</s:tag>
+    <s:tag>sale-dec-19</s:tag>
+    <s:tag>sale_80%_group</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2530142355539</id>
+      <title>Blue</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>CC-MA-iPX-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2530142355539</id>
+      <title>Grey</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>CC-MA-iPX-GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2530142355539</id>
+      <title>Pink</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>CC-MA-iPX-PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/2530142290003</id>
+    <published>2019-02-27T12:37:51-05:00</published>
+    <updated>2019-02-27T12:37:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/melrose-wallet-folio-case-iphone-8-plus"/>
+    <title>Melrose Folio Case - iPhone 8 &amp; 7 Plus</title>
+    <s:type>Melrose</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/ANGLE_1_fc476972-7088-4a0c-91ea-68df898888ed.jpg?v=1625086267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Melrose<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul style="list-style: inside;">
+<li>iPhone 8 &amp; 7 Plus Melrose<span> </span>Case made for shock absorption.</li>
+<li>2-in-1 design with Detachable Slim magnetic case.</li>
+<li>The slim case is convertible into a stand</li>
+<li>3 credit card slots and compartment for cash</li>
+<li>Protects card information from being stolen with RFID shielding technology.</li>
+<li>Wireless charger and Magnetic car mount compatible.</li>
+<li>BPA free no animal being killed making this case</li>
+</ul>
+<p class="Default"><strong>Package Content:</strong><span> Melrose Folio Case</span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BF</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Collection_Melrose</s:tag>
+    <s:tag>Device_iPhone 8 &amp; 7 Plus</s:tag>
+    <s:tag>iphone sale</s:tag>
+    <s:tag>sale-dec-19</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2530142290003</id>
+      <title>Blue</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>CC-MA-iP8P-BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2530142290003</id>
+      <title>Grey</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>CC-MA-iP8P-GY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2530142290003</id>
+      <title>Pink</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>CC-MA-iP8P-PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375336202358</id>
+    <published>2019-02-27T12:09:41-05:00</published>
+    <updated>2019-02-27T12:09:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/21-apple-st-silicone-case-iphone-8-plus-black"/>
+    <title>21 Apple St. Silicone Case - iPhone 8 &amp; 7 Plus</title>
+    <s:type>21 Apple St</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/download_87_7af2db13-bfaa-419e-86b9-02b60b6412bb.jpg?v=1625086258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>21 Apple St<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>Super thin iphone case for classy minimalists</li>
+<li>Maintains the original look while protecting your phone from scratches</li>
+<li>Apple St. Silicone Case is designed to support wireless charging</li>
+<li>The raised lip around the camera keeps it protected from damage</li>
+<li>The frost texture of the case prevents finger-print damage and provides better grip</li>
+<li>Precise cut outs for camera and charging ports make this case form fitting</li>
+</ul>
+<strong>Package Includes:</strong> Apple St. Silicon Case</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>50% iPhone 8 plus</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Collection_21 Apple St</s:tag>
+    <s:tag>Device_iPhone 8 &amp; 7 Plus</s:tag>
+    <s:tag>sale-dec-19</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375336202358</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>CC-HS-iP8P-BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/2530124857427</id>
+    <published>2019-02-27T12:06:40-05:00</published>
+    <updated>2019-02-27T12:06:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/21-apple-st-silicone-case-iphone-x"/>
+    <title>21 Apple St. Silicone Case - iPhone XS &amp; X</title>
+    <s:type>21 Apple St</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/iPX-Rose3_8fc6dd60-2c3b-4dd8-84cb-1f7198f58535.jpg?v=1614201308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>21 Apple St<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>Super thin iphone case for classy minimalists</li>
+<li>Maintains the original look while protecting your phone from scratches</li>
+<li>Apple St. Silicone Case is designed to support wireless charging</li>
+<li>The raised lip around the camera keeps it protected from damage</li>
+<li>The frost texture of the case prevents finger-print damage and provides better grip</li>
+<li>Precise cut outs for camera and charging ports make this case form fitting</li>
+</ul>
+<strong>Package Includes:</strong> Apple St. Silicon Case</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cases</s:tag>
+    <s:tag>Collection_21 Apple St</s:tag>
+    <s:tag>Device_iPhone XS &amp; X</s:tag>
+    <s:tag>sale-dec-19</s:tag>
+    <s:tag>sale_80%_group</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2530124857427</id>
+      <title>Pink</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>CC-HS-iPX-PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2530124857427</id>
+      <title>Teal</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku>CC-HS-iPX-TL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/2505962455123</id>
+    <published>2019-02-22T12:29:48-05:00</published>
+    <updated>2019-02-22T12:29:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/moving-glitz-case-iphone-8-plus-7-plus"/>
+    <title>Moving Glitz Case - iPhone 8 Plus &amp; 7 Plus</title>
+    <s:type>Moving Glitz</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/ip7-plus-believe-in-yourself-glitz-gif_1_3aa5a1a4-9e30-437a-a9f7-8db64fa50f4d.gif?v=1571715734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Moving Glitz<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>Bumper protection on all the four sides with access to all ports.</li>
+<li>Shock absorbing bumper with Military strength impact protection.</li>
+<li>Raised lips protect front face &amp; rear camera.</li>
+<li>Dual layer hard shell at back protects your iPhone.</li>
+<li>Precision cut to fit your device perfectly.</li>
+<li>Anti-scratch protection.</li>
+</ul>
+<p><strong>Package Content:<span> </span></strong><span>Moving Glitz </span><span>C</span><span>ase</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cases</s:tag>
+    <s:tag>Collection_Moving Glitz</s:tag>
+    <s:tag>Device_iPhone 8 &amp; 7 Plus</s:tag>
+    <s:tag>sale-dec-19</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2505962455123</id>
+      <title>Dream</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>CC-LG-iP7P-DRM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2505962455123</id>
+      <title>Flawless</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>CC-LG-iP7P-FLW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2505962455123</id>
+      <title>Hold The Phone</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>CC-LG-iP7P-HLD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2505962455123</id>
+      <title>Kiss</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>CC-LG-iP7P-KIS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2505962455123</id>
+      <title>It&apos;s Lit</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>CC-LG-iP7P-LIT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2505962455123</id>
+      <title>Lenticular Hearts</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>CC-LG-iP7P-LNH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2505962455123</id>
+      <title>Diamond Rainbow</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>CC-LG-iP7P-RBW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2505962455123</id>
+      <title>Rose Sparkles</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>CC-LG-iP7P-ROS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2505962455123</id>
+      <title>Stars in Gold</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>CC-LG-iP7P-SGD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2505962455123</id>
+      <title>Born to Stand Out</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>CC-LG-iP7P-SND</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2505962455123</id>
+      <title>Stars in Black</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>CC-LG-iP7P-SRB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2505962455123</id>
+      <title>Silver Sparkles</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>CC-LG-iP7P-SSP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2505962455123</id>
+      <title>Wake Pray Slay</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>CC-LG-iP7P-WPS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2505962455123</id>
+      <title>Wear Red</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>CC-LG-iP7P-WRD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/2505945874515</id>
+    <published>2019-02-22T12:26:51-05:00</published>
+    <updated>2019-02-22T12:26:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/moving-glitz-case-iphone-x"/>
+    <title>Moving Glitz Case - iPhone XS &amp; X</title>
+    <s:type>Moving Glitz</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/ipx-black-hearts-glitz-gif_4dfe2611-4077-4957-bd36-fc006e108b6d.gif?v=1571715734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Moving Glitz<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=tJ_zFA7p5R4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<ul style="list-style: inside;">
+<li>Bumper protection on all the four sides with access to all ports.</li>
+<li>Shock absorbing bumper with Military strength impact protection.</li>
+<li>Raised lips protect front face &amp; rear camera.</li>
+<li>Dual layer hard shell at back protects your iPhone.</li>
+<li>Precision cut to fit your device perfectly.</li>
+<li>Anti-scratch protection.</li>
+</ul>
+<p><strong>Package Content:<span> </span></strong><span>Moving Glitz </span><span>C</span><span>ase</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cases</s:tag>
+    <s:tag>Collection_Moving Glitz</s:tag>
+    <s:tag>Device_iPhone XS &amp; X</s:tag>
+    <s:tag>sale-dec-19</s:tag>
+    <s:tag>sale_80%_group</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2505945874515</id>
+      <title>Hearts on Black</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>CC-LG-iPX-HTB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2505945874515</id>
+      <title>Lenticular Hearts</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>CC-LG-iPX-LNH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2505945874515</id>
+      <title>Stars in Gold</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>CC-LG-iPX-SGD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2505945874515</id>
+      <title>Silver Sparkles</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>CC-LG-iPX-SSP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375340920950</id>
+    <published>2018-05-24T18:34:28-04:00</published>
+    <updated>2018-05-24T18:34:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/melrose-wallet-folio-case-sony-xperia-xa1-ultra-black"/>
+    <title>Melrose Folio Case - Sony Xperia XA1 Ultra</title>
+    <s:type>Melrose Sale</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Sony-xperia-melrose-04_1.jpg?v=1625239558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Melrose Sale<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Song Xperia XA1 Ultra Melrose<span> </span>Case made for shock absorption.</li>
+<li>2-in-1 design with Detachable Slim magnetic case.</li>
+<li>The slim case is convertible into a stand</li>
+<li>3 credit card slots and compartment for cash</li>
+<li>Protects card information from being stolen with RFID shielding technology.</li>
+<li>Wireless charger and Magnetic car mount compatible.</li>
+<li>BPA free no animal being killed making this case</li>
+</ul>
+<p class="Default"><strong>Package Content:</strong><span> Melrose Folio Case</span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BF</s:tag>
+    <s:tag>Collection_Melrose</s:tag>
+    <s:tag>Melrose Sale</s:tag>
+    <s:tag>sale-dec-19</s:tag>
+    <s:tag>Sony Xperia XA1 Ultra</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375340920950</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>CC-MA-XPXA1U-BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375340855414</id>
+    <published>2018-05-24T18:34:28-04:00</published>
+    <updated>2018-05-24T18:34:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/melrose-wallet-folio-case-sony-xperia-xa1-black"/>
+    <title>Melrose Folio Case - Sony Xperia XA1</title>
+    <s:type>Melrose Sale</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Sony-xperia-melrose-04_1_64f8f490-570d-49fc-964e-2581863a79c9.jpg?v=1625239556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Melrose Sale<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Sony Xperia XA1 Melrose<span> </span>Case made for shock absorption.</li>
+<li>2-in-1 design with Detachable Slim magnetic case.</li>
+<li>The slim case is convertible into a stand</li>
+<li>3 credit card slots and compartment for cash</li>
+<li>Protects card information from being stolen with RFID shielding technology.</li>
+<li>Wireless charger and Magnetic car mount compatible.</li>
+<li>BPA free no animal being killed making this case</li>
+</ul>
+<p class="Default"><strong>Package Content:</strong><span> Melrose Folio Case</span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BF</s:tag>
+    <s:tag>Collection_Melrose</s:tag>
+    <s:tag>Melrose Sale</s:tag>
+    <s:tag>sale-dec-19</s:tag>
+    <s:tag>Sony Xperia XA1</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375340855414</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>CC-MA-XPXA1-BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375340789878</id>
+    <published>2018-05-24T18:34:28-04:00</published>
+    <updated>2018-05-24T18:34:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/melrose-wallet-folio-case-samsung-galaxy-xcover-4-black"/>
+    <title>Melrose Folio Case - Samsung Galaxy Xcover 4</title>
+    <s:type>Melrose</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/black-melrose-front_copy_1_12_1.jpg?v=1625239551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Melrose<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul>
+<li>Samsung Galaxy XCover 4 Melrose<span> </span>Case made for shock absorption.</li>
+<li>2-in-1 design with Detachable Slim magnetic case.</li>
+<li>The slim case is convertible into a stand</li>
+<li>3 credit card slots and compartment for cash</li>
+<li>Protects card information from being stolen with RFID shielding technology.</li>
+<li>Wireless charger and Magnetic car mount compatible.</li>
+<li>BPA free no animal being killed making this case</li>
+</ul>
+<p class="Default"><strong>Package Content:</strong><span> Melrose Folio Case</span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BF</s:tag>
+    <s:tag>Collection_Melrose</s:tag>
+    <s:tag>Device_Samsung Xcover 4</s:tag>
+    <s:tag>Melrose Sale</s:tag>
+    <s:tag>sale-dec-19</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375340789878</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>CC-MA-SGXC4-BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375340724342</id>
+    <published>2018-05-24T18:34:27-04:00</published>
+    <updated>2018-05-24T18:34:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/melrose-wallet-folio-case-motorola-moto-z2-play-black"/>
+    <title>Melrose Folio Case - Motorola Moto Z2 Play</title>
+    <s:type>Melrose</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/IMG_1836_f38c078a-8603-4e17-8918-31023650dd25.jpg?v=1625239546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Melrose<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul style="list-style: inside;">
+<li>Motorola Moto Z2 Play Melrose<span> </span>Case made for shock absorption.</li>
+<li>2-in-1 design with Detachable Slim magnetic case.</li>
+<li>The slim case is convertible into a stand</li>
+<li>3 credit card slots and compartment for cash</li>
+<li>Protects card information from being stolen with RFID shielding technology.</li>
+<li>Wireless charger and Magnetic car mount compatible.</li>
+<li>BPA free no animal being killed making this case</li>
+</ul>
+<p class="Default"><strong>Package Content:</strong><span> Melrose Folio Case</span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BF</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Collection_Melrose</s:tag>
+    <s:tag>Device_Moto Z2 Play</s:tag>
+    <s:tag>Melrose Sale</s:tag>
+    <s:tag>sale-dec-19</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375340724342</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>CC-MA-MOTZ2P-BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375340691574</id>
+    <published>2018-05-24T18:34:27-04:00</published>
+    <updated>2018-05-24T18:34:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/melrose-wallet-folio-case-motorola-moto-e4-black"/>
+    <title>Melrose Folio Case - Motorola Moto E4</title>
+    <s:type>Melrose Sale</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/IMG_1836_ef8f493f-b10f-4e93-8df6-75be567dd974.jpg?v=1625239541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Melrose Sale<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Moto E4 Melrose<span> </span>Case made for shock absorption.</li>
+<li>2-in-1 design with Detachable Slim magnetic case.</li>
+<li>The slim case is convertible into a stand</li>
+<li>3 credit card slots and compartment for cash</li>
+<li>Protects card information from being stolen with RFID shielding technology.</li>
+<li>Wireless charger and Magnetic car mount compatible.</li>
+<li>BPA free no animal being killed making this case</li>
+</ul>
+<p class="Default"><strong>Package Content:</strong><span> Melrose Folio Case</span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BF</s:tag>
+    <s:tag>Collection_Melrose</s:tag>
+    <s:tag>Device_Moto E4</s:tag>
+    <s:tag>Melrose Sale</s:tag>
+    <s:tag>sale-dec-19</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375340691574</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>CC-MA-MOTE4-BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375340593270</id>
+    <published>2018-05-24T18:34:27-04:00</published>
+    <updated>2018-05-24T18:34:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/melrose-wallet-folio-case-lg-stylo-3-plus-black"/>
+    <title>Melrose Folio Case - LG Stylo 3 Plus</title>
+    <s:type>Melrose</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/LG-Stylo3-melrose-04_1.jpg?v=1625239538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Melrose<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul style="list-style: inside;">
+<li>LG Stylo 3 Plus Melrose<span> </span>Case made for shock absorption.</li>
+<li>2-in-1 design with Detachable Slim magnetic case.</li>
+<li>The slim case is convertible into a stand</li>
+<li>3 credit card slots and compartment for cash</li>
+<li>Protects card information from being stolen with RFID shielding technology.</li>
+<li>Wireless charger and Magnetic car mount compatible.</li>
+<li>BPA free no animal being killed making this case</li>
+</ul>
+<p class="Default"><strong>Package Content:</strong><span> Melrose Folio Case</span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BF</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Collection_Melrose</s:tag>
+    <s:tag>Device_LG Stylo 3 Plus</s:tag>
+    <s:tag>Melrose Sale</s:tag>
+    <s:tag>sale-dec-19</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375340593270</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>CC-MA-LGST3P-BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375340560502</id>
+    <published>2018-05-24T18:34:26-04:00</published>
+    <updated>2018-05-24T18:34:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/melrose-wallet-folio-case-lg-g6-black"/>
+    <title>Melrose Folio Case - LG G6</title>
+    <s:type>Melrose</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/LG-G6-melrose-02_1.jpg?v=1625239536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Melrose<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul style="list-style: inside;">
+<li>LG G6 Melrose<span> </span>Case made for shock absorption.</li>
+<li>2-in-1 design with Detachable Slim magnetic case.</li>
+<li>The slim case is convertible into a stand</li>
+<li>3 credit card slots and compartment for cash</li>
+<li>Protects card information from being stolen with RFID shielding technology.</li>
+<li>Wireless charger and Magnetic car mount compatible.</li>
+<li>BPA free no animal being killed making this case</li>
+</ul>
+<p class="Default"><strong>Package Content:</strong><span> Melrose Folio Case</span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BF</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Collection_Melrose</s:tag>
+    <s:tag>Device_LG G6</s:tag>
+    <s:tag>Melrose Sale</s:tag>
+    <s:tag>sale-dec-19</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375340560502</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>CC-MA-LGG6-BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375339184246</id>
+    <published>2018-05-24T18:34:20-04:00</published>
+    <updated>2018-05-24T18:34:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/melrose-wallet-folio-case-samsung-galaxy-note-8-black"/>
+    <title>Melrose Folio Case - Samsung Galaxy Note 8</title>
+    <s:type>Melrose</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/note_8_-2.jpg?v=1625238334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Melrose<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul>
+<li>Samsung Galaxy Note 8 Melrose<span> </span>Case made for shock absorption.</li>
+<li>2-in-1 design with Detachable Slim magnetic case.</li>
+<li>The slim case is convertible into a stand</li>
+<li>3 credit card slots and compartment for cash</li>
+<li>Protects card information from being stolen with RFID shielding technology.</li>
+<li>Wireless charger and Magnetic car mount compatible.</li>
+<li>BPA free no animal being killed making this case</li>
+</ul>
+<p class="Default"><strong>Package Content:</strong><span> Melrose Folio Case</span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BF</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Collection_Melrose</s:tag>
+    <s:tag>Device_Samsung Note 8</s:tag>
+    <s:tag>Melrose Sale</s:tag>
+    <s:tag>sale-dec-19</s:tag>
+    <s:tag>sale_80%_group</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375339184246</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>CC-MA-GN8-BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375339085942</id>
+    <published>2018-05-24T18:34:19-04:00</published>
+    <updated>2018-05-24T18:34:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/melrose-wallet-folio-case-blackberry-keyone-black"/>
+    <title>Melrose Folio Case - BlackBerry KeyOne</title>
+    <s:type>Melrose Sale</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/blackberry-keyone-03.jpg?v=1625239529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Melrose Sale<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>BlackBerry KeyOne Melrose Case made for shock absorption.</li>
+<li>2-in-1 design with Detachable Slim magnetic case.</li>
+<li>The slim case is convertible into a stand</li>
+<li>3 credit card slots and compartment for cash</li>
+<li>Protects card information from being stolen with RFID shielding technology.</li>
+<li>Wireless charger and Magnetic car mount compatible.</li>
+<li>BPA free no animal being killed making this case</li>
+</ul>
+<p class="Default"><strong>Package Content:</strong><span> Melrose Folio Case</span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BF</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Collection_Melrose</s:tag>
+    <s:tag>Device_BlackBerry KeyOne</s:tag>
+    <s:tag>Melrose Sale</s:tag>
+    <s:tag>sale-dec-19</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375339085942</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>CC-MA-BBKO-BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

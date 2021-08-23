@@ -1,0 +1,1426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wirelessxplosion.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wirelessxplosion.ca/collections/moonlit-collection-artist-series.atom"/>
+  <title>Wireless Xplosion Ltd</title>
+  <updated>2021-08-04T14:06:14-04:00</updated>
+  <author>
+    <name>Wireless Xplosion Ltd</name>
+  </author>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/7127142236329</id>
+    <published>2021-08-04T14:06:14-04:00</published>
+    <updated>2021-08-04T14:06:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/duplicate-samsung-s21-ultra-artist-case"/>
+    <title>Obsidian - Samsung S21 Ultra Artist Case - C2466-88CU</title>
+    <s:type>EllowDee x Caseco</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/SAMSUNGS21_ultra_2ndAngle_2.jpg?v=1628099921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>EllowDee x Caseco<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>I<span data-mce-fragment="1">n collaboration with artist Mandy Beaune of EllowDee</span>
+</li>
+<li>Abstract Geometric - Moonlit Collection artist series for Samsung S21 Ultra<br>
+</li>
+<li>Tough polymer clear protective case for maximum daily protection<br>
+</li>
+<li>Raised bezels designed to protect your Samsung S21 Ultra phone screen<br>
+</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul>
+<p class="Default"><span><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/ckzdxj2ze2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Device_Samsung S21 Ultra</s:tag>
+    <s:tag>S21 Ultra</s:tag>
+    <s:tag>Samsung S21 Ultra</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7127142236329</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>ED2466-88</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/7127142105257</id>
+    <published>2021-08-04T14:06:13-04:00</published>
+    <updated>2021-08-04T14:06:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/duplicate-samsung-s21-plus-artist-case"/>
+    <title>Obsidian - Samsung S21 Plus Artist Case - C2464-88CU</title>
+    <s:type>EllowDee x Caseco</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/SAMSUNG_S21_S21plus_2ngAngle_1_c7a11f6b-ef5b-4fd5-9f1b-9e489ed4d590.jpg?v=1628099899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>EllowDee x Caseco<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>I<span data-mce-fragment="1">n collaboration with artist Mandy Beaune of EllowDee</span>
+</li>
+<li>Abstract Geometric - Moonlit Collection artist series for Samsung S21 Plus<br>
+</li>
+<li>Tough polymer clear protective case for maximum daily protection<br>
+</li>
+<li>Raised bezels designed to protect your Samsung S21 Plus phone screen<br>
+</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul>
+<p class="Default"><span><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/ckzdxj2ze2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Device_Samsung S21 Plus</s:tag>
+    <s:tag>S21 Plus</s:tag>
+    <s:tag>Samsung S21 Plus</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7127142105257</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>ED2464-88</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/7127141449897</id>
+    <published>2021-08-04T14:06:13-04:00</published>
+    <updated>2021-08-04T14:06:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/duplicate-samsung-s21-artist-case"/>
+    <title>Obsidian - Samsung S21 Artist Case - C2456-88CU</title>
+    <s:type>EllowDee x Caseco</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/SAMSUNG_S21_S21plus_2ngAngle_1.jpg?v=1628099878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>EllowDee x Caseco<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>I<span data-mce-fragment="1">n collaboration with artist Mandy Beaune of EllowDee</span>
+</li>
+<li>Abstract Geometric - Moonlit Collection artist series for Samsung S21<br>
+</li>
+<li>Tough polymer clear protective case for maximum daily protection<br>
+</li>
+<li>Raised bezels designed to protect your Samsung S21 phone screen<br>
+</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul>
+<p class="Default"><span><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/ckzdxj2ze2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Device_Samsung S21</s:tag>
+    <s:tag>S21</s:tag>
+    <s:tag>Samsung S21</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7127141449897</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>ED2456-88</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/7127138828457</id>
+    <published>2021-08-04T14:06:13-04:00</published>
+    <updated>2021-08-04T14:06:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/duplicate-samsung-s20-ultra-artist-case"/>
+    <title>Obsidian - Samsung S20 Ultra Artist Case - C2433-00CU</title>
+    <s:type>EllowDee x Caseco</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/SAMSUNG_S20ULTRA_2ndAngle_1.jpg?v=1628099857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>EllowDee x Caseco<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>I<span data-mce-fragment="1">n collaboration with artist Mandy Beaune of EllowDee</span>
+</li>
+<li>Abstract Geometric - Moonlit Collection artist series for Samsung S20 Ultra<br>
+</li>
+<li>Tough polymer clear protective case for maximum daily protection<br>
+</li>
+<li>Raised bezels designed to protect your Samsung S20 Ultra phone screen<br>
+</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul>
+<p class="Default"><span><iframe src="https://fast.wistia.net/embed/iframe/ckzdxj2ze2" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Device_Samsung S20 Ultra</s:tag>
+    <s:tag>S20 Ultra</s:tag>
+    <s:tag>Samsung S20 Ultra</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7127138828457</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>ED2433-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/7127138730153</id>
+    <published>2021-08-04T14:06:12-04:00</published>
+    <updated>2021-08-04T14:06:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/duplicate-samsung-s20-plus-artist-case"/>
+    <title>Obsidian - Samsung S20 Plus Artist Case - C2432-00CU</title>
+    <s:type>EllowDee x Caseco</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/SAMSUNG_S20plus_2ndAngle_1.jpg?v=1628099836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>EllowDee x Caseco<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>I<span data-mce-fragment="1">n collaboration with artist Mandy Beaune of EllowDee</span>
+</li>
+<li>Abstract Geometric - Moonlit Collection artist series for Samsung S20 Plus<br>
+</li>
+<li>Tough polymer clear protective case for maximum daily protection<br>
+</li>
+<li>Raised bezels designed to protect your Samsung S20 Plus phone screen<br>
+</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul>
+<p class="Default"><span><iframe src="https://fast.wistia.net/embed/iframe/ckzdxj2ze2" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Device_Samsung S20 Plus</s:tag>
+    <s:tag>S20 Plus</s:tag>
+    <s:tag>Samsung S20 Plus</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7127138730153</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>ED2432-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/7127138599081</id>
+    <published>2021-08-04T14:06:12-04:00</published>
+    <updated>2021-08-04T14:06:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/duplicate-samsung-s20-fe-artist-case"/>
+    <title>Obsidian - Samsung S20 FE Artist Case - C2463-88CU</title>
+    <s:type>EllowDee x Caseco</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/SAMSUNG_S20_FE_2ndAngle_1.jpg?v=1628099814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>EllowDee x Caseco<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>I<span data-mce-fragment="1">n collaboration with artist Mandy Beaune of EllowDee</span>
+</li>
+<li>Abstract Geometric - Moonlit Collection artist series for Samsung S20 FE<br>
+</li>
+<li>Tough polymer clear protective case for maximum daily protection<br>
+</li>
+<li>Raised bezels designed to protect your Samsung S20 FE phone screen<br>
+</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul>
+<p class="Default"><span><iframe src="https://fast.wistia.net/embed/iframe/ckzdxj2ze2" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Device_Samsung S20 FE</s:tag>
+    <s:tag>S20 FE</s:tag>
+    <s:tag>Samsung Galaxy S20 FE</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7127138599081</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>ED2463-88</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/7127138566313</id>
+    <published>2021-08-04T14:06:11-04:00</published>
+    <updated>2021-08-04T14:06:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/duplicate-samsung-s20-artist-case"/>
+    <title>Obsidian - Samsung S20 Artist Case - C2431-00CU</title>
+    <s:type>EllowDee x Caseco</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/SAMSUNG_S20_2ndAngle_1.jpg?v=1628099792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>EllowDee x Caseco<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>I<span data-mce-fragment="1">n collaboration with artist Mandy Beaune of EllowDee</span>
+</li>
+<li>Abstract Geometric - Moonlit Collection artist series for Samsung S20<br>
+</li>
+<li>Tough polymer clear protective case for maximum daily protection<br>
+</li>
+<li>Raised bezels designed to protect your Samsung S20 phone screen<br>
+</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul>
+<p class="Default"><span><iframe src="https://fast.wistia.net/embed/iframe/ckzdxj2ze2" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Device_Samsung S20</s:tag>
+    <s:tag>S20</s:tag>
+    <s:tag>Samsung S20</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7127138566313</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>ED2431-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/7127138468009</id>
+    <published>2021-08-04T14:06:11-04:00</published>
+    <updated>2021-08-04T14:06:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/duplicate-samsung-a52-5g-artist-case"/>
+    <title>Obsidian - Samsung A52 5G Artist Case - C2469-00CU</title>
+    <s:type>EllowDee x Caseco</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/SAMSUNG_A52_2ndAngle_1.jpg?v=1628099708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>EllowDee x Caseco<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>I<span data-mce-fragment="1">n collaboration with artist Mandy Beaune of EllowDee</span>
+</li>
+<li>Abstract Geometric - Moonlit Collection artist series for Samsung A52 5G<br>
+</li>
+<li>Tough polymer clear protective case for maximum daily protection<br>
+</li>
+<li>Raised bezels designed to protect your Samsung A52 5G phone screen<br>
+</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul>
+<p class="Default"><span><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/ckzdxj2ze2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A52 5G</s:tag>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Device_Samsung A52 5G</s:tag>
+    <s:tag>Samsung A52 5G</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7127138468009</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>ED2469-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/7127138336937</id>
+    <published>2021-08-04T14:06:10-04:00</published>
+    <updated>2021-08-04T14:06:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/duplicate-samsung-a32-5g-artist-case"/>
+    <title>Obsidian - Samsung A32 5G Artist Case - C2468-00CU</title>
+    <s:type>EllowDee x Caseco</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/SAMSUNG_A32_2ndAngle_1.jpg?v=1628099687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>EllowDee x Caseco<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>I<span data-mce-fragment="1">n collaboration with artist Mandy Beaune of EllowDee</span>
+</li>
+<li>Abstract Geometric - Moonlit Collection artist series for Samsung A32 5G<br>
+</li>
+<li>Tough polymer clear protective case for maximum daily protection<br>
+</li>
+<li>Raised bezels designed to protect your Samsung A32 5G phone screen<br>
+</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul>
+<p class="Default"><span><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/ckzdxj2ze2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A32 5G</s:tag>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Device_Samsung A32 5G</s:tag>
+    <s:tag>Samsung A32 5G</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7127138336937</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>ED2468-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/7127137517737</id>
+    <published>2021-08-04T14:06:10-04:00</published>
+    <updated>2021-08-04T14:06:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/duplicate-iphone-xr-artist-case"/>
+    <title>Obsidian - iPhone XR Artist Case - C2461-00CU</title>
+    <s:type>EllowDee x Caseco</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/IP_XR_2ndAngle_1_6b97ce41-652c-459f-804d-635415d8fc15.jpg?v=1628099651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>EllowDee x Caseco<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>I<span data-mce-fragment="1">n collaboration with artist Mandy Beaune of EllowDee</span>
+</li>
+<li>Abstract Geometric - Moonlit Collection artist series for iPhone XR<br>
+</li>
+<li>Tough polymer clear protective case for maximum daily protection<br>
+</li>
+<li>Raised bezels designed to protect your iPhone XR phone screen<br>
+</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul>
+<p class="Default"><span><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/ckzdxj2ze2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Apple</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Device_iPhone XR</s:tag>
+    <s:tag>iPhone XR</s:tag>
+    <s:tag>XR</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7127137517737</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>ED2461-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/7127137452201</id>
+    <published>2021-08-04T14:06:09-04:00</published>
+    <updated>2021-08-04T14:06:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/abstract-geometric-iphone-12-pro-max-artist-case"/>
+    <title>Obsidian - iPhone 12 Pro Max Artist Case - C2454-01CU</title>
+    <s:type>EllowDee x Caseco</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/IP_12pro_12promax_2ndAngle_1_9b30a7c0-bdd8-4da0-9d34-9a8262c46d17.jpg?v=1628099562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>EllowDee x Caseco<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>I<span data-mce-fragment="1">n collaboration with artist Mandy Beaune of EllowDee</span>
+</li>
+<li>Abstract Geometric - Moonlit Collection artist series for iPhone 12 Pro Max<br>
+</li>
+<li>Tough polymer clear protective case for maximum daily protection<br>
+</li>
+<li>Raised bezels designed to protect your iPhone 12 Pro Max phone screen<br>
+</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul>
+<p class="Default"><span><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/ckzdxj2ze2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Pro Max</s:tag>
+    <s:tag>Brand_Apple</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Device_iPhone 12 Pro Max</s:tag>
+    <s:tag>iPhone 12 Pro Max</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7127137452201</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>ED2454-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/7127137321129</id>
+    <published>2021-08-04T14:06:09-04:00</published>
+    <updated>2021-08-04T14:06:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/duplicate-iphone-12-mini-artist-case"/>
+    <title>Obsidian - iPhone 12 mini Artist Case - C2452-01CU</title>
+    <s:type>EllowDee x Caseco</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/IP_11_12_12mini_2ndAngle_1_4f2c8d3b-d019-4424-9675-3a9360a21747.jpg?v=1628099570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>EllowDee x Caseco<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>I<span data-mce-fragment="1">n collaboration with artist Mandy Beaune of EllowDee</span>
+</li>
+<li>Abstract Geometric - Moonlit Collection artist series for iPhone 12 mini<br>
+</li>
+<li>Tough polymer clear protective case for maximum daily protection<br>
+</li>
+<li>Raised bezels designed to protect your iPhone 12 mini phone screen<br>
+</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul>
+<p class="Default"><span><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/ckzdxj2ze2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Mini</s:tag>
+    <s:tag>Brand_Apple</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Device_iPhone 12 mini</s:tag>
+    <s:tag>iPhone 12 Mini</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7127137321129</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>ED2452-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/7127136567465</id>
+    <published>2021-08-04T14:06:09-04:00</published>
+    <updated>2021-08-04T14:06:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/duplicate-iphone-12-12-pro-artist-case"/>
+    <title>Obsidian - iPhone 12 / 12 Pro Artist Case - C2453-01CU</title>
+    <s:type>EllowDee x Caseco</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/IP_11_12_12mini_2ndAngle_1_15997c20-bd12-40ee-9f8b-3b5fea2d9095.jpg?v=1628099410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>EllowDee x Caseco<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>I<span data-mce-fragment="1">n collaboration with artist Mandy Beaune of EllowDee</span>
+</li>
+<li>Abstract Geometric - Moonlit Collection artist series for iPhone 12 / 12 Pro<br>
+</li>
+<li>Tough polymer clear protective case for maximum daily protection<br>
+</li>
+<li>Raised bezels designed to protect your <span data-mce-fragment="1">iPhone 12 / 12 Pro</span> phone screen<br>
+</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul>
+<p class="Default"><span><iframe src="https://fast.wistia.net/embed/iframe/ckzdxj2ze2" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12/12 Pro</s:tag>
+    <s:tag>Brand_Apple</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Device_iPhone 12</s:tag>
+    <s:tag>Device_iPhone 12 6.1 Inch</s:tag>
+    <s:tag>iPhone 12/12 Pro</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7127136567465</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>ED2453-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/7127135977641</id>
+    <published>2021-08-04T14:06:08-04:00</published>
+    <updated>2021-08-04T14:06:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/duplicate-iphone-11-artist-case"/>
+    <title>Obsidian - iPhone 11 Artist Case - C2407-00CU</title>
+    <s:type>EllowDee x Caseco</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/IP_11_12_12mini_2ndAngle_1.jpg?v=1628099360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>EllowDee x Caseco<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>I<span data-mce-fragment="1">n collaboration with artist Mandy Beaune of EllowDee</span>
+</li>
+<li>Abstract Geometric - Moonlit Collection artist series for iPhone 11<br>
+</li>
+<li>Tough polymer clear protective case for maximum daily protection<br>
+</li>
+<li>Raised bezels designed to protect your iPhone 11 phone screen<br>
+</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul>
+<p class="Default"><span><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/ckzdxj2ze2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>11</s:tag>
+    <s:tag>Brand_Apple</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Device_iPhone 11</s:tag>
+    <s:tag>iPhone 11</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7127135977641</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>ED2407-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/7112699347113</id>
+    <published>2021-07-29T14:26:41-04:00</published>
+    <updated>2021-07-29T14:26:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/spring-flowers-samsung-a12-artist-case"/>
+    <title>Spring Flowers - Samsung A12 Artist Case - C2472-00BT</title>
+    <s:type>EllowDee x Caseco</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/SpringFlowers.jpg?v=1627583027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>EllowDee x Caseco<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>I<span data-mce-fragment="1">n collaboration with artist Amanda Beaune of EllowDee</span>
+</li>
+<li>Spring Flowers - Moonlit Collection artist series for Samsung A12<br>
+</li>
+<li>Tough polymer clear protective case for maximum daily protection<br>
+</li>
+<li>Raised bezels designed to protect your Samsung A12 phone screen<br>
+</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul>
+<p class="Default"><span><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/ckzdxj2ze2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A12</s:tag>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Device_Samsung A12</s:tag>
+    <s:tag>Samsung A12</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7112699347113</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>ED2472-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/7112682373289</id>
+    <published>2021-07-29T14:26:38-04:00</published>
+    <updated>2021-07-29T14:26:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/in-to-the-jungle-samsung-a12-artist-case"/>
+    <title>In to the Jungle - Samsung A12 Artist Case - C2472-00BE</title>
+    <s:type>EllowDee x Caseco</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Junglepattern.jpg?v=1628611678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>EllowDee x Caseco<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>I<span data-mce-fragment="1">n collaboration with artist Mandy Beaune of EllowDee</span>
+</li>
+<li>In to the Jungle - Moonlit Collection artist series for Samsung A12<br>
+</li>
+<li>Tough polymer clear protective case for maximum daily protection<br>
+</li>
+<li>Raised bezels designed to protect your Samsung A12 phone screen<br>
+</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul>
+<p class="Default"><span><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/ckzdxj2ze2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A12</s:tag>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Device_Samsung A12</s:tag>
+    <s:tag>Samsung A12</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7112682373289</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>ED2472-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/7112700952745</id>
+    <published>2021-07-29T14:26:31-04:00</published>
+    <updated>2021-07-29T14:26:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/day-break-samsung-a12-artist-case"/>
+    <title>Floral - Samsung A12 Artist Case</title>
+    <s:type>EllowDee x Caseco</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Daybreak_59306db1-1f24-4dbf-a7a7-79be6e15b252.jpg?v=1628878096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>EllowDee x Caseco<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>I<span data-mce-fragment="1">n collaboration with artist Mandy Beaune of EllowDee</span>
+</li>
+<li>Floral - Moonlit Collection artist series for Samsung A12<br>
+</li>
+<li>Tough polymer clear protective case for maximum daily protection<br>
+</li>
+<li>Raised bezels designed to protect your Samsung A12 phone screen<br>
+</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul>
+<p class="Default"><span><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/ckzdxj2ze2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A12</s:tag>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Device_Samsung A12</s:tag>
+    <s:tag>Samsung A12</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7112700952745</id>
+      <title>Day Break - C2472-00AN</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>ED2472-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7112700952745</id>
+      <title>In Bloom - C2472-00BD</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>ED2472-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/7112681554089</id>
+    <published>2021-07-29T14:26:26-04:00</published>
+    <updated>2021-07-29T14:26:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/citrus-samsung-a12-artist-case"/>
+    <title>Citrus - Samsung A12 Artist Case - C2472-00AK</title>
+    <s:type>EllowDee x Caseco</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Citrus.jpg?v=1627581560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>EllowDee x Caseco<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>I<span data-mce-fragment="1">n collaboration with artist Mandy Beaune of EllowDee</span>
+</li>
+<li>Citrus - Moonlit Collection artist series for Samsung A12<br>
+</li>
+<li>Tough polymer clear protective case for maximum daily protection<br>
+</li>
+<li>Raised bezels designed to protect your Samsung A12 phone screen<br>
+</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul>
+<p class="Default"><span><iframe src="https://fast.wistia.net/embed/iframe/ckzdxj2ze2" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A12</s:tag>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Device_Samsung A12</s:tag>
+    <s:tag>Samsung A12</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7112681554089</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>ED2472-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/7112679260329</id>
+    <published>2021-07-29T14:26:22-04:00</published>
+    <updated>2021-07-29T14:26:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/beau-samsung-a12-artist-case"/>
+    <title>Beau - Samsung A12 Artist Case - C2472-00AB</title>
+    <s:type>EllowDee x Caseco</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Rainbow_Beau_937337c1-65f7-4f6e-a927-ed1db6b03dc6.jpg?v=1627581335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>EllowDee x Caseco<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>I<span data-mce-fragment="1">n collaboration with artist Mandy Beaune of EllowDee</span>
+</li>
+<li>Beau - Moonlit Collection artist series for Samsung A12<br>
+</li>
+<li>Tough polymer clear protective case for maximum daily protection<br>
+</li>
+<li>Raised bezels designed to protect your Samsung A12 phone screen<br>
+</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul>
+<p class="Default"><span><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/ckzdxj2ze2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A12</s:tag>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Device_Samsung A12</s:tag>
+    <s:tag>Samsung A12</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7112679260329</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>ED2472-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/7112670904489</id>
+    <published>2021-07-29T14:26:15-04:00</published>
+    <updated>2021-07-29T14:26:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/abstract-geometric-samsung-a12-5g-artist-case"/>
+    <title>Abstract Geometric - Samsung A12 Artist Case - C2472-00AA</title>
+    <s:type>EllowDee x Caseco</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/AbstractGeometric.jpg?v=1627580573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>EllowDee x Caseco<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>I<span data-mce-fragment="1">n collaboration with artist Mandy Beaune of EllowDee</span>
+</li>
+<li>Abstract Geometric - Moonlit Collection artist series for Samsung A12<br>
+</li>
+<li>Tough polymer clear protective case for maximum daily protection<br>
+</li>
+<li>Raised bezels designed to protect your Samsung A12 phone screen<br>
+</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul>
+<p class="Default"><span><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/ckzdxj2ze2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>A12</s:tag>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Device_Samsung A12</s:tag>
+    <s:tag>Samsung A12</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7112670904489</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.99</s:price>
+      <s:sku>ED2472-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/7095949689001</id>
+    <published>2021-07-26T15:23:12-04:00</published>
+    <updated>2021-07-26T15:23:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/magsafe-coral-cotarie-iphone-12-pro-max-artist-case"/>
+    <title>MagSafe Coral Cotarie - iPhone 12 Pro Max Artist Case - C2454-44BZ</title>
+    <s:type>EllowDee x Caseco</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/IP_12pro_12promax_3rdAnglecoral.jpg?v=1626802477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>EllowDee x Caseco<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li><span>In collaboration with artist Mandy Beaune of EllowDee</span></li>
+<li>Coral Cotarie - Moonlit Collection artist series for iPhone 12 Pro Max</li>
+<li>iPhone 12 Pro Max Fremont MagSafe Case is designed for MagSafe Charger<br>
+</li>
+<li>Offers dual-layer protection to the phone</li>
+<li>Case offers built-in anti-yellowing UV protection and scratch-resistant coating.</li>
+<li>Raised bezels designed to protect your iPhone <span data-mce-fragment="1">12 Pro Max</span> phone screen</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul>
+<p class="Default"><span><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/ckzdxj2ze2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Pro Max</s:tag>
+    <s:tag>Brand_Apple</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Collection_Fremont MagSafe Case</s:tag>
+    <s:tag>Device_iPhone 12 Pro Max</s:tag>
+    <s:tag>iPhone 12 Pro Max</s:tag>
+    <s:tag>MagSafe Cases</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7095949689001</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>ED2454-44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/7095949590697</id>
+    <published>2021-07-26T15:23:11-04:00</published>
+    <updated>2021-07-26T15:23:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/magsafe-coral-cotarie-iphone-12-mini-artist-case"/>
+    <title>MagSafe Coral Cotarie - iPhone 12 mini Artist Case - C2452-44BZ</title>
+    <s:type>EllowDee x Caseco</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/IP_12pro_12promax_3rdAnglecoral2.jpg?v=1626802504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>EllowDee x Caseco<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<ul style="list-style: inside;">
+<li><span>In collaboration with artist Mandy Beaune of EllowDee</span></li>
+<li>Coral Cotarie - Moonlit Collection artist series for iPhone 12 mini</li>
+<li>iPhone 12 mini Fremont MagSafe Case is designed for MagSafe Charger<br>
+</li>
+<li>Offers dual-layer protection to the phone</li>
+<li>Case offers built-in anti-yellowing UV protection and scratch-resistant coating.</li>
+<li>Raised bezels designed to protect your iPhone <span data-mce-fragment="1">12 mini</span> phone screen</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul>
+</ul>
+<p class="Default"><span><iframe src="https://fast.wistia.net/embed/iframe/ckzdxj2ze2" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe></span></p>
+<p class="Default"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Mini</s:tag>
+    <s:tag>Brand_Apple</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Collection_Fremont MagSafe Case</s:tag>
+    <s:tag>Device_iPhone 12 mini</s:tag>
+    <s:tag>iPhone 12 Mini</s:tag>
+    <s:tag>MagSafe Cases</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7095949590697</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>ED2452-44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/7095949557929</id>
+    <published>2021-07-26T15:23:11-04:00</published>
+    <updated>2021-07-26T15:23:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/magsafe-coral-cotarie-iphone-12-12-pro-artist-case"/>
+    <title>MagSafe Coral Cotarie - iPhone 12 / 12 Pro Artist Case - C2453-44BZ</title>
+    <s:type>EllowDee x Caseco</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/IP_12pro_12promax_3rdAnglecoral_a4b8aa97-9913-4a93-9829-fa926d63466b.jpg?v=1626802499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>EllowDee x Caseco<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li><span>In collaboration with artist Mandy Beaune of EllowDee</span></li>
+<li>Coral Cotarie - Moonlit Collection artist series for iPhone 12 / 12 Pro</li>
+<li>iPhone 12 / 12 Pro Fremont MagSafe Case is designed for MagSafe Charger<br>
+</li>
+<li>Offers dual-layer protection to the phone</li>
+<li>Case offers built-in anti-yellowing UV protection and scratch-resistant coating.</li>
+<li>Raised bezels designed to protect your iPhone <span data-mce-fragment="1">12</span><span data-mce-fragment="1"> / 12 Pro</span> phone screen</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul>
+<p class="Default"><span><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/ckzdxj2ze2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12/12 Pro</s:tag>
+    <s:tag>Brand_Apple</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Collection_Fremont MagSafe Case</s:tag>
+    <s:tag>Device_iPhone 12</s:tag>
+    <s:tag>Device_iPhone 12 6.1 Inch</s:tag>
+    <s:tag>iPhone 12/12 Pro</s:tag>
+    <s:tag>MagSafe Cases</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7095949557929</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>ED2453-44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/7108083581097</id>
+    <published>2021-07-26T15:08:17-04:00</published>
+    <updated>2021-07-26T15:08:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/magsafe-blush-marble-iphone-12-mini-artist-case"/>
+    <title>MagSafe Marble - iPhone 12 mini Artist Case</title>
+    <s:type>EllowDee x Caseco</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/BlushMarble_2_b11ea650-62c6-45e4-bad6-6c8ab0f4d142.jpg?v=1628698294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>EllowDee x Caseco<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<ul style="list-style: inside;">
+<li><span>In collaboration with artist Mandy Beaune of EllowDee</span></li>
+<li>Marble Collection artist series for iPhone 12 mini</li>
+<li>iPhone 12 mini Fremont MagSafe Case is designed for MagSafe Charger<br>
+</li>
+<li>Offers dual-layer protection to the phone</li>
+<li>Case offers built-in anti-yellowing UV protection and scratch-resistant coating.</li>
+<li>Raised bezels designed to protect your iPhone <span data-mce-fragment="1">12 mini</span> phone screen</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul>
+</ul>
+<p class="Default"><span><iframe src="https://fast.wistia.net/embed/iframe/ckzdxj2ze2" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe></span></p>
+<p class="Default"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12 Mini</s:tag>
+    <s:tag>Brand_Apple</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Collection_Fremont Holographic</s:tag>
+    <s:tag>Collection_Fremont MagSafe Case</s:tag>
+    <s:tag>Device_iPhone 12 mini</s:tag>
+    <s:tag>iPhone 12 Mini</s:tag>
+    <s:tag>MagSafe Cases</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7108083581097</id>
+      <title>Blush - C2452-44CD</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>ED2452-44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7108083581097</id>
+      <title>Emerald - C2452-44CE</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>ED2452-44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7108083581097</id>
+      <title>Smokey - C2452-44CF</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>ED2452-44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7108083581097</id>
+      <title>Rouge - C2452-44DC</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>ED2452-44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/7108081778857</id>
+    <published>2021-07-26T15:07:43-04:00</published>
+    <updated>2021-07-26T15:07:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/magsafe-blush-marble-iphone-12-12-pro-artist-case"/>
+    <title>MagSafe Marble - iPhone 12 / 12 Pro Artist Case</title>
+    <s:type>EllowDee x Caseco</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/BlushMarble_3.jpg?v=1628697097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>EllowDee x Caseco<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li><span>In collaboration with artist Mandy Beaune of EllowDee</span></li>
+<li>Marble Collection artist series for iPhone 12 / 12 Pro</li>
+<li>iPhone 12 / 12 Pro Fremont MagSafe Case is designed for MagSafe Charger<br>
+</li>
+<li>Offers dual-layer protection to the phone</li>
+<li>Case offers built-in anti-yellowing UV protection and scratch-resistant coating.</li>
+<li>Raised bezels designed to protect your iPhone <span data-mce-fragment="1">12</span><span data-mce-fragment="1"> / 12 Pro</span> phone screen</li>
+<li>Precise cut for ports and buttons for a perfect fit</li>
+<li>Wireless charger and Magnetic car mount compatible</li>
+<li>Built with BPA-free and recyclable materials for ultimate protection</li>
+</ul>
+<p class="Default"><span><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/ckzdxj2ze2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12/12 Pro</s:tag>
+    <s:tag>Brand_Apple</s:tag>
+    <s:tag>Cases</s:tag>
+    <s:tag>Collection_Fremont Holographic</s:tag>
+    <s:tag>Collection_Fremont MagSafe Case</s:tag>
+    <s:tag>Device_iPhone 12</s:tag>
+    <s:tag>Device_iPhone 12 6.1 Inch</s:tag>
+    <s:tag>iPhone 12/12 Pro</s:tag>
+    <s:tag>MagSafe Cases</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7108081778857</id>
+      <title>Blush - C2453-44CD</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>ED2453-44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7108081778857</id>
+      <title>Emerald - C2453-44CE</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>ED2453-44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7108081778857</id>
+      <title>Smokey - C2453-44CF</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>ED2453-44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/7108081778857</id>
+      <title>Rouge - C2453-44DC</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>ED2453-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

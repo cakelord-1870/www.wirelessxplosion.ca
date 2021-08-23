@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wirelessxplosion.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wirelessxplosion.ca/collections/mount-accessories.atom"/>
+  <title>Wireless Xplosion Ltd</title>
+  <updated>2018-05-24T18:33:11-04:00</updated>
+  <author>
+    <name>Wireless Xplosion Ltd</name>
+  </author>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375327256694</id>
+    <published>2018-05-24T18:33:11-04:00</published>
+    <updated>2018-05-24T18:33:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/core-360-metal-discs-2-pcs"/>
+    <title>Core 360 Metal Discs - 2 Pack</title>
+    <s:type>Car Mount Accessories</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/CC-Metal-Ring-02.jpg?v=1571715717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Car Mount Accessories<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Features:</strong></p>
+<ul style="list-style:unset;">
+<li>Can be easily installed directly onto your smartphone or smartphone case to work with magnetic mounting systems of a compatible car mount holder.</li>
+<li>Have a strong and powerful adhesive to keep your phones in place and secure while driving and enjoying the way</li>
+<li>Compatible with both Core 360 and Mountie car dash mount holders.</li>
+</ul>
+<p><strong></strong><br></p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mounts</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375327256694</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>CC-CR360-DK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375327027318</id>
+    <published>2018-05-24T18:33:10-04:00</published>
+    <updated>2018-05-24T18:33:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/core-360-accessory-3m-vhb-adhesive-2pc"/>
+    <title>Core 360 Accessory - 3M VHB Adhesive - 2 Pack</title>
+    <s:type>Car Mount Accessories</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/adhesive_59a0c016-832c-45b4-84f1-ac0bc92c635a.jpg?v=1571715717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Car Mount Accessories<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Features:</strong></p>
+<ul>
+<li>Can be easily installed directly onto your Core 360 and Mountie car dash mount holders with its strong and powerful adhesive feature which keeps your phones in place and secure while driving and enjoying the way.</li>
+<li>Compatible with both Core 360 and Mountie car dash mount holders.</li>
+<li>Can also be used if you want to relocate your car dash mount.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Mounts</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375327027318</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>CC-CR360-ADH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

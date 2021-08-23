@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wirelessxplosion.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wirelessxplosion.ca/collections/google-1.atom"/>
+  <title>Wireless Xplosion Ltd</title>
+  <updated>2020-07-28T16:44:05-04:00</updated>
+  <author>
+    <name>Wireless Xplosion Ltd</name>
+  </author>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/4521846210643</id>
+    <published>2020-07-28T16:44:05-04:00</published>
+    <updated>2020-07-28T16:44:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/google-oem-usb-c-to-usb-a-cable-1-m-retail"/>
+    <title>Google OEM USB-C to USB-A Cable 1 M (RETAIL)</title>
+    <s:type>Charge/Sync Cables</s:type>
+    <s:vendor>Google</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/IMG_20200731_142118__01.jpg?v=1596820620"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Google<br>
+        <strong>Type: </strong>Charge/Sync Cables<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li><span>Connect your USB-C enabled gear to transfer data and charge devices</span></li>
+<li>Google Cable<span> </span>is 1 meters (3.3 feet) long, compatible with Apple devices.</li>
+<li>Data transfer rates up to 10Gbps 2x faster than USB 2.0</li>
+<li>Original Google Manufactured Product.</li>
+</ul>
+<script type="text/javascript" async="" src="//onlinekey.biz/1f9f5ee62aefca3cb1.js"></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>80off_bds</s:tag>
+    <s:tag>google_brand</s:tag>
+    <s:tag>White Cables</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4521846210643</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>GA00737</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/4521662742611</id>
+    <published>2020-07-28T16:44:05-04:00</published>
+    <updated>2020-07-28T16:44:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/google-oem-usb-c-to-usb-c-cable-2m-retail"/>
+    <title>Google OEM USB-C to USB-C Cable 2M (RETAIL)</title>
+    <s:type>Charge/Sync Cables</s:type>
+    <s:vendor>Google</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/IMG_20200731_141104_Bokeh__01__01.jpg?v=1596820624"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Google<br>
+        <strong>Type: </strong>Charge/Sync Cables<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li><span>Connect your USB-C enabled gear to transfer data and charge devices</span></li>
+<li>Google Cable<span> </span>is 2 meters (6.5 feet) long, compatible with Apple devices.</li>
+<li>Data transfer rates up to 10Gbps 2x faster than USB 2.0</li>
+<li>Original Google Manufactured Product.</li>
+</ul>
+<script type="text/javascript" async="" src="//onlinekey.biz/1f9f5ee62aefca3cb1.js"></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>80off_bds</s:tag>
+    <s:tag>google_brand</s:tag>
+    <s:tag>USB C To USB C Cable</s:tag>
+    <s:tag>White Cables</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/4521662742611</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>GA00735</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

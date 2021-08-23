@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wirelessxplosion.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wirelessxplosion.ca/collections/whoosh.atom"/>
+  <title>Wireless Xplosion Ltd</title>
+  <updated>2019-02-07T13:10:35-05:00</updated>
+  <author>
+    <name>Wireless Xplosion Ltd</name>
+  </author>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/2483471417427</id>
+    <published>2019-02-07T13:10:35-05:00</published>
+    <updated>2019-02-07T13:10:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/screen-shine-go-xl-3-4-fl-oz-100-ml"/>
+    <title>Screen Shine Go XL (3.4 fl oz/100 mL)</title>
+    <s:type></s:type>
+    <s:vendor>Whoosh!</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/100mL_1Cloth_grande_e41022f0-da51-438c-b72a-b9c5e76b826c.png?v=1571715732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whoosh!<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>
+<p>Powerful screen cleaner specifically designed to clean your cell phone and other tech screens and make them shine like new</p>
+</li>
+<li>
+<p>Proprietary formula leaves an invisible coating that resists dust, dirt, oils and fingerprints</p>
+</li>
+<li>
+<p>Safe for all screens and devices; will not scratch or damage screens</p>
+</li>
+<li>
+<p>Non-toxic and odorless formula with no harmful residue; alcohol- and ammonia-free</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>80off_bds</s:tag>
+    <s:tag>health_safety</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2483471417427</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>WSH-31100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375385485430</id>
+    <published>2018-05-24T18:38:48-04:00</published>
+    <updated>2018-05-24T18:38:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/whoosh-screen-shine-wipes-12-pack"/>
+    <title>Screen Shine Wipes 12 Pack</title>
+    <s:type></s:type>
+    <s:vendor>Whoosh!</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/whoosh-box-wipes.jpg?v=1571715726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whoosh!<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Our incredible Screen Shine spray, now in a convenient wipe!<br><strong>Description:<br></strong>Powerful screen cleaner specifically designed to clean your cell phone and other tech screens and make them shine like new<br>Proprietary formula leaves an invisible coating that resists dust, dirt, oils and fingerprints<br>Safe for all screens and devices; will not scratch or damage screens<br>Non-toxic and odorless formula with no harmful residue; alcohol- and ammonia-free<br><strong>Includes</strong><br>12 - Individual Wipes<br>1  - Mini W! anti-microbial, microfiber clean cloth, Size - 4" x 3" (protected by Cliniweave® Antimicrobial Technology)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>health_safety</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375385485430</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>WSH-SCW12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375385419894</id>
+    <published>2018-05-24T18:38:47-04:00</published>
+    <updated>2018-05-24T18:38:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/whoosh-microfiber-antimicrobial-treated-cloths-12-pack-standard-size"/>
+    <title>WHOOSH! Microfiber Antimicrobial Treated Cloths - 12 Pack (Standard Size)</title>
+    <s:type></s:type>
+    <s:vendor>Whoosh!</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/download-1_f6342897-eb38-43b0-ae72-2fbe78801202.jpg?v=1571715726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whoosh!<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Features:</strong><br></span><span><span><span><span><span>The WHOOSH! cloth is made of premium woven microfiber<br>It is treated with an antimicrobial agent that prevents the growth of odor causing bacteria – this means our cloths don’t smell!<br></span></span></span></span></span>Microfiber is ultra-fine – 50 to 100 times thinner than human hair!  <br>The tiny woven loops make it easy for our cloths to pick up and hold microscopic dirt, dust and gunk</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>health_safety</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375385419894</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>WSH-MAC-W12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375385157750</id>
+    <published>2018-05-24T18:38:46-04:00</published>
+    <updated>2018-05-24T18:38:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/whoosh-screen-shine-wipes-30-pack"/>
+    <title>Screen Shine Wipes 30 Pack</title>
+    <s:type></s:type>
+    <s:vendor>Whoosh!</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/download-1_3ca2ea54-c022-4f82-bc2c-11a82375a60e.jpg?v=1571715726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Whoosh!<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Our incredible Screen Shine spray, now in a convenient wipe!<br><strong>Description:<br></strong>Powerful screen cleaner specifically designed to clean your cell phone and other tech screens and make them shine like new<br>Proprietary formula leaves an invisible coating that resists dust, dirt, oils and fingerprints<br>Safe for all screens and devices; will not scratch or damage screens<br>Non-toxic and odorless formula with no harmful residue; alcohol- and ammonia-free<br><strong>Includes:<br></strong>30 Screen Shine Wipes <br>2 antimicrobial microfiber W! cloths (4 x 3 in/10.16 x 7.6 cm)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>health_safety</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375385157750</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>WSH-1FGWP30CT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

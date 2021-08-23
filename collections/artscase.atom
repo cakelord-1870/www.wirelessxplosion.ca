@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wirelessxplosion.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wirelessxplosion.ca/collections/artscase.atom"/>
+  <title>Wireless Xplosion Ltd</title>
+  <updated>2018-05-24T18:36:39-04:00</updated>
+  <author>
+    <name>Wireless Xplosion Ltd</name>
+  </author>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375363793014</id>
+    <published>2018-05-24T18:36:39-04:00</published>
+    <updated>2018-05-24T18:36:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/artscase-strongfit-iphone-6s-california-republic-state"/>
+    <title>StrongFit Case - iPhone 6S &amp; 6 - California Republic State</title>
+    <s:type></s:type>
+    <s:vendor>ArtsCase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/ac1343482.jpg?v=1571715723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ArtsCase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Arts Your Case Series working in collaboration with designers from different countries bringing exclusive designs to make your device look stunning and more like you. Introducing the StrongFit Series Case as the beginning of the next generation on custom cases. With the best technology for the printing process, the design you choose will cover even the sides of your case providing a 3D effect.</p>
+<p><strong>Two layers of protection˸</strong></p>
+<ul style="list-style: inside;">
+<li>Durable silicon to absorb shocks and bumps.</li>
+<li>Hard polycarbonate shell with the sublimation of the design you have chosen.</li>
+</ul>
+<p>This case protects without increasing the size and weight of your device.</p>
+<p>The custom made hole for the camera does not interfere with the flash and lens.</p>
+<p>It design enables total access to controls and ports.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cases</s:tag>
+    <s:tag>Device_iPhone 6S &amp; 6</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375363793014</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>iP6-AC1343482</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375363727478</id>
+    <published>2018-05-24T18:36:39-04:00</published>
+    <updated>2018-05-24T18:36:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/artscase-strongfit-iphone-6s-put-your-glasses-on"/>
+    <title>StrongFit Case - iPhone 6S &amp; 6 - Put your Glasses On</title>
+    <s:type></s:type>
+    <s:vendor>ArtsCase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/ac1343335.jpg?v=1571715723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ArtsCase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Arts Your Case Series working in collaboration with designers from different countries bringing exclusive designs to make your device look stunning and more like you. Introducing the StrongFit Series Case as the beginning of the next generation on custom cases. With the best technology for the printing process, the design you choose will cover even the sides of your case providing a 3D effect.</p>
+<p><strong>Two layers of protection˸</strong></p>
+<ul style="list-style: inside;">
+<li>Durable silicon to absorb shocks and bumps.</li>
+<li>Hard polycarbonate shell with the sublimation of the design you have chosen.</li>
+</ul>
+<p>This case protects without increasing the size and weight of your device.</p>
+<p>The custom made hole for the camera does not interfere with the flash and lens.</p>
+<p>It design enables total access to controls and ports.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cases</s:tag>
+    <s:tag>Device_iPhone 6S &amp; 6</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375363727478</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>iP6-AC1343335</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375363694710</id>
+    <published>2018-05-24T18:36:38-04:00</published>
+    <updated>2018-05-24T18:36:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/artscase-strong-fit-designer-case-by-dan-monteavaro-for-iphone-5-5s-chicken-prize-ac1334243"/>
+    <title>Strong Fit - iPhone SE &amp; 5S - Chicken Prize</title>
+    <s:type></s:type>
+    <s:vendor>ArtsCase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/ac1334243-1.jpg?v=1571715723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ArtsCase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Arts Your Case Series working in collaboration with designers from different countries bringing exclusive designs to make your device look stunning and more like you. Introducing the StrongFit Series Case as the beginning of the next generation on custom cases. With the best technology for the printing process, the design you choose will cover even the sides of your case providing a 3D effect.</p>
+<p><strong>Two layers of protection˸</strong></p>
+<ul style="list-style: inside;">
+<li>Durable silicon to absorb shocks and bumps.</li>
+<li>Hard polycarbonate shell with the sublimation of the design you have chosen.</li>
+</ul>
+<p>This case protects without increasing the size and weight of your device.</p>
+<p>The custom made hole for the camera does not interfere with the flash and lens.</p>
+<p>It design enables total access to controls and ports.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cases</s:tag>
+    <s:tag>Device_iPhone SE &amp; 5S</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375363694710</id>
+      <title>Case</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>iP5S-AC1334243</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375363629174</id>
+    <published>2018-05-24T18:36:38-04:00</published>
+    <updated>2018-05-24T18:36:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/artscase-strong-fit-designer-case-by-maria-teresa-canepa-for-iphone-5-5s-festin-ac1334202"/>
+    <title>Strong Fit - iPhone SE &amp; 5S - Festin</title>
+    <s:type></s:type>
+    <s:vendor>ArtsCase</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/ac1334202-1.jpg?v=1571715723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ArtsCase<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Arts Your Case Series working in collaboration with designers from different countries bringing exclusive designs to make your device look stunning and more like you. Introducing the StrongFit Series Case as the beginning of the next generation on custom cases. With the best technology for the printing process, the design you choose will cover even the sides of your case providing a 3D effect.</p>
+<p><strong>Two layers of protection˸</strong></p>
+<ul style="list-style: inside;">
+<li>Durable silicon to absorb shocks and bumps.</li>
+<li>Hard polycarbonate shell with the sublimation of the design you have chosen.</li>
+</ul>
+<p>This case protects without increasing the size and weight of your device.</p>
+<p>The custom made hole for the camera does not interfere with the flash and lens.</p>
+<p>It design enables total access to controls and ports.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cases</s:tag>
+    <s:tag>Device_iPhone SE &amp; 5S</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375363629174</id>
+      <title>Case</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>iP5S-AC1334202</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wirelessxplosion.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wirelessxplosion.ca/collections/unlocked-android-tablets.atom"/>
+  <title>Wireless Xplosion Ltd</title>
+  <updated>2021-06-24T13:01:27-04:00</updated>
+  <author>
+    <name>Wireless Xplosion Ltd</name>
+  </author>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/6995601752233</id>
+    <published>2021-06-24T13:01:27-04:00</published>
+    <updated>2021-06-24T13:01:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/samsung-galaxy-tab-a7-a-plus-condition-1"/>
+    <title>Samsung Galaxy Tab A (SM-T290) - A Plus Condition</title>
+    <s:type>Phone</s:type>
+    <s:vendor>Samsung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/SamsungGalaxyTabA20198.0.3_1200x_e9e0ef82-967a-44d0-85c8-fe15bf1f25dd.jpg?v=1621544718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samsung<br>
+        <strong>Type: </strong>Phone<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: left;" data-mce-style="text-align: left;">
+<div style="text-align: left;" data-mce-style="text-align: left;"><span style="color: #ff0000;" data-mce-style="color: #ff0000;"><strong>PHONE ORDERS ARE NOT ELIGIBLE FOR FREE GIFTS!</strong></span></div>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li>Samsung Original Packaging<br>
+</li>
+<li>Includes cable and wall charger</li>
+<li><span>30-Day Limited Repair Warranty from the invoice date.</span></li>
+<li>15-Day Return Policy</li>
+<li>Warranty Disclaimer : icloud lock, master lock , password lock, google lock not be excepted so please check your tabs when you receive them and let us know in 72 hours . After that we will not accept it</li>
+</ul>
+<p><strong>Payment Mode</strong><span> : 2% credit card will be applied, email money transfer no charge</span></p>
+</div>
+<ul class="a-unordered-list a-vertical a-spacing-none"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Brand_Apple</s:tag>
+    <s:tag>Unlocked Android Tablets</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/6995601752233</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">135.00</s:price>
+      <s:sku>PH-SM-TABA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

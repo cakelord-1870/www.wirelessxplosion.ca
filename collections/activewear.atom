@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wirelessxplosion.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wirelessxplosion.ca/collections/activewear.atom"/>
+  <title>Wireless Xplosion Ltd</title>
+  <updated>2018-05-24T18:34:43-04:00</updated>
+  <author>
+    <name>Wireless Xplosion Ltd</name>
+  </author>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375343444086</id>
+    <published>2018-05-24T18:34:43-04:00</published>
+    <updated>2018-05-24T18:34:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/iphone-armband-sleve-runfree"/>
+    <title>iPhone Armband Sleeve - Runfree</title>
+    <s:type>Activewear</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/armband_1.jpg?v=1571715719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Activewear<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>iPhone Armband sleeve provides a compartment to put your phone, house key, credit cards when you go for a run.</li>
+<li>Armband has a 4 corner coverage to plug into to the headphone port at different place in difference phone models.</li>
+<li>Amrband Sleeve retains the touch sensitivity and provides a clear window for touch screen operations.</li>
+<li>Enjoy tangle free earphone cords during travel by tucking them underneath the velcro strap.</li>
+<li>Compatible with iPhone 11, 11 Pro, 11 Pro Max, SE 2nd Gen, XR, XS, X, 8 , 7, 8 Plus, 7 Plus, 6 ,5.</li>
+</ul>
+<br><strong>Features &amp; Specifications</strong>
+<ul style="list-style: inside;">
+<li>Washable material</li>
+<li>Id card &amp; Key holder</li>
+<li>Earphone cord holder</li>
+<li>Clear front for protection</li>
+<li>Light Weight<strong> <br></strong>
+</li>
+</ul>
+<iframe width="560" height="315" src="https://youtu.be/OPeN0XmQCLI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>armband_sleve</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375343444086</id>
+      <title>Black</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>CC-RF-BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375343444086</id>
+      <title>Orange</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>CC-RF-OR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375320506486</id>
+    <published>2018-05-24T18:32:33-04:00</published>
+    <updated>2018-05-24T18:32:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/activewear-bluetooth-headband"/>
+    <title>Activewear - Bluetooth Headband</title>
+    <s:type>Activewear</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/headband-black.png?v=1571715716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Activewear<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="Default"><strong>Features:</strong><br>Soft Moisture-wicking stretchy Fabric.<br>Machine Washable with the removable Bluetooth module.<br>60 Hours of standby, 5 hours of Playtime &amp; 2 Hours charging.<br>Advanced Bluetooth 4.2 version</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375320506486</id>
+      <title>Black</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>CC-AWHB-BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375320506486</id>
+      <title>Pink</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>CC-AWHB-PK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375320178806</id>
+    <published>2018-05-24T18:32:32-04:00</published>
+    <updated>2018-05-24T18:32:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/sports-kit-bluetooth-headband-armband-pink-black"/>
+    <title>Sports Kit - Bluetooth Headband &amp; Armband - Pink</title>
+    <s:type>Activewear</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/headband-pink_e820bd0d-86f5-47e4-a534-12f488f68667.jpg?v=1571715716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Activewear<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Are you going for an exercise such as yoga, training, running, workout, racing,jogging, dog walking, basketball, tennis, and football, and you are contemplating how you will listen to quality audios while walking out? Then theCaseco sports kit - Bluetooth headband &amp; armbandis all you need to get you going. This Bluetooth headband and armband is a perfect choice for your sporting activities. The product absorbs sweat quickly and has a creative ear warmer with wireless Bluetooth speaker.<br><strong>Headband Features &amp; Specifications:<br></strong>Fast and easy wireless Bluetooth pairing with your iPhones, iPad,android  smartphone, tablet, etc.<br>Good stereo sound quality<br>Durable battery life, supporting USB charging<br>Headset with microphone, small control panel handling Siri, calls, turn on/off, volume,etc.,<br>Hands free and wires free<br>Machine Washable with the removable Bluetooth module<br>60 Hours of standby, 5 hours of Playtime &amp; 2 Hours charging<br>Embedded Stereo Speakers snugly fit on both ears<br>Soft Moisture-wicking stretchy Fabric<strong> <br></strong>The product is perfect for all Bluetooth enabled devices. The quality and the unique features will provide you with an exciting sporting experience.<br><strong>Armband Features:<br>Utility In Action</strong><br>“Run Free” with the Runfree Armband. No more worrying about where to put your phone, where to put your house key, or where to put your debit card when you go out for a run. Runfree is your new running buddy.<br><strong>Four-corner Coverage</strong><br>Every phone has the headphone port in a different place. With a hole in each corner, you don’t have to worry about it. Just use the nearest hole for your headphones, and away you go!<br><strong>Clear Front for Protection</strong><br>We’ve given you a serious window for your serious touchscreen. If you need to respond to your messages, you can use your touchscreen through the clear front. No muss, no fuss.<br><strong>Earphone Cord Holder</strong><br>Your earphone/headphone cable doesn’t need to wiggle and waggle this way and that way, just tuck it in underneath the velcro strap. Presto.<br><strong>Safety First</strong><br>Your safety means a lot to us, and we made sure you would be safe with Run free. Without being distracted by your phone in your hand, you are free to focus on the ground beneath your feet. Plus, your phone is safe too. You’ll never have to worry again about your phone taking a skydive out of your hand or your pocket. Run free!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375320178806</id>
+      <title>Pink</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>CC-43451</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

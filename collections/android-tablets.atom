@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wirelessxplosion.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wirelessxplosion.ca/collections/android-tablets.atom"/>
+  <title>Wireless Xplosion Ltd</title>
+  <updated>2020-08-19T15:33:39-04:00</updated>
+  <author>
+    <name>Wireless Xplosion Ltd</name>
+  </author>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/3937411956819</id>
+    <published>2020-08-19T15:33:39-04:00</published>
+    <updated>2020-08-19T15:33:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/screen-patrol-tempered-glass-samsung-tab-a-10-12019"/>
+    <title>Samsung Tab A 8.0&quot;(2018) - Screen Patrol - Tempered Glass</title>
+    <s:type>Screen Patrol Tablet</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Car_Charger_pulse_-Mockup_f16d6dc7-b7ff-4234-8eb2-835f86937337.jpg?v=1571715743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Screen Patrol Tablet<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li><span>Screen Patrol Tempered glass protector is specifically designed for the<span><span> Samsung Tab A 8"(2018)</span></span> </span></li>
+<li>Tempered Glass Screen Protector offers 9H screen hardness Glass.</li>
+<li>Screen Patrol's top layer takes scratch-resistance to a new level. </li>
+<li>Touch-responsiveness guarantee hassle-free access and no delay.</li>
+<li>Extreme clarity preserves the original screen brightness.</li>
+<li>The oleophobic coating keeps fingerprints off your screen by repelling any and all oils. </li>
+<li>Compatible with<span> Samsung Tab A 8"(2018)</span> Case [Case-friendly]</li>
+</ul>
+<p><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/qavq608cgj" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android Tablet</s:tag>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Type_Tablets</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/3937411956819</id>
+      <title>TG</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>C4105-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/2478564638803</id>
+    <published>2018-05-24T18:35:36-04:00</published>
+    <updated>2018-05-24T18:35:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/screen-patrol-tempered-glass-samsung-tab-e-9-6-inches"/>
+    <title>Samsung Tab E 9.6 Inches - Screen Patrol - Tempered Glass</title>
+    <s:type>Screen Patrol Tablet</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Car_Charger_pulse_-Mockup_44a97bf8-387d-48ab-b1fd-29e3166aec8c.jpg?v=1571715732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Screen Patrol Tablet<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li><span>Screen Patrol Tempered glass protector is specifically designed for the<span><span><span> Samsung Tab E 9.6 Inches</span></span></span> : Model<span> (SM-T560, SM-T561)</span></span></li>
+<li>Tempered Glass Screen Protector offers 9H screen hardness Glass.</li>
+<li>Screen Patrol's top layer takes scratch-resistance to a new level. </li>
+<li>Touch-responsiveness guarantee hassle-free access and no delay.</li>
+<li>Extreme clarity preserves the original screen brightness.</li>
+<li>The oleophobic coating keeps fingerprints off your screen by repelling any and all oils. </li>
+<li>Compatible with<span><span> Samsung Tab E 9.6 Inches</span></span> Case [Case-friendly]</li>
+</ul>
+<p><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/qavq608cgj" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android Tablet</s:tag>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Type_Tablets</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/2478564638803</id>
+      <title>TG</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>C4196-00</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375352750198</id>
+    <published>2018-05-24T18:35:36-04:00</published>
+    <updated>2018-05-24T18:35:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/screen-patrol-tempered-glass-samsung-tab-s2"/>
+    <title>Samsung Tab S2 9.7 Inches - Screen Patrol - Tempered Glass</title>
+    <s:type>Screen Patrol Tablet</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Car_Charger_pulse_-Mockup_0f5d2a6a-0ac6-4f38-a44e-9364127c3523.jpg?v=1571715722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Screen Patrol Tablet<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li><span>Screen Patrol Tempered glass protector is specifically designed for the<span> Samsung Tab S2 9.7</span> Inches : Model<span> (SM-T810, SM-T815, SM-T813N, SM-T819N, SM-T819, SM-T813, SM-T815Y)</span></span></li>
+<li>Tempered Glass Screen Protector offers 9H screen hardness Glass.</li>
+<li>Screen Patrol's top layer takes scratch-resistance to a new level. </li>
+<li>Touch-responsiveness guarantee hassle-free access and no delay.</li>
+<li>Extreme clarity preserves the original screen brightness.</li>
+<li>The oleophobic coating keeps fingerprints off your screen by repelling any and all oils. </li>
+<li>Compatible with Samsung Tab S2 9.7 Inches Case [Case-friendly]</li>
+</ul>
+<p><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/qavq608cgj" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android Tablet</s:tag>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Type_Tablets</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375352750198</id>
+      <title>TG</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>CC-SP-STS2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375352717430</id>
+    <published>2018-05-24T18:35:36-04:00</published>
+    <updated>2018-05-24T18:35:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/screen-patrol-tempered-glass-samsung-tab-e-8"/>
+    <title>Samsung Tab E 8 Inches - Screen Patrol - Tempered Glass</title>
+    <s:type>Screen Patrol Tablet</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/Car_Charger_pulse_-Mockup_ee7ce457-40d8-4ee8-b585-6cec92f00bde.jpg?v=1571715722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Screen Patrol Tablet<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li><span>Screen Patrol Tempered glass protector is specifically designed for the Samsung Tab E 8 Inches : Model (SM-T377W, SM-T377, SM-T375, SM-T377P, SM-T377R)</span></li>
+<li>Tempered Glass Screen Protector offers 9H screen hardness Glass.</li>
+<li>Screen Patrol's top layer takes scratch-resistance to a new level. </li>
+<li>Touch-responsiveness guarantee hassle-free access and no delay.</li>
+<li>Extreme clarity preserves the original screen brightness.</li>
+<li>The oleophobic coating keeps fingerprints off your screen by repelling any and all oils. </li>
+<li>Compatible with  Samsung Tab E 8 Inches Case [Case-friendly]</li>
+</ul>
+<p><iframe width="560" height="315" src="https://fast.wistia.net/embed/iframe/qavq608cgj" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android Tablet</s:tag>
+    <s:tag>Brand_Samsung</s:tag>
+    <s:tag>Type_Tablets</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375352717430</id>
+      <title>TG</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku>CC-SP-STBE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375351767158</id>
+    <published>2018-05-24T18:35:31-04:00</published>
+    <updated>2018-05-24T18:35:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/screen-patrol-tempered-glass-nintendo-switch"/>
+    <title>Nintendo Switch - Screen Patrol - Tempered Glass</title>
+    <s:type>Screen Patrol Tablet</s:type>
+    <s:vendor>Caseco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/sku_461554_1.jpg?v=1571715721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Caseco<br>
+        <strong>Type: </strong>Screen Patrol Tablet<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul style="list-style: inside;">
+<li>Nintendo Switch Tempered Glass Screen Protector offers 9H screen hardness Glass</li>
+<li>Screen Patrol's top layer takes scratch-resistance to a new level. With a 9H hardness rating, Screen Patrol cannot be scratched by knives or keys.</li>
+<li>Touch-responsiveness guarantee hassle-free access and no delay</li>
+<li>Extreme clarity preserves the original screen brightness</li>
+<li>The oleophobic coating keeps fingerprints off your screen by repelling any and all oils. Cleaning your screen just got way easier.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android Tablet</s:tag>
+    <s:tag>Brand_Nintendo</s:tag>
+    <s:tag>Type_Tablets</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375351767158</id>
+      <title>TG</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>CC-SP-NTSW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

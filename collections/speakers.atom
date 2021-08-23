@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wirelessxplosion.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wirelessxplosion.ca/collections/speakers.atom"/>
+  <title>Wireless Xplosion Ltd</title>
+  <updated>2018-05-24T18:37:56-04:00</updated>
+  <author>
+    <name>Wireless Xplosion Ltd</name>
+  </author>
+  <entry>
+    <id>https://www.wirelessxplosion.ca/products/1375376081014</id>
+    <published>2018-05-24T18:37:56-04:00</published>
+    <updated>2018-05-24T18:37:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wirelessxplosion.ca/products/orbit-true-wireless-stereo-speakers-with-charging-dock-by-rockstone-audio"/>
+    <title>ORBIT True Wireless Stereo Speakers with Charging Dock</title>
+    <s:type>Speakers</s:type>
+    <s:vendor>Rockstone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0024/0428/6582/products/orbit-mockup-grey.jpg?v=1571715724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rockstone<br>
+        <strong>Type: </strong>Speakers<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>ORBIT by Rockstone Audio offers you the latest audio technology with left and right stereo sound for a comfortable listening experience. We have made sure to use the highest quality material to provide you with a stylish, durable, portable and lightweight speaker. You can rest assured that the ultra-loud 3W speaker is protected by the heavy-duty aluminum body. With Dual microphone in the speakers, you will never miss a call when your phone is out of reach as you can receive calls from the speaker itself. For your convenience, we have included a charging dock so you can charge both your speakers at the same time.<br><strong>Features:</strong><br>Upto 3 hours playtime<br>True wireless stereo <br>Frequency Response: 20HZ-20KHZ<br>Total Harmonic Distortion: &lt;1%<br>Signal-to-noise Ratio: 80DB<br>Speaker Parameter: 6W (3W each)<br>Diameter: 36mm<br>Battery Size (each): 3.7V/400mAh<br>Bluetooth Version: V4.2<br>Product Weight: 70g<br><strong>Package Content:</strong> 2 Speakers, 1 Base and Micro USB Cable.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>80off_bds</s:tag>
+    <s:tag>Audio</s:tag>
+    <s:tag>BF</s:tag>
+    <s:tag>Speakers</s:tag>
+    <s:tag>Type_Speaker</s:tag>
+    <s:variant>
+      <id>https://www.wirelessxplosion.ca/products/1375376081014</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>RS-OB-BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
